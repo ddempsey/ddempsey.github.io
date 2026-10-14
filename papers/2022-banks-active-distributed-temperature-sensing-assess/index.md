@@ -5,7 +5,7 @@
 - **Publisher:** Elsevier BV
 - **DOI (version of record):** [https://doi.org/10.1016/j.jhydrol.2022.128667](https://doi.org/10.1016/j.jhydrol.2022.128667)
 - **This page:** https://ddempsey.github.io/papers/2022-banks-active-distributed-temperature-sensing-assess/
-- **Open copy (accepted manuscript, UC Research Repository):** https://hdl.handle.net/10092/105673
+- **Open copy:** none posted yet; use the DOI.
 - **BibTeX:** https://ddempsey.github.io/papers/2022-banks-active-distributed-temperature-sensing-assess/citation.bib
 - **Topics:** Groundwater & hydrology
 - **Keywords:** Geology; Groundwater; Hydrology (agriculture); Surface water
