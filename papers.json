@@ -1455,7 +1455,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": null,
    "bibtex": "https://ddempsey.github.io/papers/2015-dempsey-numerical-modeling-injection-stress-permeability/citation.bib",
-   "summary": null,
+   "summary": "In 2010, cold water injected below the pressure that opens fractures raised the injectivity of well 27-15 at Desert Peak by an order of magnitude. Our model suggests cooling, and the stresses it caused, kept fractures failing where overpressure was too low. Pressure was still needed to push water in.",
    "topics": [
     "Induced seismicity & faults",
     "Geothermal systems"
@@ -1508,7 +1508,7 @@
    "open_copy_elsewhere": "https://hdl.handle.net/10092/107537",
    "fulltext_markdown": "https://ddempsey.github.io/papers/2014-dempsey-passive-injection-strategy-mitigating-reservoir/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2014-dempsey-passive-injection-strategy-mitigating-reservoir/citation.bib",
-   "summary": null,
+   "summary": "We propose passive injection, in which pumping brine out of a reservoir draws CO2 in without raising reservoir pressure. In our models, a closed reservoir 3 km deep stored up to about 4 million tonnes of CO2 a year, with about 1.7 tonnes of brine produced per tonne stored.",
    "topics": [
     "Induced seismicity & faults",
     "CO2 & hydrogen storage"
