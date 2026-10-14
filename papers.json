@@ -812,7 +812,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2023-ardid-template-matching-detect-hidden-fluid/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2023-ardid-template-matching-detect-hidden-fluid/citation.bib",
-   "summary": null,
+   "summary": "We searched Ruapehu seismic data from 2006 to 2021 for a tremor pattern seen before the 2019 Whakaari eruption. We then looked for a tremor peak and exponential decay after each match. Six events passed, including a 2009 event that we classify as a fluid release into the crater lake.",
    "topics": [
     "Volcanoes & eruption forecasting",
     "Induced seismicity & faults",
@@ -873,7 +873,7 @@
    "open_copy_elsewhere": "https://hdl.handle.net/10092/105667",
    "fulltext_markdown": "https://ddempsey.github.io/papers/2023-steinke-identification-seismo-volcanic-regimes-whakaari/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2023-steinke-identification-seismo-volcanic-regimes-whakaari/citation.bib",
-   "summary": null,
+   "summary": "We tuned an unsupervised classifier on 12.5 years of volcanic tremor at Whakaari. It separated background from unrest. In a retrospective analysis, its output changed to unrest regimes 6 weeks before the August 2012 eruption and about 3.5 months before the December 2019 eruption.",
    "topics": [
     "Volcanoes & eruption forecasting"
    ]

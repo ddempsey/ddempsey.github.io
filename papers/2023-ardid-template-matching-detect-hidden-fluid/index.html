@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Using Template Matching to Detect Hidden Fluid Release Episodes Beneath Crater Lakes in Ruapehu, Copahue, and Kawah Ijen Volcanoes — David Dempsey</title>
 <meta name="author" content="David Dempsey">
-<meta name="description" content="Using Template Matching to Detect Hidden Fluid Release Episodes Beneath Crater Lakes in Ruapehu, Copahue, and Kawah Ijen Volcanoes. Ardid A, Dempsey D, Caudron C et al., Journal of Geophysical Research: Solid Earth (2023).">
+<meta name="description" content="We searched Ruapehu seismic data from 2006 to 2021 for a tremor pattern seen before the 2019 Whakaari eruption. We then looked for a tremor peak and exponential decay after each match. Six events passed, including a 2009 event that we classify as a fluid release into the crater lake.">
 <link rel="canonical" href="https://ddempsey.github.io/papers/2023-ardid-template-matching-detect-hidden-fluid/">
 <link rel="alternate" type="text/markdown" href="https://ddempsey.github.io/papers/2023-ardid-template-matching-detect-hidden-fluid/index.md" title="This page as Markdown">
 <link rel="alternate" type="text/markdown" href="https://ddempsey.github.io/papers/2023-ardid-template-matching-detect-hidden-fluid/fulltext.md" title="Full text as Markdown">
@@ -126,6 +126,7 @@
  "keywords": "Impact crater, Geology, Volcano, Hydrothermal circulation, Seismology, Electrical conduit, Petrology, Induced seismicity",
  "mainEntityOfPage": "https://ddempsey.github.io/papers/2023-ardid-template-matching-detect-hidden-fluid/",
  "abstract": "Volcano crater lakes, while picturesque, can sometimes mask the occurrence of small eruptions or hydrothermal fluid release events. However, these seemingly hidden events hold a wealth of valuable information about the underlying volcanic conduit and may pose risks to those near the volcano’s summit. This study presents a novel method for identifying these hard‐to‐detect fluid release events by examining seismic data from Ruapehu volcano in New Zealand. We undertake a multi‐timescale template‐matching analysis that uses a newly discovered seismic eruption precursor, to identify patterns related to the rapid consolidation of hydrothermal seals, pressurization processes, and the subsequent release of hydrothermal fluids. As a result, we identified a potential instance of sudden fluid‐release events that were previously unnoticed due to the presence of the crater lake. Our findings support a conceptual model of cyclic pressure variation within the conduit beneath an active crater lake. This model involves the formation and disruption of seals, followed by depressurization through hydrothermal fluid release events. Fluid discharge recession recorded as seismic amplitude decay, provides information about the properties of the reservoir, conduit, and the fluid being discharged. We also applied this technique to Kawah‐Ijen (Indonesia) and Copahue (Chile‐Argentina), identifying multiple potential events at these volcanoes. These findings enhance our understanding of the conditions leading to explosive eruptions, including those that could breach the crater lake.",
+ "description": "We searched Ruapehu seismic data from 2006 to 2021 for a tremor pattern seen before the 2019 Whakaari eruption. We then looked for a tremor peak and exponential decay after each match. Six events passed, including a 2009 event that we classify as a fluid release into the crater lake.",
  "isAccessibleForFree": true,
  "encoding": [
   {
@@ -175,7 +176,95 @@
 <a class="btn" href="fulltext.md" type="text/markdown">Full text (Markdown)</a>    <a class="btn ghost" href="citation.bib">BibTeX</a>
     <a class="btn ghost" href="index.md" type="text/markdown">Markdown</a>
   </div>
-<p class="notice">Published version, posted under AGU&#39;s author self-archiving policy. © 2023 American Geophysical Union. All Rights Reserved. Version of record: https://doi.org/10.1029/2023jb026729</p>
+<p class="notice">Published version, posted under AGU&#39;s author self-archiving policy. © 2023 American Geophysical Union. All Rights Reserved. Version of record: https://doi.org/10.1029/2023jb026729</p><p class="provenance">All explainers on this site are AI-generated and human-checked.</p>
+  <section class="explainer">
+    <h2>In brief</h2>
+<p class="summary">We searched Ruapehu seismic data from 2006 to 2021 for a tremor pattern seen before the 2019 Whakaari eruption. We then looked for a tremor peak and exponential decay after each match. Six events passed, including a 2009 event that we classify as a fluid release into the crater lake.</p><ul class="keypoints"><li>We matched four weeks of a tremor ratio recorded before the 2019 Whakaari eruption against Ruapehu data from 2006 to 2021, then applied three further checks.</li><li>Six Ruapehu events passed, including the 2006 and 2007 eruptions, but only the 2006, 2007 and 2009 events are corroborated by a disturbance at the surface.</li><li>We classify a 2009 tremor spike that coincided with a sudden 0.2 m lake-level rise as a fluid release, likely too small to count as an eruption.</li><li>Tremor after the 2006 and 2007 eruptions decayed exponentially, with discharge times of about 10 to 40 hours, consistent with a draining reservoir in our model.</li><li>Template matching alone is not sufficient to forecast eruptions, because two of our checks use data recorded during and after an event.</li></ul>    <div class="prose"><h2>The problem</h2>
+<p>Some active volcanoes hold a lake in their crater, above the vent. Eruptions that break through such
+a lake can usually be detected by sight or by acoustic sensors (Edwards et al., 2017; Scott, 2013).
+However, smaller jets of hydrothermal fluid released into the lake may go unnoticed (Montanaro et
+al., 2022), although they may still pose a risk to people near the summit. Detecting these small
+jets would provide observations of how often a seal forms and fails below the lake.</p>
+<p>Ruapehu, in New Zealand, has a crater lake about 400 m across that holds roughly 10 million cubic
+metres of water. Our goal was to find seismic signs of a seal forming below this lake, followed by a
+release of fluid into its base.</p>
+<h2>What we did</h2>
+<p>We used seismic data from 2006 to 2021, recorded at one station about 3 km from the crater. After
+removing earthquake signals from the record, we measured volcanic tremor in three frequency bands: 2
+to 5 hertz (Hz, vibrations per second), 4.5 to 8 Hz and 8 to 16 Hz. The average tremor amplitude in
+the 2 to 5 Hz band is called the real-time seismic amplitude measurement (RSAM). The displacement
+seismic amplitude ratio (DSAR) is the ratio of ground displacement in the middle band to that in the
+high band. We took its median over rolling 48-hour windows.</p>
+<p>At Whakaari (White Island), this median rose over several weeks before the 2019 eruption. Ardid et
+al. (2022) suggested that the rise reflected a low-permeability seal forming over the hydrothermal
+system. In that interpretation, the seal suppresses the shallow fluid movement that generates
+high-frequency tremor. We used the four weeks of DSAR median before that eruption as a template. We
+flagged every four-week period of the Ruapehu record whose correlation coefficient with the template
+exceeded 0.3, the top 5% of all correlations. We kept a flagged period only if (1) RSAM peaked more
+than three standard deviations above its mean near the match, (2) the middle band stayed above the
+high band in the days before the peak, to exclude noise from ski fields, rain and wind, and (3) RSAM
+decayed exponentially in the following 24 hours.</p>
+<p>The third check is based on the RSAM decay after the 2006 and 2007 eruptions. We compared it with a
+simple model of a pressurised reservoir draining into the lake through a permeable pathway. As fluid
+leaves, reservoir pressure falls and the discharge rate declines exponentially. Girona et al. (2019)
+showed, in a physical model, that tremor amplitude is proportional to degassing rate. We assumed
+that RSAM after a release is proportional to the discharge rate.</p>
+<h2>What we found</h2>
+<p>At Ruapehu, six events passed every check. Two are the 2006 and 2007 eruptions. A third, in 2009,
+was described as phreatic activity by the GeoNet monitoring network (Scott, 2013). The other three,
+in 2010, 2016 and 2021, were to our knowledge unreported and have no corroborating disturbance at
+the surface. However, each coincided with a regional earthquake and with rain storms. Rain-driven
+changes in lake level make these events difficult to confirm from lake-level data.</p>
+<p>We classified the 2009 event as a fluid release because it was likely too small to count as an
+eruption. In the month before, lake level and temperature rose and then stabilised while the DSAR
+median increased. This is consistent with a seal restricting the entry of hot fluid into the lake.
+The event appeared as a spike in RSAM and a sudden rise in lake level of about 0.2 m, roughly 20,000
+cubic metres. By our arithmetic, that is about 0.2% of the lake's volume.</p>
+<p>After the 2006 and 2007 eruptions, RSAM decayed with discharge times of about 10 to 40 hours. The
+shortest among all the Ruapehu events was 12 hours. In the model, a 12-hour discharge time leaves
+tremor at about 14% of its peak after 24 hours, as our illustration below shows.</p>
+<div class="widget" id="w-discharge-decay" role="group" aria-label="Illustration of exponential tremor decay after a fluid release, for a chosen discharge time"></div>
+<p>At Kawah Ijen in Indonesia we found three potential events in about 2.7 years of data. At Copahue,
+on the border of Chile and Argentina, four small ash-producing eruptions were reported during a
+9-month record, and we identified three of them. Both records were noisier than Ruapehu's.</p>
+<p>These observations are consistent with a conceptual model of pressure cycling below an active crater
+lake. In this model, a seal forms at the top of the hydrothermal system and pressure builds in the
+fluid trapped beneath it. When the seal is disrupted, fluid is released into the lake at a rate that
+declines over hours to days. We suggest that many of these releases do not produce a phreatic
+eruption.</p>
+<h2>Limitations</h2>
+<p>Our method is unlikely to find all events, because it assumes they resemble the Whakaari template
+and develop over about a week. The link between tremor and discharge rate is also an assumption.
+Frequent gas-flux measurements in the crater could test it.</p>
+<p>Two of our checks use the RSAM peak and its decay. Both are recorded only during and after an event.
+Template matching alone is therefore not sufficient for accurate forecasting. We have set up a
+system that applies the template matching to Ruapehu in real time, every 10 minutes. It could help
+track possible sealing events, although a sealing event can dissipate through passive outgassing
+without an eruption. We will evaluate its performance over the next few years.</p>
+<h2>Glossary</h2>
+<p>A <strong>crater lake</strong> is a body of water, often warm, acidic and saline, that forms in the crater of an
+active volcano.</p>
+<p>A <strong>hydrothermal system</strong> is hot water and gas circulating through rock, here between the magma
+column below and the crater lake above.</p>
+<p>A <strong>phreatic eruption</strong> is an explosive release of pressurised hydrothermal fluid, such as the 2006
+and 2007 Ruapehu eruptions.</p>
+<p>A <strong>hydrothermal seal</strong> is a low-permeability layer that restricts the flow of gas and water toward
+the surface.</p>
+<p><strong>Permeability</strong> measures how easily fluid flows through rock.</p>
+<p><strong>Volcanic tremor</strong> is continuous low-level shaking of the ground at an active volcano.</p>
+<p><strong>RSAM (real-time seismic amplitude measurement)</strong> is the average tremor amplitude in the 2 to 5 Hz
+band over 10-minute windows.</p>
+<p>The <strong>displacement seismic amplitude ratio (DSAR)</strong> is the ratio of ground displacement in the 4.5
+to 8 Hz band to that in the 8 to 16 Hz band.</p>
+<p>A <strong>template</strong> is a reference segment of a record, searched for elsewhere by matching its shape.</p>
+<p>A <strong>standard deviation</strong> measures the typical spread of values around their mean.</p>
+<p>A <strong>correlation coefficient</strong> measures how similar two curves are in shape, equal to 1 for the same
+shape and near 0 for unrelated curves.</p>
+<p><strong>Exponential decay</strong> is a decline by the same fraction in each equal interval of time.</p>
+<p>The <strong>discharge time</strong> is the time over which the discharge rate, and in our model RSAM, falls to
+about 37% of its starting value.</p>
+</div>
+  </section>
 
   <section class="abstract">
     <h2>Abstract</h2>
@@ -200,7 +289,7 @@
 </pre></details>
   </section>
 </article>
-</main>
+<script src="widget.js" defer></script></main>
 <footer class="site">
   <p>David Dempsey, University of Canterbury. Open copies are posted under each publisher's self-archiving policy; the DOI link always points to the version of record.</p>
   <p class="machine">Machine-readable: <a href="/llms.txt">llms.txt</a> · <a href="/papers.json">papers.json</a> · <a href="/sitemap.xml">sitemap.xml</a> · <a href="/feed.xml">Atom feed</a> · <a href="index.md">this page as Markdown</a></p>

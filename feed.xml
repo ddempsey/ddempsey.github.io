@@ -200,7 +200,7 @@
     <link href="https://ddempsey.github.io/papers/2023-ardid-template-matching-detect-hidden-fluid/"/>
     <id>https://doi.org/10.1029/2023jb026729</id>
     <updated>2023-10-17T00:00:00Z</updated>
-    <summary>Ardid, A., Dempsey, D., Caudron, C., Cronin, S. J., Miller, C. A., Melchor, I., Syahbana, D., Kennedy, B. (2023). Using Template Matching to Detect Hidden Fluid Release Episodes Beneath Crater Lakes in Ruapehu, Copahue, and Kawah Ijen Volcanoes. Journal of Geophysical Research: Solid Earth, 128(10), e2023JB026729. https://doi.org/10.1029/2023jb026729</summary>
+    <summary>Ardid, A., Dempsey, D., Caudron, C., Cronin, S. J., Miller, C. A., Melchor, I., Syahbana, D., Kennedy, B. (2023). Using Template Matching to Detect Hidden Fluid Release Episodes Beneath Crater Lakes in Ruapehu, Copahue, and Kawah Ijen Volcanoes. Journal of Geophysical Research: Solid Earth, 128(10), e2023JB026729. https://doi.org/10.1029/2023jb026729 We searched Ruapehu seismic data from 2006 to 2021 for a tremor pattern seen before the 2019 Whakaari eruption. We then looked for a tremor peak and exponential decay after each match. Six events passed, including a 2009 event that we classify as a fluid release into the crater lake.</summary>
   </entry>
   <entry>
     <title>Association Between Injection and Microseismicity in Geothermal Fields With Multiple Wells: Data‐Driven Modeling of Rotokawa, New Zealand, and Húsmúli, Iceland</title>
@@ -214,6 +214,6 @@
     <link href="https://ddempsey.github.io/papers/2023-steinke-identification-seismo-volcanic-regimes-whakaari/"/>
     <id>https://doi.org/10.1029/2022jb026221</id>
     <updated>2023-03-14T00:00:00Z</updated>
-    <summary>Steinke, B., Jolly, A. D., Carniel, R., Dempsey, D. E., Cronin, S. J. (2023). Identification of Seismo‐Volcanic Regimes at Whakaari/White Island (New Zealand) Via Systematic Tuning of an Unsupervised Classifier. Journal of Geophysical Research: Solid Earth, 128(3), e2022JB026221. https://doi.org/10.1029/2022jb026221</summary>
+    <summary>Steinke, B., Jolly, A. D., Carniel, R., Dempsey, D. E., Cronin, S. J. (2023). Identification of Seismo‐Volcanic Regimes at Whakaari/White Island (New Zealand) Via Systematic Tuning of an Unsupervised Classifier. Journal of Geophysical Research: Solid Earth, 128(3), e2022JB026221. https://doi.org/10.1029/2022jb026221 We tuned an unsupervised classifier on 12.5 years of volcanic tremor at Whakaari. It separated background from unrest. In a retrospective analysis, its output changed to unrest regimes 6 weeks before the August 2012 eruption and about 3.5 months before the December 2019 eruption.</summary>
   </entry>
 </feed>
