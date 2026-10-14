@@ -610,6 +610,13 @@ Abstract: If carbon dioxide (CO2) sequestration into deep geologic reservoirs is
 
 Dempsey, David, Kelkar, Sharad, Pawar, Rajesh, Keating, Elizabeth, Coblentz, David (2014). Modeling caprock bending stresses and their potential for induced seismicity during CO2 injection. International Journal of Greenhouse Gas Control, 22, 223-236. https://doi.org/10.1016/j.ijggc.2014.01.005
 Page: https://ddempsey.github.io/papers/2014-dempsey-modeling-caprock-bending-stresses-their/
+In our models, CO2 injection at overpressures of 5 to 10 MPa bent the caprock and induced stresses of about 1 to 2 MPa in it, outside the zone of raised fluid pressure. Such stresses would be enough to reactivate an undetected, well-oriented, critically stressed fault near the well.
+
+- In our models, overpressures of 5 to 10 MPa induced caprock stresses of about 1 to 2 MPa, in rock where the fluid pressure change was small.
+- Doming of the caprock reduced horizontal compression in the same direction as the regional tectonic extension at the Springerville analogue site.
+- Raising the injection overpressure from 5 to 15 MPa increased the peak Coulomb failure stress change in the caprock from 1.2 to 3.5 MPa.
+- With several interacting wells, injecting around a known hazardous fault may not avoid loading it.
+- We propose that limits on injection pressure also consider how far the overpressured region spreads.
 
 ---
 
@@ -662,6 +669,13 @@ We cut ten closely spaced slices from Antarctic sea ice and rebuilt its crystals
 
 Dempsey, David E., Ellis, Susan M., Rowland, Julie V., Archer, Rosalind A. (2012). The role of frictional plasticity in the evolution of normal fault systems. Journal of Structural Geology, 39, 122-137. https://doi.org/10.1016/j.jsg.2012.03.001
 Page: https://ddempsey.github.io/papers/2012-dempsey-role-frictional-plasticity-evolution-normal/
+We modelled a single normal fault in a stretching crust. In our model the fault takes up about half of the stretching of the upper crust. Slow frictional shearing takes up the rest, mostly in the hanging wall, where we suggest new faults are favoured to form.
+
+- In our model, a fault dipping at 50° takes up about half of the upper-crust extension over a 220-year earthquake cycle. Distributed frictional shearing takes up the rest.
+- Repeated earthquakes hold the crust next to the fault up to 10 MPa below failure. This stress shadow extends further into the footwall than into the hanging wall.
+- Shear bands dipping at about 45° form in the hanging wall, outside the stress shadow, and dip the same way as the main fault. We suggest they can be regarded as proto-faults if they lengthen each time they slip.
+- The modelled fault rotates to a shallower dip at about 23.5° per million years, split almost equally between the periods between earthquakes and the earthquakes themselves.
+- Our results are consistent with faulting migrating into the hanging walls of older faults, as described for the western Gulf of Corinth, Greece.
 
 ---
 
