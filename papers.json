@@ -50,7 +50,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2026-dempsey-physics-lumped-parameter-model-attributing/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2026-dempsey-physics-lumped-parameter-model-attributing/citation.bib",
-   "summary": null,
+   "summary": "We built a lumped-parameter physics model of CO2 in a producing geothermal reservoir and calibrated it to two New Zealand fields. At Rotokawa, we estimate that metering the power plant overcounts the human-caused change in emissions by 17–45 kt a year, because production reduces natural CO2 discharge at the surface.",
    "topics": [
     "Geothermal systems",
     "CO2 & hydrogen storage",
@@ -984,7 +984,7 @@
    "open_copy_elsewhere": "https://hdl.handle.net/10092/105840",
    "fulltext_markdown": "https://ddempsey.github.io/papers/2022-dempsey-evaluation-short-term-probabilistic-eruption/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2022-dempsey-evaluation-short-term-probabilistic-eruption/citation.bib",
-   "summary": null,
+   "summary": "We ran an eruption forecaster at Whakaari for 18 months and filtered out the earthquakes that caused its three false positives. In a test with the 2019 eruption withheld from training, a calibrated version gave a 2 to 4% chance in 48 hours, up to 400 times its lowest level.",
    "topics": [
     "Volcanoes & eruption forecasting",
     "Induced seismicity & faults"
@@ -1399,7 +1399,7 @@
    "open_copy_elsewhere": "https://hdl.handle.net/10092/105828",
    "fulltext_markdown": "https://ddempsey.github.io/papers/2016-dempsey-collective-properties-injection-induced-earthquake/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2016-dempsey-collective-properties-injection-induced-earthquake/citation.bib",
-   "summary": null,
+   "summary": "We modelled large catalogues of earthquakes triggered by injecting fluid into a fault. In our model, these ruptures tended to propagate back towards the injection well, where high fluid pressure favours continued rupture. In the strongest case, a sample of three modelled ruptures was enough to detect this bias.",
    "topics": [
     "Induced seismicity & faults",
     "Geothermal systems"
