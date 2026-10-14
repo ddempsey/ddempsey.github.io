@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Earthquakes Trigger Rapid Flash Boiling Front at Optimal Geologic Conditions — David Dempsey</title>
 <meta name="author" content="David Dempsey">
-<meta name="description" content="Earthquakes Trigger Rapid Flash Boiling Front at Optimal Geologic Conditions. Sanchez‐Alfaro P, Wallis I, Iturrieta P et al., Geophysical Research Letters (2024).">
+<meta name="description" content="An earthquake can make hot water boil in the fracture between two faults. In our models this flashing was limited, and complete flashing is highly unlikely. Opening was largest where the faults were separated by about 10% of their length and overlapped by about 2.5%.">
 <link rel="canonical" href="https://ddempsey.github.io/papers/2024-sanchez-alfaro-earthquakes-trigger-rapid-flash-boiling/">
 <link rel="alternate" type="text/markdown" href="https://ddempsey.github.io/papers/2024-sanchez-alfaro-earthquakes-trigger-rapid-flash-boiling/index.md" title="This page as Markdown">
 <link rel="alternate" type="text/markdown" href="https://ddempsey.github.io/papers/2024-sanchez-alfaro-earthquakes-trigger-rapid-flash-boiling/fulltext.md" title="Full text as Markdown">
@@ -122,6 +122,7 @@
  "keywords": "Geology, Front (military), Boiling, Flash (photography)",
  "mainEntityOfPage": "https://ddempsey.github.io/papers/2024-sanchez-alfaro-earthquakes-trigger-rapid-flash-boiling/",
  "abstract": "The interplay between seismic activity and fluid flow is essential during the evolution of hydrothermal systems. Although earthquakes can trigger transient fluid flow and phase changes in dilational jogs, the temporal scale and the geologic conditions that enhance such process are poorly quantified. Here, we use numerical simulations of deformation and fluid flow to constrain the conditions that maximize adiabatic boiling—referred to as flashing—and estimate the extent and duration of such process. We show that there is an optimal geometry for a dilational jog that maximizes co‐seismic flashing within the jog. Fluid flow simulations indicate that the duration, intensity, and propagation of the flashing front are limited and highly dependent on the magnitude of the co‐seismic slip and the initial pressure‐enthalpy conditions. Our results are valuable to better understand the implications of pressure fluctuations during the seismogenic cycle, as well the mineralization processes in the Earth's crust.",
+ "description": "An earthquake can make hot water boil in the fracture between two faults. In our models this flashing was limited, and complete flashing is highly unlikely. Opening was largest where the faults were separated by about 10% of their length and overlapped by about 2.5%.",
  "isAccessibleForFree": true,
  "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
  "encoding": [
@@ -172,7 +173,116 @@
 <a class="btn" href="fulltext.md" type="text/markdown">Full text (Markdown)</a>    <a class="btn ghost" href="citation.bib">BibTeX</a>
     <a class="btn ghost" href="index.md" type="text/markdown">Markdown</a>
   </div>
-<p class="notice">Published version, reproduced under the CC BY-NC-ND 4.0 licence. © The Author(s). Version of record: https://doi.org/10.1029/2023gl108109</p>
+<p class="notice">Published version, reproduced under the CC BY-NC-ND 4.0 licence. © The Author(s). Version of record: https://doi.org/10.1029/2023gl108109</p><p class="provenance">All explainers on this site are AI-generated and human-checked.</p>
+  <section class="explainer">
+    <h2>In brief</h2>
+<p class="summary">An earthquake can make hot water boil in the fracture between two faults. In our models this flashing was limited, and complete flashing is highly unlikely. Opening was largest where the faults were separated by about 10% of their length and overlapped by about 2.5%.</p><ul class="keypoints"><li>In more than 25,500 simulations, the average opening of a jog was largest where the faults were separated by about 10% of their length and overlapped by about 2.5%.</li><li>In our calculations, a magnitude 1.0 earthquake flashed about 17% of 300°C water in the jog. With 200°C water, more than 10% flashing needed an earthquake above magnitude 3.</li><li>Our calculated openings are about half those of Sanchez-Alfaro et al. (2016) and an order of magnitude smaller than those of Weatherley and Henley (2013).</li><li>Modelled pressure in the jog recovered within 1 s. With magnitude 3.0 and 300°C water, fluid with over 5% vapour lasted up to about 2.8 hours.</li></ul>    <div class="prose"><h2>The problem</h2>
+<p>Earthquakes help to form some ore deposits (Sibson, 1987; Richards, 2013).
+Where a fault splits into separate segments, slip during an earthquake can open
+the fracture that joins them, a structure called a dilational jog. The opening
+lowers the pressure of the hot water in the jog. Boiling caused by such a drop
+in pressure is called flash vapourisation, or flashing. Flashing releases
+gas from the water and can make dissolved minerals precipitate, or
+come out of solution, including gold (Sanchez-Alfaro et al., 2016; Monecke et
+al., 2023).</p>
+<p>Weatherley and Henley (2013) used a simple piston model of a jog. They found
+that small earthquakes could cause almost complete flashing of the water inside
+it. The piston model sets the opening of the jog equal to the average slip on
+the faults. This ignores the decrease in slip towards the fault ends and
+overestimates the pressure drop. How far flashing spreads, and for how long, was
+also poorly known (Sanchez-Alfaro et al., 2016). Our goal in this study was to
+find (1) the jog geometry that gives the largest opening and pressure drop, and
+(2) the extent and duration of the flashing that follows.</p>
+<h2>What we did</h2>
+<p>We used TriBEM (Loveless, 2019), a boundary element model that calculates stress
+and displacement in elastic rock, to compute slip on two nearly parallel faults
+and opening of the jog between them. We ran more than 25,500 simulations,
+varying how far apart the faults are and how far they overlap, for earthquakes
+of moment magnitude 0.5 to 7.</p>
+<p>A jog opens in milliseconds to seconds (Wu and McLaskey, 2019). We assumed
+this is too fast for heat to be exchanged with the surrounding rock, and
+calculated the new
+pressure and the vapour fraction, the proportion of the fluid that is vapour, by
+assuming that the water keeps its enthalpy, or heat content per kilogram, as it
+expands. We started from three conditions in which water is at its boiling
+point: 200°C at about 200 m depth, 240°C at about 400 m, and 300°C at about
+1,000 m.</p>
+<p>Finally, we used TOUGH2 (Pruess, 1991), a code that simulates the flow of heat
+and water through rock, to model the water in and around the jog after the
+earthquake. Each starting condition was combined with an earthquake of magnitude
+1.0 (0.69 mm of opening) and one of magnitude 3.0 (6.5 mm).</p>
+<h2>What we found</h2>
+<p>We find that, for every earthquake size we modelled, the average opening of the jog is
+largest for a separation of about 10% of the fault length and an overlap of
+about 2.5%. The pressure drop increases with the average opening. Field examples
+suggest a different shape, in which faults overlap by about three times their
+separation (Aydin and Schultz, 1990; Micklethwaite et al., 2012). This may be
+because the geological record preserves the geometry best suited to the
+regional stress field.</p>
+<p>With 300°C water, a magnitude 1.0 earthquake turned about 17%
+of the water to vapour. With 200°C water, more than 10% needed an earthquake
+larger than magnitude 3. Our openings are about half those of Sanchez-Alfaro et
+al. (2016) and an order of magnitude smaller than those of Weatherley and Henley
+(2013). Both studies used the piston model. Our results indicate that complete
+flashing is highly unlikely if the expansion exchanges no heat with the rock
+and the water does not behave as an ideal gas.</p>
+<p>Our smaller openings would reduce the gold precipitation rates of
+Sanchez-Alfaro et al. (2016) to nearly half. Our results also support
+Williams (2019) and Williams and Fagereng (2022), who showed that quartz
+precipitated during an earthquake can fill less than 0.005 to 0.02% of the
+new space. However, loss of gas during flashing would still be efficient at
+depositing thin coatings of high-grade gold ore, micrometres to millimetres
+thick (Sanchez-Alfaro et al., 2016).</p>
+<p>In our simulations, pressure in the jog recovered in less than 1 s, as
+water flowed in from the faults and the fractured rock around them (the damage
+zone), and then from the unfractured host rock. The drop in pressure then moved
+outwards as a front into the surrounding rock.
+With a magnitude 1.0 earthquake and 200°C water, vapour was confined to the jog,
+at less than 5%, and lasted less than a millisecond. With a magnitude 3.0
+earthquake and 300°C water, flashing spread from the jog into the damage zone
+and host rock. There, fluid with more than 5% vapour lasted up to 10,000 s,
+about 2.8 hours. The vapour fraction reached about 30% in the jog, fell to 15%
+in the damage zone 12.5 cm away, and rose again to more than 20% in the host
+rock at 35 cm. This may be because the host rock is less permeable than the jog
+and damage zone. Its lower permeability can limit the inflow of water to the
+low-pressure front.</p>
+<div class="widget" id="w-flash-front" role="group" aria-label="Interactive comparison of vapour fraction and duration of flashing for the two end-member scenarios reported in the paper"></div>
+<h2>Limitations</h2>
+<p>In our mechanical model, all of the opening is in the jog and the faults
+themselves do not open. This is an end-member case.
+Although we modelled a single earthquake, the result is relevant to epithermal
+deposits, formed by hot water less than 1.5 km deep. In these deposits,
+thin layers of gold are deposited thousands to millions of times over thousands
+of years. Our results support the hypothesis that minerals may precipitate in a
+jog under conditions far from equilibrium. We suggest new efforts to model how
+fast minerals precipitate under these conditions.</p>
+<h2>Glossary</h2>
+<p>An <strong>ore deposit</strong> is a concentration of minerals, such as gold, rich enough to
+mine.</p>
+<p><strong>High-grade</strong> ore contains a large concentration of metal.</p>
+<p>The <strong>epithermal</strong> environment is the shallow part of a hot water system, less
+than about 1.5 km deep and below 300°C.</p>
+<p>A <strong>dilational jog</strong> is a fracture that joins two nearly parallel fault segments
+and opens when the faults slip.</p>
+<p><strong>Flash vapourisation</strong>, or <strong>flashing</strong>, is boiling caused by a sudden drop in
+pressure.</p>
+<p><strong>Moment magnitude</strong> is a measure of the size of an earthquake, based on fault
+slip and rupture area.</p>
+<p>A <strong>boundary element model</strong> calculates stress and displacement in elastic rock
+from the movement of fault surfaces.</p>
+<p><strong>Enthalpy</strong> is the heat content of a fluid per unit mass.</p>
+<p>The <strong>vapour fraction</strong> is the proportion of the fluid that is vapour.</p>
+<p>The <strong>damage zone</strong> is the fractured rock on either side of a fault.</p>
+<p>The <strong>host rock</strong> is the unfractured rock beyond the damage zone.</p>
+<p>An <strong>ideal gas</strong> is a simplified model of a gas in which pressure, volume and
+temperature follow one simple law.</p>
+<p><strong>Permeability</strong> is a measure of how easily water flows through a rock.</p>
+<p>Under conditions <strong>far from equilibrium</strong>, reaction rates control the amount
+of mineral that forms from a fluid, because the fluid and minerals have not reached
+chemical balance.</p>
+<p>A <strong>micrometre</strong> is a thousandth of a millimetre.</p>
+</div>
+  </section>
 
   <section class="abstract">
     <h2>Abstract</h2>
@@ -197,7 +307,7 @@
 </pre></details>
   </section>
 </article>
-</main>
+<script src="widget.js" defer></script></main>
 <footer class="site">
   <p>David Dempsey, University of Canterbury. Open copies are posted under each publisher's self-archiving policy; the DOI link always points to the version of record.</p>
   <p class="machine">Machine-readable: <a href="/llms.txt">llms.txt</a> · <a href="/papers.json">papers.json</a> · <a href="/sitemap.xml">sitemap.xml</a> · <a href="/feed.xml">Atom feed</a> · <a href="index.md">this page as Markdown</a></p>

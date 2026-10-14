@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Hydraulic fracturing fluid migration in the subsurface: A review and expanded modeling results — David Dempsey</title>
 <meta name="author" content="David Dempsey">
-<meta name="description" content="Hydraulic fracturing fluid migration in the subsurface: A review and expanded modeling results. Birdsell DT, Rajaram H, Dempsey D et al., Water Resources Research (2015).">
+<meta name="description" content="We modelled fracturing fluid injected into shale 1,500 m below a drinking water aquifer. In our model, no fluid reached the aquifer without a permeable pathway such as a fault or leaky well. Where a pathway existed, modelling well production and imbibition reduced the amount reaching the aquifer tenfold.">
 <link rel="canonical" href="https://ddempsey.github.io/papers/2015-birdsell-hydraulic-fracturing-fluid-migration-subsurface/">
 <link rel="alternate" type="text/markdown" href="https://ddempsey.github.io/papers/2015-birdsell-hydraulic-fracturing-fluid-migration-subsurface/index.md" title="This page as Markdown">
 <link rel="alternate" type="text/markdown" href="https://ddempsey.github.io/papers/2015-birdsell-hydraulic-fracturing-fluid-migration-subsurface/fulltext.md" title="Full text as Markdown">
@@ -83,6 +83,7 @@
  "keywords": "Hydraulic fracturing, Geology, Petroleum engineering, Oil shale, Fluid dynamics, Petrology",
  "mainEntityOfPage": "https://ddempsey.github.io/papers/2015-birdsell-hydraulic-fracturing-fluid-migration-subsurface/",
  "abstract": "Understanding the transport of hydraulic fracturing (HF) fluid that is injected into the deep subsurface for shale gas extraction is important to ensure that shallow drinking water aquifers are not contaminated. Topographically driven flow, overpressured shale reservoirs, permeable pathways such as faults or leaky wellbores, the increased formation pressure due to HF fluid injection, and the density contrast of the HF fluid to the surrounding brine can encourage upward HF fluid migration. In contrast, the very low shale permeability and capillary imbibition of water into partially saturated shale may sequester much of the HF fluid, and well production will remove HF fluid from the subsurface. We review the literature on important aspects of HF fluid migration. Single-phase flow and transport simulations are performed to quantify how much HF fluid is removed via the wellbore with flowback and produced water, how much reaches overlying aquifers, and how much is permanently sequestered by capillary imbibition, which is treated as a sink term based on a semianalytical, one-dimensional solution for two-phase flow. These simulations include all of the important aspects of HF fluid migration identified in the literature review and are performed in five stages to faithfully represent the typical operation of a hydraulically fractured well. No fracturing fluid reaches the aquifer without a permeable pathway. In the presence of a permeable pathway, 10 times more fracturing fluid reaches the aquifer if well production and capillary imbibition are not included in the model.",
+ "description": "We modelled fracturing fluid injected into shale 1,500 m below a drinking water aquifer. In our model, no fluid reached the aquifer without a permeable pathway such as a fault or leaky well. Where a pathway existed, modelling well production and imbibition reduced the amount reaching the aquifer tenfold.",
  "isAccessibleForFree": true,
  "encoding": [
   {
@@ -132,7 +133,128 @@
 <a class="btn" href="fulltext.md" type="text/markdown">Full text (Markdown)</a><a class="btn ghost" href="https://hdl.handle.net/10092/105829">Also in UC Research Repository</a>    <a class="btn ghost" href="citation.bib">BibTeX</a>
     <a class="btn ghost" href="index.md" type="text/markdown">Markdown</a>
   </div>
-<p class="notice">An edited version of this paper was published by AGU. Published 2015 American Geophysical Union. Version of record: https://doi.org/10.1002/2015wr017810</p>
+<p class="notice">An edited version of this paper was published by AGU. Published 2015 American Geophysical Union. Version of record: https://doi.org/10.1002/2015wr017810</p><p class="provenance">All explainers on this site are AI-generated and human-checked.</p>
+  <section class="explainer">
+    <h2>In brief</h2>
+<p class="summary">We modelled fracturing fluid injected into shale 1,500 m below a drinking water aquifer. In our model, no fluid reached the aquifer without a permeable pathway such as a fault or leaky well. Where a pathway existed, modelling well production and imbibition reduced the amount reaching the aquifer tenfold.</p><ul class="keypoints"><li>Without a permeable pathway, no fracturing fluid reached the aquifer in our model, and fluid rose on the order of 100 m through intact rock in 1,000 years.</li><li>In our base case with a pathway, 1.2% of the injected fluid reached the aquifer after 1,000 years.</li><li>After 20 years of production, the well had removed 68% of the injected fluid and imbibition had held 13% in the shale.</li><li>With both well production and imbibition removed from the model, 12.3% reached the aquifer, about ten times the base case.</li><li>Less than 10 m of intact seal in an otherwise leaky pathway reduced the amount reaching the aquifer to 0.00006%.</li></ul>    <div class="prose"><h2>The problem</h2>
+<p>Hydraulic fracturing (HF, or fracking) injects 1,000 to 22,000 m³ of fluid
+into deep shale to release gas (Byrnes, 2011; Kissinger et al., 2013). About
+1% of this fluid is chemical additives, some of them toxic (King, 2012;
+Stringfellow et al., 2014). One concern, examined by the U.S. Environmental
+Protection Agency (2012), is that the fluid could rise from the shale into a
+shallow drinking water aquifer. There is only one confirmed case of this
+through the subsurface, in West Virginia in 1982 (U.S. Environmental
+Protection Agency, 1987).</p>
+<p>Earlier studies disagree on whether this migration is possible (Myers, 2012a;
+Engelder et al., 2014). Shale whose pores are partly filled with gas draws
+water into them by capillary imbibition and retains it (Engelder, 2012).
+Production also draws fluid back to the well and removes it at the surface. In
+our review, we found no earlier model of HF fluid that combined buoyancy, well
+operations and imbibition. Our goal in this study was to build one.</p>
+<h2>What we did</h2>
+<p>We used the FEHM groundwater flow code (Zyvoloski et al., 1997). Our model
+shale, based largely on the Marcellus, lies 1,700 m deep and 1,500 m below the
+base of the aquifer, with a horizontal well running through it. In our base
+case, a permeable pathway with a 1 mm aperture runs from the top of the shale
+to the aquifer. We included it as an extreme case, as did Myers (2012a) and
+Gassiat et al. (2013).</p>
+<p>Each simulation begins with 200 years of slow upward groundwater flow, as
+beneath a valley (Deming, 2001). About 11,000 m³ of fluid is then injected
+over 2.5 days. The well is shut in for 5 days while imbibition occurs. It then
+produces for 20 years, with its pressure held 5 MPa below the natural
+pressure. Finally, the well is plugged and the fluid can move for 980 years.
+We represented imbibition as a sink of fluid in the shale (Birdsell et al.,
+2015). We tracked the injected fluid with a tracer that neither degrades nor
+sorbs onto rock. This overpredicts the amount that reaches the aquifer.</p>
+<h2>What we found</h2>
+<p>We found that, without a permeable pathway, no fracturing fluid reached the
+aquifer. In 1,000 years it rose on the order of 100 m through the intact rock
+above the shale.</p>
+<p>With the pathway, some fluid reached the aquifer during injection and shut-in.
+After 20 years, the well had removed 68% of the injected fluid, 13% had been
+imbibed, 0.1% had reached the aquifer and 19% remained at depth. After 1,000
+years, 1.2% had reached it.</p>
+<div class="widget" id="w-hf-fate" role="group" aria-label="Interactive comparison of the percentage of injected fracturing fluid that reaches the aquifer after 1,000 years in each modelled scenario"></div>
+<p>Once a pathway exists, the well has the largest effect. With no flow out of
+the well, more than 10% reached the aquifer, and with a well produced for only
+30 days, 9.5%. Imbibition on its own made a moderate difference, 1.5% with
+none and 0.9% with a high rate. This is because imbibition acts near the well
+and before production. Fluid that it does not take up is mostly removed by the
+well later. With neither production nor imbibition in the model, 12.3% reached
+the aquifer, ten times the base case. This suggests that earlier models that
+left out these processes (e.g., Gassiat et al., 2013; Kissinger et al., 2013)
+overestimated how much fluid can migrate. It also suggests that a well should
+be produced for some time, even if it is not economic, to remove fluid from
+the subsurface.</p>
+<p>Of the properties of the pathway, its permeability, set by its aperture, had
+the largest effect. Less than 10 m of intact seal in an otherwise leaky
+pathway reduced the amount reaching the aquifer to 0.00006%, equivalent to
+about 7 litres of the 11,000 m³ injected (our arithmetic). Short lengths of
+intact well cement, or short breaks in a fault or fracture, could therefore be
+enough to prevent contamination.</p>
+<p>When the well pressure matched the base case, overpressure in the shale left
+the amount reaching the aquifer at 1.2%. This is because the well removed the
+extra pressure quickly. When the well was held only 5 MPa below a shale with 6
+MPa of overpressure, it removed 2.0% of the fluid, and 9.7% reached the
+aquifer. However, the literature is ambiguous about how to represent
+overpressure and the well pressure that follows it.</p>
+<p>Because the injected fluid is less salty than the brine around it, it is
+buoyant. Removing buoyancy reduced the amount reaching the aquifer only from
+1.19% to 1.06%. This is because mixing with brine weakens the buoyant force,
+and the pressure changes from injection, imbibition and production are larger.
+Buoyancy could make a significant difference where the rock above the shale is
+at least 1,000 times more permeable than in our base case and the shale lies
+within about 1,000 m of the aquifer. For deep shale beneath low-permeability
+rock, it does not significantly influence migration.</p>
+<p>Our results suggest that the probability of HF fluid contaminating an aquifer
+is relatively low.</p>
+<h2>Limitations</h2>
+<p>Our model is single-phase. It does not resolve how gas in the shale slows the
+flow of water. Without data on this effect, we cannot say whether including it
+would raise or lower the amount reaching the aquifer.</p>
+<p>Our conclusion may not hold where fracturing is shallow. We recommend that
+future models try to explain the few reported cases in which HF fluid may have
+reached shallow aquifers within short times (e.g., DiGiulio et al., 2011;
+Llewellyn et al., 2015).</p>
+<h2>Glossary</h2>
+<p><strong>FEHM</strong> (Finite Element Heat and Mass Transfer) is a computer code that
+simulates the flow of water and heat, and the transport of dissolved
+substances, through rock.</p>
+<p>The <strong>base case</strong> is our reference simulation, against which each other
+scenario changes one or more settings.</p>
+<p>A <strong>sink</strong> in a model is a term that removes fluid from a region at a set
+rate.</p>
+<p>A <strong>single-phase</strong> model simulates the flow of one fluid, here water, and
+leaves out a second fluid such as gas.</p>
+<p><strong>Hydraulic fracturing (HF)</strong> is the injection of fluid at high pressure to
+crack rock around a well so that gas or oil flows out more easily.</p>
+<p><strong>Shale</strong> is a fine-grained sedimentary rock with low permeability.</p>
+<p>An <strong>aquifer</strong> is a layer of rock or sediment that holds and yields usable
+groundwater.</p>
+<p><strong>Brine</strong> is water with a high concentration of dissolved salt, held in deep
+rock.</p>
+<p><strong>Permeability</strong> is a measure of how easily fluid flows through a rock.</p>
+<p>A <strong>permeable pathway</strong> is a connected route, such as a fault or a leaky well,
+through which fluid can flow across otherwise low-permeability rock.</p>
+<p>The <strong>aperture</strong> of a fracture or gap is its width.</p>
+<p><strong>Capillary imbibition</strong> is the uptake of water into the small pores of a
+rock by surface tension.</p>
+<p><strong>Shut-in</strong> is a period during which a well is closed so that no fluid enters
+or leaves it.</p>
+<p><strong>Production</strong> is the period during which gas and water are drawn out of the
+well.</p>
+<p><strong>Overpressure</strong> is pore pressure higher than that of a column of water
+extending to the surface.</p>
+<p><strong>Buoyancy</strong> is the upward force on a fluid that is less dense than the fluid
+around it.</p>
+<p>A <strong>seal</strong> is a section of rock or well cement with low permeability that
+blocks flow.</p>
+<p>A <strong>plume</strong> is a body of injected fluid moving through the rock.</p>
+<p>A <strong>tracer</strong> is a marker in a model that follows where a fluid goes.</p>
+<p>To <strong>sorb</strong> is to attach to the surface of mineral grains.</p>
+<p>A <strong>megapascal (MPa)</strong> is a unit of pressure, equal to one million pascals.</p>
+</div>
+  </section>
 
   <section class="abstract">
     <h2>Abstract</h2>
@@ -157,7 +279,7 @@
 </pre></details>
   </section>
 </article>
-</main>
+<script src="widget.js" defer></script></main>
 <footer class="site">
   <p>David Dempsey, University of Canterbury. Open copies are posted under each publisher's self-archiving policy; the DOI link always points to the version of record.</p>
   <p class="machine">Machine-readable: <a href="/llms.txt">llms.txt</a> · <a href="/papers.json">papers.json</a> · <a href="/sitemap.xml">sitemap.xml</a> · <a href="/feed.xml">Atom feed</a> · <a href="index.md">this page as Markdown</a></p>

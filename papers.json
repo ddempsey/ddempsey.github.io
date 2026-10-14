@@ -544,7 +544,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2024-sanchez-alfaro-earthquakes-trigger-rapid-flash-boiling/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2024-sanchez-alfaro-earthquakes-trigger-rapid-flash-boiling/citation.bib",
-   "summary": null,
+   "summary": "An earthquake can make hot water boil in the fracture between two faults. In our models this flashing was limited, and complete flashing is highly unlikely. Opening was largest where the faults were separated by about 10% of their length and overlapped by about 2.5%.",
    "topics": [
     "Induced seismicity & faults"
    ]
@@ -1427,7 +1427,7 @@
    "open_copy_elsewhere": "https://hdl.handle.net/10092/105829",
    "fulltext_markdown": "https://ddempsey.github.io/papers/2015-birdsell-hydraulic-fracturing-fluid-migration-subsurface/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2015-birdsell-hydraulic-fracturing-fluid-migration-subsurface/citation.bib",
-   "summary": null,
+   "summary": "We modelled fracturing fluid injected into shale 1,500 m below a drinking water aquifer. In our model, no fluid reached the aquifer without a permeable pathway such as a fault or leaky well. Where a pathway existed, modelling well production and imbibition reduced the amount reaching the aquifer tenfold.",
    "topics": [
     "Induced seismicity & faults"
    ]
