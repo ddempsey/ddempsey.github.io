@@ -1214,7 +1214,7 @@
    "open_copy_elsewhere": "https://hdl.handle.net/10092/103195",
    "fulltext_markdown": "https://ddempsey.github.io/papers/2020-dempsey-ground-motion-simulation-hypothetical-earthquakes/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2020-dempsey-ground-motion-simulation-hypothetical-earthquakes/citation.bib",
-   "summary": null,
+   "summary": "We simulated the largest credible earthquakes on two faults near Auckland, Hamilton and Tauranga. Sediment basins beneath the Hauraki Rift and Hamilton amplified slow shaking two to three times. A Wairoa North Fault earthquake gave 0.45 g, almost half of gravity, at Auckland's Mangatawhiri Dam.",
    "topics": [
     "Induced seismicity & faults",
     "Fire & other hazards"
@@ -1374,7 +1374,7 @@
    "open_copy_elsewhere": "https://hdl.handle.net/10092/105826",
    "fulltext_markdown": "https://ddempsey.github.io/papers/2016-dempsey-collective-properties-injection-induced-earthquake-sequences/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2016-dempsey-collective-properties-injection-induced-earthquake-sequences/citation.bib",
-   "summary": null,
+   "summary": "In our model, earthquakes triggered by rising fluid pressure include a higher proportion of small events than tectonic earthquakes. Pressure lowers the static strength of a fault faster than its residual strength. Modelling the 2010–2011 Guy-Greenbrier sequence in Arkansas, we estimated a fault permeability of 5 × 10⁻¹² m².",
    "topics": [
     "Induced seismicity & faults"
    ]
@@ -1594,7 +1594,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2013-dempsey-hydrological-effects-dip-slip-fault/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2013-dempsey-hydrological-effects-dip-slip-fault/citation.bib",
-   "summary": null,
+   "summary": "We modelled a hot-water plume beside a normal fault in New Zealand's Taupō Volcanic Zone. A modelled magnitude 5.7 earthquake tripled water outflow, but within 20 days the excess fell below 10% of natural outflow. Fault damage caused a lasting rise in flow and moved upflow away from the fault.",
    "topics": [
     "Induced seismicity & faults",
     "Geothermal systems",
@@ -1623,7 +1623,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2012-dempsey-delineation-catchment-zones-geothermal-systems/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2012-dempsey-delineation-catchment-zones-geothermal-systems/citation.bib",
-   "summary": null,
+   "summary": "We modelled circulation in a rift like New Zealand's Taupō Volcanic Zone and traced water from ten modelled geothermal fields to where it entered the ground. Their catchments cover 70 to 500 km² and increase with field heat output. Most water spends 5,000 to 50,000 years underground.",
    "topics": [
     "Volcanoes & eruption forecasting",
     "Geothermal systems"
