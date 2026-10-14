@@ -382,7 +382,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2025-ardid-forecasting-eruptions-steamboat-geyser-time/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2025-ardid-forecasting-eruptions-steamboat-geyser-time/citation.bib",
-   "summary": null,
+   "summary": "A machine learning model trained on signals in the 2018 seismic record of Steamboat Geyser showed a fair ability to separate pre-eruption periods from other times in later data. Its eruption probability peaked at 12.6% within 18 hours of an eruption, compared with 8.1% from eruption intervals alone.",
    "topics": [
     "Volcanoes & eruption forecasting",
     "Induced seismicity & faults"
@@ -843,7 +843,7 @@
    "open_copy_elsewhere": "https://hdl.handle.net/10092/105665",
    "fulltext_markdown": "https://ddempsey.github.io/papers/2023-yu-association-injection-microseismicity-geothermal-fields/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2023-yu-association-injection-microseismicity-geothermal-fields/citation.bib",
-   "summary": null,
+   "summary": "We used data-driven methods to find which injection wells are associated with small earthquakes at the Rotokawa (New Zealand) and Húsmúli (Iceland) fields. Injection was more closely associated with earthquake rates averaged over weeks than over days. At Rotokawa, we found no evidence that rapid injection changes trigger earthquakes.",
    "topics": [
     "Induced seismicity & faults",
     "Geothermal systems",

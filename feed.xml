@@ -102,7 +102,7 @@
     <link href="https://ddempsey.github.io/papers/2025-ardid-forecasting-eruptions-steamboat-geyser-time/"/>
     <id>https://doi.org/10.1029/2024jh000569</id>
     <updated>2025-04-12T00:00:00Z</updated>
-    <summary>Ardid, Alberto, Barth, Anna, Dempsey, David, Manga, Michael, Cronin, Shane J. (2025). Forecasting Eruptions at Steamboat Geyser: Time Scales, Differentiability, and Detectability of Seismic Precursors Through Data‐Driven Methods. Journal of Geophysical Research: Machine Learning and Computation, 2(2), e2024JH000569. https://doi.org/10.1029/2024jh000569</summary>
+    <summary>Ardid, Alberto, Barth, Anna, Dempsey, David, Manga, Michael, Cronin, Shane J. (2025). Forecasting Eruptions at Steamboat Geyser: Time Scales, Differentiability, and Detectability of Seismic Precursors Through Data‐Driven Methods. Journal of Geophysical Research: Machine Learning and Computation, 2(2), e2024JH000569. https://doi.org/10.1029/2024jh000569 A machine learning model trained on signals in the 2018 seismic record of Steamboat Geyser showed a fair ability to separate pre-eruption periods from other times in later data. Its eruption probability peaked at 12.6% within 18 hours of an eruption, compared with 8.1% from eruption intervals alone.</summary>
   </entry>
   <entry>
     <title>Ergodic seismic precursors and transfer learning for short term eruption forecasting at data scarce volcanoes</title>
@@ -207,7 +207,7 @@
     <link href="https://ddempsey.github.io/papers/2023-yu-association-injection-microseismicity-geothermal-fields/"/>
     <id>https://doi.org/10.1029/2022jb025952</id>
     <updated>2023-04-16T00:00:00Z</updated>
-    <summary>Yu, Pengliang, Dempsey, David, Rinaldi, Antonio Pio, Calibugan, Aimee, Ritz, Vanille A., Archer, Rosalind (2023). Association Between Injection and Microseismicity in Geothermal Fields With Multiple Wells: Data‐Driven Modeling of Rotokawa, New Zealand, and Húsmúli, Iceland. Journal of Geophysical Research: Solid Earth, 128(4), e2022JB025952. https://doi.org/10.1029/2022jb025952</summary>
+    <summary>Yu, Pengliang, Dempsey, David, Rinaldi, Antonio Pio, Calibugan, Aimee, Ritz, Vanille A., Archer, Rosalind (2023). Association Between Injection and Microseismicity in Geothermal Fields With Multiple Wells: Data‐Driven Modeling of Rotokawa, New Zealand, and Húsmúli, Iceland. Journal of Geophysical Research: Solid Earth, 128(4), e2022JB025952. https://doi.org/10.1029/2022jb025952 We used data-driven methods to find which injection wells are associated with small earthquakes at the Rotokawa (New Zealand) and Húsmúli (Iceland) fields. Injection was more closely associated with earthquake rates averaged over weeks than over days. At Rotokawa, we found no evidence that rapid injection changes trigger earthquakes.</summary>
   </entry>
   <entry>
     <title>Identification of Seismo‐Volcanic Regimes at Whakaari/White Island (New Zealand) Via Systematic Tuning of an Unsupervised Classifier</title>
