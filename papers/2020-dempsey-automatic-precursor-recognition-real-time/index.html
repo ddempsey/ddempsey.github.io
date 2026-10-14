@@ -1,0 +1,278 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Automatic precursor recognition and real-time forecasting of sudden explosive volcanic eruptions at Whakaari, New Zealand — David Dempsey</title>
+<meta name="author" content="David Dempsey">
+<meta name="description" content="We trained a machine learning model on nine years of seismic tremor from one station at Whakaari. It recognised four-hour tremor bursts before most eruptions. In tests on eruptions withheld from its training, it warned of four of five eruptive episodes, including 17 hours before the fatal 2019 eruption.">
+<link rel="canonical" href="https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/">
+<link rel="alternate" type="text/markdown" href="https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/index.md" title="This page as Markdown">
+<link rel="alternate" type="text/markdown" href="https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/fulltext.md" title="Full text as Markdown">
+<link rel="alternate" type="application/x-bibtex" href="https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/citation.bib">
+<meta name="citation_title" content="Automatic precursor recognition and real-time forecasting of sudden explosive volcanic eruptions at Whakaari, New Zealand">
+<meta name="citation_author" content="Dempsey, D. E.">
+<meta name="citation_author_orcid" content="https://orcid.org/0000-0003-2135-5129">
+<meta name="citation_author" content="Cronin, S. J.">
+<meta name="citation_author_orcid" content="https://orcid.org/0000-0001-7499-603X">
+<meta name="citation_author" content="Mei, S.">
+<meta name="citation_author" content="Kempa-Liehr, A. W.">
+<meta name="citation_author_orcid" content="https://orcid.org/0000-0001-5558-0573">
+<meta name="citation_publication_date" content="2020/07/16">
+<meta name="citation_journal_title" content="Nature Communications">
+<meta name="citation_issn" content="2041-1723">
+<meta name="citation_volume" content="11">
+<meta name="citation_issue" content="1">
+<meta name="citation_firstpage" content="3562">
+<meta name="citation_publisher" content="Springer Science and Business Media LLC">
+<meta name="citation_doi" content="10.1038/s41467-020-17375-2">
+<meta name="citation_abstract_html_url" content="https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/">
+<meta name="citation_pdf_url" content="https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/dempsey2020-automatic-precursor-recognition.pdf">
+<meta name="dc.identifier" content="doi:10.1038/s41467-020-17375-2">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Automatic precursor recognition and real-time forecasting of sudden explosive volcanic eruptions at Whakaari, New Zealand">
+<meta property="og:url" content="https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/">
+<script type="application/ld+json">{
+ "@context": "https://schema.org",
+ "@type": "ScholarlyArticle",
+ "@id": "https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/",
+ "url": "https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/",
+ "headline": "Automatic precursor recognition and real-time forecasting of sudden explosive volcanic eruptions at Whakaari, ",
+ "name": "Automatic precursor recognition and real-time forecasting of sudden explosive volcanic eruptions at Whakaari, New Zealand",
+ "author": [
+  {
+   "@type": "Person",
+   "name": "D. E. Dempsey",
+   "givenName": "D. E.",
+   "familyName": "Dempsey",
+   "sameAs": "https://orcid.org/0000-0003-2135-5129",
+   "@id": "https://ddempsey.github.io/#person"
+  },
+  {
+   "@type": "Person",
+   "name": "S. J. Cronin",
+   "givenName": "S. J.",
+   "familyName": "Cronin",
+   "sameAs": "https://orcid.org/0000-0001-7499-603X"
+  },
+  {
+   "@type": "Person",
+   "name": "S. Mei",
+   "givenName": "S.",
+   "familyName": "Mei"
+  },
+  {
+   "@type": "Person",
+   "name": "A. W. Kempa-Liehr",
+   "givenName": "A. W.",
+   "familyName": "Kempa-Liehr",
+   "sameAs": "https://orcid.org/0000-0001-5558-0573"
+  }
+ ],
+ "datePublished": "2020-07-16",
+ "identifier": {
+  "@type": "PropertyValue",
+  "propertyID": "DOI",
+  "value": "10.1038/s41467-020-17375-2"
+ },
+ "sameAs": "https://doi.org/10.1038/s41467-020-17375-2",
+ "isPartOf": {
+  "@type": "Periodical",
+  "name": "Nature Communications",
+  "issn": "2041-1723",
+  "publisher": {
+   "@type": "Organization",
+   "name": "Springer Science and Business Media LLC"
+  }
+ },
+ "keywords": "Volcano, Warning system, Explosive material, Seismology, Geology",
+ "mainEntityOfPage": "https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/",
+ "abstract": "Sudden steam-driven eruptions strike without warning and are a leading cause of fatalities at touristic volcanoes. Recent deaths following the 2019 Whakaari eruption in New Zealand expose a need for accurate, short-term forecasting. However, current volcano alert systems are heuristic and too slowly updated with human input. Here, we show that a structured machine learning approach can detect eruption precursors in real-time seismic data streamed from Whakaari. We identify four-hour energy bursts that occur hours to days before most eruptions and suggest these indicate charging of the vent hydrothermal system by hot magmatic fluids. We developed a model to issue short-term alerts of elevated eruption likelihood and show that, under cross-validation testing, it could provide advanced warning of an unseen eruption in four out of five instances, including at least four hours warning for the 2019 eruption. This makes a strong case to adopt real-time forecasting models at active volcanoes.",
+ "description": "We trained a machine learning model on nine years of seismic tremor from one station at Whakaari. It recognised four-hour tremor bursts before most eruptions. In tests on eruptions withheld from its training, it warned of four of five eruptive episodes, including 17 hours before the fatal 2019 eruption.",
+ "isAccessibleForFree": true,
+ "license": "https://creativecommons.org/licenses/by/4.0",
+ "encoding": [
+  {
+   "@type": "MediaObject",
+   "encodingFormat": "application/pdf",
+   "contentUrl": "https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/dempsey2020-automatic-precursor-recognition.pdf",
+   "description": "Published version"
+  },
+  {
+   "@type": "MediaObject",
+   "encodingFormat": "text/markdown",
+   "contentUrl": "https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/index.md"
+  },
+  {
+   "@type": "MediaObject",
+   "encodingFormat": "text/markdown",
+   "contentUrl": "https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/fulltext.md",
+   "description": "Full text (Markdown)"
+  }
+ ]
+}</script>
+<link rel="stylesheet" href="/static/site.css">
+<link rel="alternate" type="application/atom+xml" title="New papers" href="/feed.xml">
+<link rel="alternate" type="text/plain" title="Guide for AI agents" href="/llms.txt">
+<link rel="alternate" type="application/json" title="Machine-readable catalogue" href="/papers.json">
+<link rel="me" href="https://orcid.org/0000-0003-2135-5129">
+<link rel="me" href="https://openalex.org/A5023515961">
+<link rel="me" href="https://github.com/ddempsey">
+<link rel="me" href="https://scholar.google.com/citations?user=trg7MEUAAAAJ">
+<link rel="me" href="https://profiles.canterbury.ac.nz/David-Dempsey">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site">
+  <a class="brand" href="/">David Dempsey</a>
+  <nav><a href="/#papers">Papers</a><a href="/llms.txt" title="Plain-text guide for AI agents">For agents</a><a href="https://orcid.org/0000-0003-2135-5129">ORCID</a></nav>
+</header>
+<main id="main">
+<article class="paper-page">
+  <p class="kicker"><i>Nature Communications</i> · 2020 · <span class="topic">Volcanoes &amp; eruption forecasting</span></p>
+  <h1>Automatic precursor recognition and real-time forecasting of sudden explosive volcanic eruptions at Whakaari, New Zealand</h1>
+  <p class="authors"><a href="https://orcid.org/0000-0003-2135-5129">D. E. Dempsey</a>, <a href="https://orcid.org/0000-0001-7499-603X">S. J. Cronin</a>, S. Mei, <a href="https://orcid.org/0000-0001-5558-0573">A. W. Kempa-Liehr</a></p>
+
+  <div class="access">
+    <a class="btn primary" href="https://doi.org/10.1038/s41467-020-17375-2">Version of record · doi:10.1038/s41467-020-17375-2</a>
+    <a class="btn" href="dempsey2020-automatic-precursor-recognition.pdf" type="application/pdf">PDF · Published version</a>
+<a class="btn" href="fulltext.md" type="text/markdown">Full text (Markdown)</a><a class="btn ghost" href="https://hdl.handle.net/10092/105819">Also in UC Research Repository</a>    <a class="btn ghost" href="citation.bib">BibTeX</a>
+    <a class="btn ghost" href="index.md" type="text/markdown">Markdown</a>
+  </div>
+<p class="notice">Published version, reproduced under the CC BY 4.0 licence. © The Author(s). Version of record: https://doi.org/10.1038/s41467-020-17375-2</p><p class="provenance">All explainers on this site are AI-generated and human-checked.</p>
+  <section class="explainer">
+    <h2>In brief</h2>
+<p class="summary">We trained a machine learning model on nine years of seismic tremor from one station at Whakaari. It recognised four-hour tremor bursts before most eruptions. In tests on eruptions withheld from its training, it warned of four of five eruptive episodes, including 17 hours before the fatal 2019 eruption.</p><ul class="keypoints"><li>We trained a forecaster on tremor recorded at a single seismic station from 2011 to 2020, and it updates its forecast every 10 minutes.</li><li>In cross-validation at an alert threshold of 0.8, the model warned in advance of five of seven eruptions, including 17 hours before the fatal December 2019 eruption.</li><li>At that threshold, alerts covered 8.5% of the nine years and 8.6% of alerts contained an eruption.</li><li>A stricter threshold of 0.93 reduced the time under alert to 2.5% and raised the share of alerts containing an eruption to 15%, but missed one more eruption.</li><li>The main precursors were tremor bursts lasting about four hours. We suggest these record magma rising beneath the vent and releasing hot gas into the shallow hydrothermal system.</li></ul>    <div class="prose"><h2>The problem</h2>
+<p>On 9 December 2019, Whakaari (White Island) erupted while 47 tourists and
+guides were on the island. Twenty-one were killed or fatally injured.
+Twenty-four days earlier, the volcano had been assessed at alert level 2, on a
+scale up to 5. The alert level classifies the current state of a volcano and
+gives no eruption forecast.</p>
+<p>Alert levels are set by expert consensus, an approach that has proven useful
+in slow-building crises (Barberi et al., 2009; Jousset et al., 2012). For
+small eruptions at a hydrothermally active volcano, consensus can be too slow
+to issue a warning. Our goal was to test whether an automatic system could
+recognise eruption precursors in real time and give a fast, transparent
+forecast.</p>
+<h2>What we did</h2>
+<p>We used continuous data from one seismometer (station WIZ) from 2011 to 2019.
+Every 10 minutes we computed four measures of volcanic tremor: the average
+strength of shaking in three frequency bands, and a ratio between two of them.
+The nine years contain five major eruptive episodes and seven eruptions. One
+episode, in October 2013, contained three eruptions over eight days.</p>
+<p>We divided the record into 48-hour windows that overlap by 36 hours. For each
+window we computed several hundred features, such as its mean, its trend, and
+the strength of oscillations at particular periods. Each window was labelled
+by whether an eruption occurred in the following 48 hours. A statistical test
+then identified the features whose values differed before eruptions. We treat
+these as candidate precursors.</p>
+<p>Only about 1 in 400 windows was followed by an eruption. We balanced the data
+by randomly discarding most of the no-eruption windows. Because this step is
+arbitrary, we repeated it 100 times and trained a decision tree on each
+version. Every 10 minutes, each tree uses the last 48 hours of tremor to
+predict whether an eruption will occur in the next 48 hours, and the fraction
+of trees predicting one is the ensemble mean. An alert is issued when the
+ensemble mean exceeds a chosen threshold, and is withdrawn once it has stayed
+below the threshold for 48 hours.</p>
+<p>We tested the model by cross-validation, withholding one month of data either
+side of each eruptive episode and forecasting that episode with a model
+trained on the rest.</p>
+<h2>What we found</h2>
+<p>At a threshold of 0.8 (80 of the 100 trees predicting an eruption), the model
+warned in advance of four of the five episodes, or five of the seven
+eruptions. It issued an alert 17 hours before the fatal 2019 eruption. Warning
+times for the other eruptions ranged from 7 to 75 hours. It missed the 8
+October 2013 eruption, the second of three in that episode, and the April 2016
+episode.</p>
+<p>Raising the threshold reduces false alarms and increases the number of missed
+eruptions. This is because more trees must agree before an alert is issued. At
+0.8, the model issued 58 alerts covering 8.5% of the nine years, or about one
+month a year, and 8.6% of them contained an eruption. At 0.93, it issued 26
+alerts covering 2.5% of the period, or about nine days a year, and 15% of them
+contained an eruption. However, it also missed the 3 October 2013 eruption,
+while still warning of the 2019 eruption at least four hours ahead. To warn of
+five of the seven eruptions by chance, randomly placed alerts would need to
+cover about 70% of the period, or about eight months a year.</p>
+<p>We also tuned a rule based on two manually selected features on all the data,
+with no cross-validation. Its 12 alerts, totalling 55 days, warned of six of
+the seven eruptions, and half of the alerts contained an eruption. However,
+the rule was scored on the eruptions it was fitted to. We expect it to perform
+poorly on future data.</p>
+<div class="widget" id="w-alert-tradeoff" role="group" aria-label="Comparison of the time under alert, the chance that an alert contains an eruption, and which of seven eruptions were warned of, for each operating point reported in the paper"></div>
+<p>The most informative precursors were bursts of tremor lasting about four
+hours, overlaid by a 40-minute oscillation. They preceded the 2019 eruption
+and both 2013 eruptive episodes. We suggest these bursts record magma rising
+beneath the vent and releasing hot gas into the shallow hydrothermal system.
+In this interpretation, the gas raises the pressure until the rock capping the
+system fails. Before the 2016 eruption these signals were weaker, and rock
+fragments thrown out by that eruption contained no magmatic material (Kennedy
+et al., 2020). We interpret it as a hydrothermal explosion of trapped
+groundwater.</p>
+<h2>Limitations</h2>
+<p>The forecaster runs in under a minute on a desktop computer and needs only one
+seismometer. However, it is a prototype. A stronger test is to fix the model
+and evaluate it on data recorded afterwards (Schorlemmer et al., 2018).</p>
+<p>Trained only on data recorded before each eruption, the model warned of the
+October 2013 and December 2019 eruptions and missed the August 2013 eruption.
+A data-driven model forecasts only eruptions whose precursors resemble those
+in its training data. This probably explains the missed 2016 eruption. An
+ensemble mean of 0.8 also cannot be read as an 80% chance of eruption. This is
+because the trees were not calibrated to give probabilities. Our 48-hour
+window and 48-hour forecast horizon were tuned on the same nine years of data.</p>
+<p>Who sets the alert threshold, and who has access to the forecasts, are open
+questions with implications for public safety, economic activity, and public
+trust. They need to be resolved before automatic forecasts can meet public
+expectations of volcano warnings.</p>
+<h2>Glossary</h2>
+<p>A <strong>steam-driven (phreatic) eruption</strong> is an explosion caused by heated water
+flashing to steam.</p>
+<p>The <strong>volcanic alert level</strong> is New Zealand's numbered scale, with a highest
+level of 5, describing the current state of a volcano.</p>
+<p>An <strong>eruptive episode</strong> is a single eruption or a group of eruptions close in
+time, which we treat as one event.</p>
+<p><strong>Volcanic tremor</strong> is continuous low-level shaking of the ground at an active
+volcano.</p>
+<p>A <strong>hydrothermal system</strong> is a body of hot water and gas circulating through
+rock beneath a volcano.</p>
+<p>A <strong>feature</strong> is a single number that summarises a segment of the tremor
+record, such as its mean or trend.</p>
+<p>A <strong>decision tree</strong> is a classifier that assigns cases to classes by a
+sequence of threshold tests on their feature values.</p>
+<p>The <strong>ensemble mean</strong> is the fraction of the 100 decision trees that predict
+an eruption in the next 48 hours.</p>
+<p>The <strong>alert threshold</strong> is the ensemble mean above which the model issues an
+alert.</p>
+<p><strong>Cross-validation</strong> tests a model on data withheld from its training.</p>
+</div>
+  </section>
+
+  <section class="abstract">
+    <h2>Abstract</h2>
+    <p>Sudden steam-driven eruptions strike without warning and are a leading cause of fatalities at touristic volcanoes. Recent deaths following the 2019 Whakaari eruption in New Zealand expose a need for accurate, short-term forecasting. However, current volcano alert systems are heuristic and too slowly updated with human input. Here, we show that a structured machine learning approach can detect eruption precursors in real-time seismic data streamed from Whakaari. We identify four-hour energy bursts that occur hours to days before most eruptions and suggest these indicate charging of the vent hydrothermal system by hot magmatic fluids. We developed a model to issue short-term alerts of elevated eruption likelihood and show that, under cross-validation testing, it could provide advanced warning of an unseen eruption in four out of five instances, including at least four hours warning for the 2019 eruption. This makes a strong case to adopt real-time forecasting models at active volcanoes.</p>
+  </section>
+
+  <section class="cite">
+    <h2>Cite</h2>
+    <p class="citation">Dempsey, D. E., Cronin, S. J., Mei, S., Kempa-Liehr, A. W. (2020). Automatic precursor recognition and real-time forecasting of sudden explosive volcanic eruptions at Whakaari, New Zealand. Nature Communications, 11(1), 3562. https://doi.org/10.1038/s41467-020-17375-2</p>
+    <details><summary>BibTeX</summary><pre>@article{dempsey2020automatic,
+  title = {Automatic precursor recognition and real-time forecasting of sudden explosive volcanic eruptions at Whakaari, New Zealand},
+  author = {Dempsey, D. E. and Cronin, S. J. and Mei, S. and Kempa-Liehr, A. W.},
+  journal = {Nature Communications},
+  year = {2020},
+  volume = {11},
+  number = {1},
+  pages = {3562},
+  publisher = {Springer Science and Business Media LLC},
+  doi = {10.1038/s41467-020-17375-2},
+  url = {https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/}
+}
+</pre></details>
+  </section>
+</article>
+<script src="widget.js" defer></script></main>
+<footer class="site">
+  <p>David Dempsey, University of Canterbury. Open copies are posted under each publisher's self-archiving policy; the DOI link always points to the version of record.</p>
+  <p class="machine">Machine-readable: <a href="/llms.txt">llms.txt</a> · <a href="/papers.json">papers.json</a> · <a href="/sitemap.xml">sitemap.xml</a> · <a href="/feed.xml">Atom feed</a> · <a href="index.md">this page as Markdown</a></p>
+</footer>
+</body>
+</html>

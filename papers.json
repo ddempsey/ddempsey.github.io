@@ -1,0 +1,1801 @@
+{
+ "author": "David Dempsey",
+ "orcid": "0000-0003-2135-5129",
+ "generated": "2026-10-15",
+ "papers": [
+  {
+   "title": "Surrogate-Based probabilistic assessment of hydrogen leakage through abandoned wells in depleted gas reservoirs for underground hydrogen storage",
+   "authors": [
+    "Qiuhao Chang",
+    "David Dempsey",
+    "Guilong Xu",
+    "Liehui Zhang",
+    "Yulong Zhao"
+   ],
+   "year": 2027,
+   "date": "2027-01-01",
+   "journal": "Fuel",
+   "volume": "428",
+   "pages": "140374",
+   "doi": "10.1016/j.fuel.2026.140374",
+   "doi_url": "https://doi.org/10.1016/j.fuel.2026.140374",
+   "page": "https://ddempsey.github.io/papers/2027-chang-surrogate-probabilistic-assessment-hydrogen-leakage/",
+   "markdown": "https://ddempsey.github.io/papers/2027-chang-surrogate-probabilistic-assessment-hydrogen-leakage/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2027-chang-surrogate-probabilistic-assessment-hydrogen-leakage/chang2027-surrogate-probabilistic-assessment.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2027-chang-surrogate-probabilistic-assessment-hydrogen-leakage/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2027-chang-surrogate-probabilistic-assessment-hydrogen-leakage/citation.bib",
+   "summary": null,
+   "topics": [
+    "CO2 & hydrogen storage"
+   ]
+  },
+  {
+   "title": "A Physics‐Based, Lumped‐Parameter Model for Attributing Natural and Anthropogenic CO2 Emissions From Producing Geothermal Systems",
+   "authors": [
+    "David Dempsey"
+   ],
+   "year": 2026,
+   "date": "2026-09-12",
+   "journal": "Water Resources Research",
+   "volume": "62",
+   "pages": "e2026WR044239",
+   "doi": "10.1029/2026wr044239",
+   "doi_url": "https://doi.org/10.1029/2026wr044239",
+   "page": "https://ddempsey.github.io/papers/2026-dempsey-physics-lumped-parameter-model-attributing/",
+   "markdown": "https://ddempsey.github.io/papers/2026-dempsey-physics-lumped-parameter-model-attributing/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2026-dempsey-physics-lumped-parameter-model-attributing/dempsey2026-physics-lumped-parameter.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2026-dempsey-physics-lumped-parameter-model-attributing/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2026-dempsey-physics-lumped-parameter-model-attributing/citation.bib",
+   "summary": null,
+   "topics": [
+    "Geothermal systems",
+    "CO2 & hydrogen storage",
+    "Groundwater & hydrology"
+   ]
+  },
+  {
+   "title": "Socio-economic value of data-driven eruption forecasts to balance false alarms against catastrophic loss",
+   "authors": [
+    "Alberto Ardid",
+    "David Dempsey",
+    "Garry McDonald",
+    "Shane Cronin"
+   ],
+   "year": 2026,
+   "date": "2026-08-26",
+   "journal": "Nature Communications",
+   "volume": "17",
+   "pages": "9356",
+   "doi": "10.1038/s41467-026-77242-4",
+   "doi_url": "https://doi.org/10.1038/s41467-026-77242-4",
+   "page": "https://ddempsey.github.io/papers/2026-ardid-socio-economic-value-data-driven/",
+   "markdown": "https://ddempsey.github.io/papers/2026-ardid-socio-economic-value-data-driven/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2026-ardid-socio-economic-value-data-driven/ardid2026-socio-economic-value.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2026-ardid-socio-economic-value-data-driven/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2026-ardid-socio-economic-value-data-driven/citation.bib",
+   "summary": null,
+   "topics": [
+    "Volcanoes & eruption forecasting"
+   ]
+  },
+  {
+   "title": "A Machine‐Learning Classification for Torlesse Composite Terrane Petrofacies and its Application to Sediment Provenance",
+   "authors": [
+    "Matthew O. Parker",
+    "David E. Dempsey",
+    "Matthew W. Sagar",
+    "Kari N. Bassett",
+    "Alexander R. L. Nichols",
+    "Greg H. Browne"
+   ],
+   "year": 2026,
+   "date": "2026-06-16",
+   "journal": "New Zealand Journal of Geology and Geophysics",
+   "volume": "69",
+   "pages": "e70064",
+   "doi": "10.1002/jgo2.70064",
+   "doi_url": "https://doi.org/10.1002/jgo2.70064",
+   "page": "https://ddempsey.github.io/papers/2026-parker-machine-learning-classification-torlesse-composite/",
+   "markdown": "https://ddempsey.github.io/papers/2026-parker-machine-learning-classification-torlesse-composite/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2026-parker-machine-learning-classification-torlesse-composite/parker2026-machine-learning-classification.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2026-parker-machine-learning-classification-torlesse-composite/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2026-parker-machine-learning-classification-torlesse-composite/citation.bib",
+   "summary": null,
+   "topics": []
+  },
+  {
+   "title": "From forecast skill to economic value: sub-hourly wildfire potential forecasting across Australian regions",
+   "authors": [
+    "Alberto Ardid",
+    "Anthony Power",
+    "Andres Valencia",
+    "H. Grant Pearce",
+    "Shana Gross",
+    "David Dempsey",
+    "Matthias Boer"
+   ],
+   "year": 2026,
+   "date": "2026-03-25",
+   "journal": "International Journal of Wildland Fire",
+   "volume": "35",
+   "pages": "WF25221",
+   "doi": "10.1071/wf25221",
+   "doi_url": "https://doi.org/10.1071/wf25221",
+   "page": "https://ddempsey.github.io/papers/2026-ardid-forecast-skill-economic-value-sub/",
+   "markdown": "https://ddempsey.github.io/papers/2026-ardid-forecast-skill-economic-value-sub/index.md",
+   "pdf": null,
+   "pdf_version": null,
+   "open_copy_elsewhere": "https://hdl.handle.net/10092/109982",
+   "fulltext_markdown": null,
+   "bibtex": "https://ddempsey.github.io/papers/2026-ardid-forecast-skill-economic-value-sub/citation.bib",
+   "summary": null,
+   "topics": [
+    "Fire & other hazards"
+   ]
+  },
+  {
+   "title": "Impacts of reservoir permeability anisotropy on hydrogen migration and recovery efficiency in geological storage",
+   "authors": [
+    "Jinjiang Liu",
+    "David Dempsey",
+    "Andy Nicol",
+    "Matt Parker",
+    "Karan Titus"
+   ],
+   "year": 2026,
+   "date": "2026-03-01",
+   "journal": "Fuel",
+   "volume": "408",
+   "pages": "137596",
+   "doi": "10.1016/j.fuel.2025.137596",
+   "doi_url": "https://doi.org/10.1016/j.fuel.2025.137596",
+   "page": "https://ddempsey.github.io/papers/2026-liu-impacts-reservoir-permeability-anisotropy-hydrogen/",
+   "markdown": "https://ddempsey.github.io/papers/2026-liu-impacts-reservoir-permeability-anisotropy-hydrogen/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2026-liu-impacts-reservoir-permeability-anisotropy-hydrogen/liu2026-impacts-reservoir-permeability.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2026-liu-impacts-reservoir-permeability-anisotropy-hydrogen/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2026-liu-impacts-reservoir-permeability-anisotropy-hydrogen/citation.bib",
+   "summary": null,
+   "topics": [
+    "CO2 & hydrogen storage"
+   ]
+  },
+  {
+   "title": "Effects of reservoir interlayers on hydrogen migration and distribution in underground hydrogen storage",
+   "authors": [
+    "Jinjiang Liu",
+    "David Dempsey",
+    "Andy Nicol",
+    "Matt Parker",
+    "John Passmore"
+   ],
+   "year": 2026,
+   "date": "2026-02-01",
+   "journal": "International Journal of Hydrogen Energy",
+   "volume": "211",
+   "pages": "153704",
+   "doi": "10.1016/j.ijhydene.2026.153704",
+   "doi_url": "https://doi.org/10.1016/j.ijhydene.2026.153704",
+   "page": "https://ddempsey.github.io/papers/2026-liu-effects-reservoir-interlayers-hydrogen-migration/",
+   "markdown": "https://ddempsey.github.io/papers/2026-liu-effects-reservoir-interlayers-hydrogen-migration/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2026-liu-effects-reservoir-interlayers-hydrogen-migration/liu2026-effects-reservoir-interlayers.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2026-liu-effects-reservoir-interlayers-hydrogen-migration/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2026-liu-effects-reservoir-interlayers-hydrogen-migration/citation.bib",
+   "summary": null,
+   "topics": [
+    "CO2 & hydrogen storage"
+   ]
+  },
+  {
+   "title": "Determination of interfacial tension for H2-H2S-water and CH4-H2S-water mixtures under different geological conditions for underground hydrogen storage",
+   "authors": [
+    "Qiuhao Chang",
+    "David Dempsey",
+    "Liangliang Huang"
+   ],
+   "year": 2026,
+   "date": "2026-01-01",
+   "journal": "Journal of Energy Storage",
+   "volume": "143",
+   "pages": "119683",
+   "doi": "10.1016/j.est.2025.119683",
+   "doi_url": "https://doi.org/10.1016/j.est.2025.119683",
+   "page": "https://ddempsey.github.io/papers/2026-chang-determination-interfacial-tension-h2s-water/",
+   "markdown": "https://ddempsey.github.io/papers/2026-chang-determination-interfacial-tension-h2s-water/index.md",
+   "pdf": null,
+   "pdf_version": null,
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": null,
+   "bibtex": "https://ddempsey.github.io/papers/2026-chang-determination-interfacial-tension-h2s-water/citation.bib",
+   "summary": null,
+   "topics": [
+    "CO2 & hydrogen storage"
+   ]
+  },
+  {
+   "title": "Preferential seawater intrusion in a heterogeneous alluvial aquifer that extends offshore: Insights from numerical modeling",
+   "authors": [
+    "Connor A. Cleary",
+    "Theo S. Sarris",
+    "Leanne K. Morgan",
+    "David E. Dempsey"
+   ],
+   "year": 2025,
+   "date": "2025-11-01",
+   "journal": "Journal of Hydrology",
+   "volume": "661",
+   "pages": "133455",
+   "doi": "10.1016/j.jhydrol.2025.133455",
+   "doi_url": "https://doi.org/10.1016/j.jhydrol.2025.133455",
+   "page": "https://ddempsey.github.io/papers/2025-cleary-preferential-seawater-intrusion-heterogeneous-alluvial/",
+   "markdown": "https://ddempsey.github.io/papers/2025-cleary-preferential-seawater-intrusion-heterogeneous-alluvial/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2025-cleary-preferential-seawater-intrusion-heterogeneous-alluvial/cleary2025-preferential-seawater-intrusion.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2025-cleary-preferential-seawater-intrusion-heterogeneous-alluvial/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2025-cleary-preferential-seawater-intrusion-heterogeneous-alluvial/citation.bib",
+   "summary": null,
+   "topics": [
+    "Groundwater & hydrology"
+   ]
+  },
+  {
+   "title": "Advanced Hydrogeochemical Coupling in Carbon Sequestration: A 4D Spatiotemporal Fourier Neural Operator–Driven Modeling Framework",
+   "authors": [
+    "Zhenhua Rui",
+    "Kaihu Zhou",
+    "Ting Hu",
+    "David Dempsey",
+    "Kai Du",
+    "Siwei Chen"
+   ],
+   "year": 2025,
+   "date": "2025-07-21",
+   "journal": "SPE Journal",
+   "volume": "30",
+   "pages": "5858-5880",
+   "doi": "10.2118/228397-pa",
+   "doi_url": "https://doi.org/10.2118/228397-pa",
+   "page": "https://ddempsey.github.io/papers/2025-rui-advanced-hydrogeochemical-coupling-carbon-sequestration/",
+   "markdown": "https://ddempsey.github.io/papers/2025-rui-advanced-hydrogeochemical-coupling-carbon-sequestration/index.md",
+   "pdf": null,
+   "pdf_version": null,
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": null,
+   "bibtex": "https://ddempsey.github.io/papers/2025-rui-advanced-hydrogeochemical-coupling-carbon-sequestration/citation.bib",
+   "summary": null,
+   "topics": [
+    "CO2 & hydrogen storage"
+   ]
+  },
+  {
+   "title": "The Research and Impact of the Works by Don Nield",
+   "authors": [
+    "Sid Becker",
+    "David Dempsey",
+    "Dan Zhao"
+   ],
+   "year": 2025,
+   "date": "2025-07-16",
+   "journal": "Transport in Porous Media",
+   "volume": "152",
+   "pages": "61",
+   "doi": "10.1007/s11242-025-02199-9",
+   "doi_url": "https://doi.org/10.1007/s11242-025-02199-9",
+   "page": "https://ddempsey.github.io/papers/2025-becker-research-impact-works-don-nield/",
+   "markdown": "https://ddempsey.github.io/papers/2025-becker-research-impact-works-don-nield/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2025-becker-research-impact-works-don-nield/becker2025-research-impact-works.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2025-becker-research-impact-works-don-nield/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2025-becker-research-impact-works-don-nield/citation.bib",
+   "summary": null,
+   "topics": []
+  },
+  {
+   "title": "Quantifying Interannual Variations in Groundwater Fluxes Within a Braidplain Aquifer Using Active‐Distributed Temperature Sensing",
+   "authors": [
+    "A. J. Sai Louie",
+    "L. K. Morgan",
+    "D. Dempsey",
+    "S. Wilson",
+    "E. W. Banks"
+   ],
+   "year": 2025,
+   "date": "2025-07-15",
+   "journal": "Water Resources Research",
+   "volume": "61",
+   "pages": "e2024WR039328",
+   "doi": "10.1029/2024wr039328",
+   "doi_url": "https://doi.org/10.1029/2024wr039328",
+   "page": "https://ddempsey.github.io/papers/2025-sai-louie-quantifying-interannual-variations-groundwater-fluxes/",
+   "markdown": "https://ddempsey.github.io/papers/2025-sai-louie-quantifying-interannual-variations-groundwater-fluxes/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2025-sai-louie-quantifying-interannual-variations-groundwater-fluxes/sai-louie2025-louie-quantifying-interannual.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2025-sai-louie-quantifying-interannual-variations-groundwater-fluxes/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2025-sai-louie-quantifying-interannual-variations-groundwater-fluxes/citation.bib",
+   "summary": null,
+   "topics": [
+    "Groundwater & hydrology"
+   ]
+  },
+  {
+   "title": "Impact of operational parameters on water invasion in underground hydrogen storage: A numerical investigation of the Ahuroa field, New Zealand",
+   "authors": [
+    "Jinjiang Liu",
+    "David Dempsey",
+    "Andy Nicol",
+    "Matt Parker",
+    "John Passmore"
+   ],
+   "year": 2025,
+   "date": "2025-07-01",
+   "journal": "International Journal of Hydrogen Energy",
+   "volume": "153",
+   "pages": "150236",
+   "doi": "10.1016/j.ijhydene.2025.150236",
+   "doi_url": "https://doi.org/10.1016/j.ijhydene.2025.150236",
+   "page": "https://ddempsey.github.io/papers/2025-liu-impact-operational-parameters-water-invasion/",
+   "markdown": "https://ddempsey.github.io/papers/2025-liu-impact-operational-parameters-water-invasion/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2025-liu-impact-operational-parameters-water-invasion/liu2025-impact-operational-parameters.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2025-liu-impact-operational-parameters-water-invasion/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2025-liu-impact-operational-parameters-water-invasion/citation.bib",
+   "summary": null,
+   "topics": [
+    "CO2 & hydrogen storage"
+   ]
+  },
+  {
+   "title": "Forecasting Eruptions at Steamboat Geyser: Time Scales, Differentiability, and Detectability of Seismic Precursors Through Data‐Driven Methods",
+   "authors": [
+    "Alberto Ardid",
+    "Anna Barth",
+    "David Dempsey",
+    "Michael Manga",
+    "Shane J. Cronin"
+   ],
+   "year": 2025,
+   "date": "2025-04-12",
+   "journal": "Journal of Geophysical Research: Machine Learning and Computation",
+   "volume": "2",
+   "pages": "e2024JH000569",
+   "doi": "10.1029/2024jh000569",
+   "doi_url": "https://doi.org/10.1029/2024jh000569",
+   "page": "https://ddempsey.github.io/papers/2025-ardid-forecasting-eruptions-steamboat-geyser-time/",
+   "markdown": "https://ddempsey.github.io/papers/2025-ardid-forecasting-eruptions-steamboat-geyser-time/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2025-ardid-forecasting-eruptions-steamboat-geyser-time/ardid2025-forecasting-eruptions-steamboat.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2025-ardid-forecasting-eruptions-steamboat-geyser-time/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2025-ardid-forecasting-eruptions-steamboat-geyser-time/citation.bib",
+   "summary": null,
+   "topics": [
+    "Volcanoes & eruption forecasting",
+    "Induced seismicity & faults"
+   ]
+  },
+  {
+   "title": "Ergodic seismic precursors and transfer learning for short term eruption forecasting at data scarce volcanoes",
+   "authors": [
+    "Alberto Ardid",
+    "David Dempsey",
+    "Corentin Caudron",
+    "Shane Cronin",
+    "Ben Kennedy",
+    "Társilo Girona",
+    "Diana Roman",
+    "Craig Miller",
+    "Sally Potter",
+    "Oliver D. Lamb",
+    "Anto Martanto",
+    "Yesim Cubuk-Sabuncu",
+    "Leoncio Cabrera",
+    "Sergio Ruiz",
+    "Rodrigo Contreras",
+    "Javier Pacheco",
+    "Mauricio M. Mora",
+    "Silvio De Angelis"
+   ],
+   "year": 2025,
+   "date": "2025-02-25",
+   "journal": "Nature Communications",
+   "volume": "16",
+   "pages": "1758",
+   "doi": "10.1038/s41467-025-56689-x",
+   "doi_url": "https://doi.org/10.1038/s41467-025-56689-x",
+   "page": "https://ddempsey.github.io/papers/2025-ardid-ergodic-seismic-precursors-transfer-learning/",
+   "markdown": "https://ddempsey.github.io/papers/2025-ardid-ergodic-seismic-precursors-transfer-learning/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2025-ardid-ergodic-seismic-precursors-transfer-learning/ardid2025-ergodic-seismic-precursors.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2025-ardid-ergodic-seismic-precursors-transfer-learning/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2025-ardid-ergodic-seismic-precursors-transfer-learning/citation.bib",
+   "summary": null,
+   "topics": [
+    "Volcanoes & eruption forecasting",
+    "Induced seismicity & faults"
+   ]
+  },
+  {
+   "title": "Sub-hourly forecasting of fire potential using machine learning on time series of surface weather variables",
+   "authors": [
+    "Alberto Ardid",
+    "Andres Valencia",
+    "Anthony Power",
+    "Matthias M. Boer",
+    "Marwan Katurji",
+    "Shana Gross",
+    "David Dempsey"
+   ],
+   "year": 2025,
+   "date": "2025-01-30",
+   "journal": "International Journal of Wildland Fire",
+   "volume": "34",
+   "pages": "WF24113",
+   "doi": "10.1071/wf24113",
+   "doi_url": "https://doi.org/10.1071/wf24113",
+   "page": "https://ddempsey.github.io/papers/2025-ardid-sub-hourly-forecasting-fire-potential/",
+   "markdown": "https://ddempsey.github.io/papers/2025-ardid-sub-hourly-forecasting-fire-potential/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2025-ardid-sub-hourly-forecasting-fire-potential/ardid2025-sub-hourly-forecasting.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2025-ardid-sub-hourly-forecasting-fire-potential/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2025-ardid-sub-hourly-forecasting-fire-potential/citation.bib",
+   "summary": null,
+   "topics": [
+    "Fire & other hazards"
+   ]
+  },
+  {
+   "title": "Techno-economic analysis of geothermal combined with direct and biomass-based carbon dioxide removal for high-temperature hydrothermal systems",
+   "authors": [
+    "K.A. Titus",
+    "David Dempsey",
+    "Rebecca A.M. Peer",
+    "Rosalind Archer"
+   ],
+   "year": 2025,
+   "date": "2025-01-01",
+   "journal": "Geothermics",
+   "volume": "125",
+   "pages": "103159",
+   "doi": "10.1016/j.geothermics.2024.103159",
+   "doi_url": "https://doi.org/10.1016/j.geothermics.2024.103159",
+   "page": "https://ddempsey.github.io/papers/2025-titus-techno-economic-analysis-geothermal-combined/",
+   "markdown": "https://ddempsey.github.io/papers/2025-titus-techno-economic-analysis-geothermal-combined/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2025-titus-techno-economic-analysis-geothermal-combined/titus2025-techno-economic-analysis.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2025-titus-techno-economic-analysis-geothermal-combined/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2025-titus-techno-economic-analysis-geothermal-combined/citation.bib",
+   "summary": null,
+   "topics": [
+    "Geothermal systems",
+    "CO2 & hydrogen storage"
+   ]
+  },
+  {
+   "title": "Influence of hydrogen sulfide on gas-water interface in underground hydrogen storage: A molecular dynamics study",
+   "authors": [
+    "Qiuhao Chang",
+    "Liangliang Huang",
+    "Kelsey McKenzie",
+    "Carlo Carere",
+    "Matthew Stott",
+    "Andy Nicol",
+    "David Dempsey"
+   ],
+   "year": 2024,
+   "date": "2024-09-01",
+   "journal": "Journal of Energy Storage",
+   "volume": "97",
+   "pages": "112766",
+   "doi": "10.1016/j.est.2024.112766",
+   "doi_url": "https://doi.org/10.1016/j.est.2024.112766",
+   "page": "https://ddempsey.github.io/papers/2024-chang-influence-hydrogen-sulfide-gas-water/",
+   "markdown": "https://ddempsey.github.io/papers/2024-chang-influence-hydrogen-sulfide-gas-water/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2024-chang-influence-hydrogen-sulfide-gas-water/chang2024-influence-hydrogen-sulfide.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": "https://hdl.handle.net/10092/108288",
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2024-chang-influence-hydrogen-sulfide-gas-water/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2024-chang-influence-hydrogen-sulfide-gas-water/citation.bib",
+   "summary": null,
+   "topics": [
+    "CO2 & hydrogen storage"
+   ]
+  },
+  {
+   "title": "Earthquakes Trigger Rapid Flash Boiling Front at Optimal Geologic Conditions",
+   "authors": [
+    "P. Sanchez‐Alfaro",
+    "I. Wallis",
+    "P. Iturrieta",
+    "J. Rowland",
+    "D. Dempsey",
+    "J. O’Sullivan",
+    "M. Reich",
+    "J. Cembrano"
+   ],
+   "year": 2024,
+   "date": "2024-08-21",
+   "journal": "Geophysical Research Letters",
+   "volume": "51",
+   "pages": "e2023GL108109",
+   "doi": "10.1029/2023gl108109",
+   "doi_url": "https://doi.org/10.1029/2023gl108109",
+   "page": "https://ddempsey.github.io/papers/2024-sanchez-alfaro-earthquakes-trigger-rapid-flash-boiling/",
+   "markdown": "https://ddempsey.github.io/papers/2024-sanchez-alfaro-earthquakes-trigger-rapid-flash-boiling/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2024-sanchez-alfaro-earthquakes-trigger-rapid-flash-boiling/sanchez‐alfaro2024-alfaro-earthquakes-trigger.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2024-sanchez-alfaro-earthquakes-trigger-rapid-flash-boiling/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2024-sanchez-alfaro-earthquakes-trigger-rapid-flash-boiling/citation.bib",
+   "summary": null,
+   "topics": [
+    "Induced seismicity & faults"
+   ]
+  },
+  {
+   "title": "From carbon neutral to carbon negative: a theoretical bioenergy and CO2 removal retrofit at Ngāwhā geothermal power station",
+   "authors": [
+    "Karan Titus",
+    "David Dempsey",
+    "Rebecca Peer",
+    "Fabian Hanik"
+   ],
+   "year": 2024,
+   "date": "2024-08-11",
+   "journal": "Journal of the Royal Society of New Zealand",
+   "volume": "55",
+   "pages": "893-911",
+   "doi": "10.1080/03036758.2024.2385807",
+   "doi_url": "https://doi.org/10.1080/03036758.2024.2385807",
+   "page": "https://ddempsey.github.io/papers/2024-titus-carbon-neutral-carbon-negative-theoretical/",
+   "markdown": "https://ddempsey.github.io/papers/2024-titus-carbon-neutral-carbon-negative-theoretical/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2024-titus-carbon-neutral-carbon-negative-theoretical/titus2024-carbon-neutral-carbon.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2024-titus-carbon-neutral-carbon-negative-theoretical/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2024-titus-carbon-neutral-carbon-negative-theoretical/citation.bib",
+   "summary": null,
+   "topics": [
+    "Geothermal systems",
+    "CO2 & hydrogen storage"
+   ]
+  },
+  {
+   "title": "Multitimescale Template Matching: Discovering Eruption Precursors across Diverse Volcanic Settings",
+   "authors": [
+    "Alberto Ardid",
+    "David Dempsey",
+    "Josh Corry",
+    "Owen Garrett",
+    "Oliver D. Lamb",
+    "Shane Cronin"
+   ],
+   "year": 2024,
+   "date": "2024-06-10",
+   "journal": "Seismological Research Letters",
+   "volume": "95",
+   "pages": "2611-2621",
+   "doi": "10.1785/0220240012",
+   "doi_url": "https://doi.org/10.1785/0220240012",
+   "page": "https://ddempsey.github.io/papers/2024-ardid-multitimescale-template-matching-discovering-eruption/",
+   "markdown": "https://ddempsey.github.io/papers/2024-ardid-multitimescale-template-matching-discovering-eruption/index.md",
+   "pdf": null,
+   "pdf_version": null,
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": null,
+   "bibtex": "https://ddempsey.github.io/papers/2024-ardid-multitimescale-template-matching-discovering-eruption/citation.bib",
+   "summary": null,
+   "topics": [
+    "Volcanoes & eruption forecasting"
+   ]
+  },
+  {
+   "title": "Prospectivity analysis for underground hydrogen storage, Taranaki basin, Aotearoa New Zealand: A multi-criteria decision-making approach",
+   "authors": [
+    "Karen E. Higgs",
+    "Dominic P. Strogen",
+    "Andrew Nicol",
+    "David Dempsey",
+    "Kerry Leith",
+    "Kari Bassett",
+    "Catherine Reid",
+    "Edward Yates",
+    "Matthew Parker",
+    "Alan Bischoff",
+    "Ludmila Adam",
+    "Michael Rowe"
+   ],
+   "year": 2024,
+   "date": "2024-06-01",
+   "journal": "International Journal of Hydrogen Energy",
+   "volume": "71",
+   "pages": "1468-1485",
+   "doi": "10.1016/j.ijhydene.2024.05.098",
+   "doi_url": "https://doi.org/10.1016/j.ijhydene.2024.05.098",
+   "page": "https://ddempsey.github.io/papers/2024-higgs-prospectivity-analysis-underground-hydrogen-storage/",
+   "markdown": "https://ddempsey.github.io/papers/2024-higgs-prospectivity-analysis-underground-hydrogen-storage/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2024-higgs-prospectivity-analysis-underground-hydrogen-storage/higgs2024-prospectivity-analysis-underground.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2024-higgs-prospectivity-analysis-underground-hydrogen-storage/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2024-higgs-prospectivity-analysis-underground-hydrogen-storage/citation.bib",
+   "summary": null,
+   "topics": [
+    "CO2 & hydrogen storage"
+   ]
+  },
+  {
+   "title": "Eruption Forecasting Model for Copahue Volcano (Southern Andes) Using Seismic Data and Machine Learning: A Joint Interpretation with Geodetic Data (GNSS and InSAR)",
+   "authors": [
+    "Leoncio Cabrera",
+    "Alberto Ardid",
+    "Ivan Melchor",
+    "Sergio Ruiz",
+    "Blanca Symmes-Lopetegui",
+    "Juan Carlos Báez",
+    "Francisco Delgado",
+    "Pablo Martinez-Yáñez",
+    "David Dempsey",
+    "Shane Cronin"
+   ],
+   "year": 2024,
+   "date": "2024-05-29",
+   "journal": "Seismological Research Letters",
+   "volume": "95",
+   "pages": "2595-2610",
+   "doi": "10.1785/0220240022",
+   "doi_url": "https://doi.org/10.1785/0220240022",
+   "page": "https://ddempsey.github.io/papers/2024-cabrera-eruption-forecasting-model-copahue-volcano/",
+   "markdown": "https://ddempsey.github.io/papers/2024-cabrera-eruption-forecasting-model-copahue-volcano/index.md",
+   "pdf": null,
+   "pdf_version": null,
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": null,
+   "bibtex": "https://ddempsey.github.io/papers/2024-cabrera-eruption-forecasting-model-copahue-volcano/citation.bib",
+   "summary": null,
+   "topics": [
+    "Volcanoes & eruption forecasting",
+    "Induced seismicity & faults"
+   ]
+  },
+  {
+   "title": "Testing the reproducibility of active-distributed temperature sensing for measuring groundwater specific discharge beneath a braided river",
+   "authors": [
+    "Alice J. Sai Louie",
+    "Leanne K. Morgan",
+    "Eddie W. Banks",
+    "David Dempsey",
+    "Scott Wilson"
+   ],
+   "year": 2024,
+   "date": "2024-04-01",
+   "journal": "Journal of Hydrology",
+   "volume": "633",
+   "pages": "130877",
+   "doi": "10.1016/j.jhydrol.2024.130877",
+   "doi_url": "https://doi.org/10.1016/j.jhydrol.2024.130877",
+   "page": "https://ddempsey.github.io/papers/2024-sai-louie-testing-reproducibility-active-distributed-temperature/",
+   "markdown": "https://ddempsey.github.io/papers/2024-sai-louie-testing-reproducibility-active-distributed-temperature/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2024-sai-louie-testing-reproducibility-active-distributed-temperature/sai-louie2024-louie-testing-reproducibility.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2024-sai-louie-testing-reproducibility-active-distributed-temperature/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2024-sai-louie-testing-reproducibility-active-distributed-temperature/citation.bib",
+   "summary": null,
+   "topics": [
+    "Groundwater & hydrology"
+   ]
+  },
+  {
+   "title": "Molecular dynamics insights into gas-water interfacial tension: Optimizing hydrogen storage in subsurface conditions",
+   "authors": [
+    "Qiuhao Chang",
+    "David Dempsey",
+    "Liehui Zhang",
+    "Yulong Zhao",
+    "Liangliang Huang"
+   ],
+   "year": 2024,
+   "date": "2024-04-01",
+   "journal": "International Journal of Hydrogen Energy",
+   "volume": "64",
+   "pages": "896-905",
+   "doi": "10.1016/j.ijhydene.2024.03.341",
+   "doi_url": "https://doi.org/10.1016/j.ijhydene.2024.03.341",
+   "page": "https://ddempsey.github.io/papers/2024-chang-molecular-dynamics-insights-gas-water/",
+   "markdown": "https://ddempsey.github.io/papers/2024-chang-molecular-dynamics-insights-gas-water/index.md",
+   "pdf": null,
+   "pdf_version": null,
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": null,
+   "bibtex": "https://ddempsey.github.io/papers/2024-chang-molecular-dynamics-insights-gas-water/citation.bib",
+   "summary": null,
+   "topics": [
+    "CO2 & hydrogen storage"
+   ]
+  },
+  {
+   "title": "Active-distributed temperature sensing dataset beneath a braided river",
+   "authors": [
+    "Alice J. Sai Louie",
+    "Leanne K. Morgan",
+    "Eddie W. Banks",
+    "David Dempsey",
+    "Scott Wilson"
+   ],
+   "year": 2023,
+   "date": "2023-12-01",
+   "journal": "Data in Brief",
+   "volume": "51",
+   "pages": "109756",
+   "doi": "10.1016/j.dib.2023.109756",
+   "doi_url": "https://doi.org/10.1016/j.dib.2023.109756",
+   "page": "https://ddempsey.github.io/papers/2023-sai-louie-active-distributed-temperature-sensing-dataset/",
+   "markdown": "https://ddempsey.github.io/papers/2023-sai-louie-active-distributed-temperature-sensing-dataset/index.md",
+   "pdf": null,
+   "pdf_version": null,
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": null,
+   "bibtex": "https://ddempsey.github.io/papers/2023-sai-louie-active-distributed-temperature-sensing-dataset/citation.bib",
+   "summary": null,
+   "topics": [
+    "Groundwater & hydrology"
+   ]
+  },
+  {
+   "title": "Shallow groundwater characterisation and hydrograph classification in the coastal city of Ōtautahi/Christchurch, New Zealand",
+   "authors": [
+    "Amandine L. Bosserelle",
+    "Leanne K. Morgan",
+    "David E. Dempsey",
+    "Irene Setiawan"
+   ],
+   "year": 2023,
+   "date": "2023-11-15",
+   "journal": "Hydrogeology Journal",
+   "volume": "32",
+   "pages": "577-600",
+   "doi": "10.1007/s10040-023-02745-z",
+   "doi_url": "https://doi.org/10.1007/s10040-023-02745-z",
+   "page": "https://ddempsey.github.io/papers/2023-bosserelle-shallow-groundwater-characterisation-hydrograph-classification/",
+   "markdown": "https://ddempsey.github.io/papers/2023-bosserelle-shallow-groundwater-characterisation-hydrograph-classification/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2023-bosserelle-shallow-groundwater-characterisation-hydrograph-classification/bosserelle2023-shallow-groundwater-characterisation.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2023-bosserelle-shallow-groundwater-characterisation-hydrograph-classification/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2023-bosserelle-shallow-groundwater-characterisation-hydrograph-classification/citation.bib",
+   "summary": null,
+   "topics": [
+    "Groundwater & hydrology"
+   ]
+  },
+  {
+   "title": "Using Template Matching to Detect Hidden Fluid Release Episodes Beneath Crater Lakes in Ruapehu, Copahue, and Kawah Ijen Volcanoes",
+   "authors": [
+    "A. Ardid",
+    "D. Dempsey",
+    "C. Caudron",
+    "S. J. Cronin",
+    "C. A. Miller",
+    "I. Melchor",
+    "D. Syahbana",
+    "B. Kennedy"
+   ],
+   "year": 2023,
+   "date": "2023-10-17",
+   "journal": "Journal of Geophysical Research: Solid Earth",
+   "volume": "128",
+   "pages": "e2023JB026729",
+   "doi": "10.1029/2023jb026729",
+   "doi_url": "https://doi.org/10.1029/2023jb026729",
+   "page": "https://ddempsey.github.io/papers/2023-ardid-template-matching-detect-hidden-fluid/",
+   "markdown": "https://ddempsey.github.io/papers/2023-ardid-template-matching-detect-hidden-fluid/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2023-ardid-template-matching-detect-hidden-fluid/ardid2023-template-matching-detect.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2023-ardid-template-matching-detect-hidden-fluid/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2023-ardid-template-matching-detect-hidden-fluid/citation.bib",
+   "summary": null,
+   "topics": [
+    "Volcanoes & eruption forecasting",
+    "Induced seismicity & faults",
+    "Geothermal systems"
+   ]
+  },
+  {
+   "title": "Association Between Injection and Microseismicity in Geothermal Fields With Multiple Wells: Data‐Driven Modeling of Rotokawa, New Zealand, and Húsmúli, Iceland",
+   "authors": [
+    "Pengliang Yu",
+    "David Dempsey",
+    "Antonio Pio Rinaldi",
+    "Aimee Calibugan",
+    "Vanille A. Ritz",
+    "Rosalind Archer"
+   ],
+   "year": 2023,
+   "date": "2023-04-16",
+   "journal": "Journal of Geophysical Research: Solid Earth",
+   "volume": "128",
+   "pages": "e2022JB025952",
+   "doi": "10.1029/2022jb025952",
+   "doi_url": "https://doi.org/10.1029/2022jb025952",
+   "page": "https://ddempsey.github.io/papers/2023-yu-association-injection-microseismicity-geothermal-fields/",
+   "markdown": "https://ddempsey.github.io/papers/2023-yu-association-injection-microseismicity-geothermal-fields/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2023-yu-association-injection-microseismicity-geothermal-fields/yu2023-association-injection-microseismicity.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": "https://hdl.handle.net/10092/105665",
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2023-yu-association-injection-microseismicity-geothermal-fields/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2023-yu-association-injection-microseismicity-geothermal-fields/citation.bib",
+   "summary": null,
+   "topics": [
+    "Induced seismicity & faults",
+    "Geothermal systems",
+    "Sea ice"
+   ]
+  },
+  {
+   "title": "Identification of Seismo‐Volcanic Regimes at Whakaari/White Island (New Zealand) Via Systematic Tuning of an Unsupervised Classifier",
+   "authors": [
+    "B. Steinke",
+    "A. D. Jolly",
+    "R. Carniel",
+    "D. E. Dempsey",
+    "S. J. Cronin"
+   ],
+   "year": 2023,
+   "date": "2023-03-14",
+   "journal": "Journal of Geophysical Research: Solid Earth",
+   "volume": "128",
+   "pages": "e2022JB026221",
+   "doi": "10.1029/2022jb026221",
+   "doi_url": "https://doi.org/10.1029/2022jb026221",
+   "page": "https://ddempsey.github.io/papers/2023-steinke-identification-seismo-volcanic-regimes-whakaari/",
+   "markdown": "https://ddempsey.github.io/papers/2023-steinke-identification-seismo-volcanic-regimes-whakaari/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2023-steinke-identification-seismo-volcanic-regimes-whakaari/steinke2023-identification-seismo-volcanic.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": "https://hdl.handle.net/10092/105667",
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2023-steinke-identification-seismo-volcanic-regimes-whakaari/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2023-steinke-identification-seismo-volcanic-regimes-whakaari/citation.bib",
+   "summary": null,
+   "topics": [
+    "Volcanoes & eruption forecasting"
+   ]
+  },
+  {
+   "title": "Physics-Based Forecasting of Induced Seismicity at Groningen Gas Field, The Netherlands: Post Hoc Evaluation and Forecast Update",
+   "authors": [
+    "David E. Dempsey",
+    "Jenny Suckale"
+   ],
+   "year": 2023,
+   "date": "2023-01-27",
+   "journal": "Seismological Research Letters",
+   "volume": null,
+   "pages": null,
+   "doi": "10.1785/0220220317",
+   "doi_url": "https://doi.org/10.1785/0220220317",
+   "page": "https://ddempsey.github.io/papers/2023-dempsey-physics-forecasting-induced-seismicity-groningen/",
+   "markdown": "https://ddempsey.github.io/papers/2023-dempsey-physics-forecasting-induced-seismicity-groningen/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2023-dempsey-physics-forecasting-induced-seismicity-groningen/dempsey2023-physics-forecasting-induced.pdf",
+   "pdf_version": "aam",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2023-dempsey-physics-forecasting-induced-seismicity-groningen/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2023-dempsey-physics-forecasting-induced-seismicity-groningen/citation.bib",
+   "summary": null,
+   "topics": [
+    "Induced seismicity & faults"
+   ]
+  },
+  {
+   "title": "Carbon negative geothermal: Theoretical efficiency and sequestration potential of geothermal-BECCS energy cycles",
+   "authors": [
+    "K.A. Titus",
+    "D.E. Dempsey",
+    "R.A.M. Peer"
+   ],
+   "year": 2023,
+   "date": "2023-01-01",
+   "journal": "International Journal of Greenhouse Gas Control",
+   "volume": "122",
+   "pages": "103813",
+   "doi": "10.1016/j.ijggc.2022.103813",
+   "doi_url": "https://doi.org/10.1016/j.ijggc.2022.103813",
+   "page": "https://ddempsey.github.io/papers/2023-titus-carbon-negative-geothermal-theoretical-efficiency/",
+   "markdown": "https://ddempsey.github.io/papers/2023-titus-carbon-negative-geothermal-theoretical-efficiency/index.md",
+   "pdf": null,
+   "pdf_version": null,
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": null,
+   "bibtex": "https://ddempsey.github.io/papers/2023-titus-carbon-negative-geothermal-theoretical-efficiency/citation.bib",
+   "summary": null,
+   "topics": [
+    "Geothermal systems",
+    "CO2 & hydrogen storage"
+   ]
+  },
+  {
+   "title": "Active distributed temperature sensing to assess surface water–groundwater interaction and river loss in braided river systems",
+   "authors": [
+    "Eddie W. Banks",
+    "Leanne K. Morgan",
+    "Alice J. Sai Louie",
+    "David Dempsey",
+    "Scott R. Wilson"
+   ],
+   "year": 2022,
+   "date": "2022-12-01",
+   "journal": "Journal of Hydrology",
+   "volume": "615",
+   "pages": "128667",
+   "doi": "10.1016/j.jhydrol.2022.128667",
+   "doi_url": "https://doi.org/10.1016/j.jhydrol.2022.128667",
+   "page": "https://ddempsey.github.io/papers/2022-banks-active-distributed-temperature-sensing-assess/",
+   "markdown": "https://ddempsey.github.io/papers/2022-banks-active-distributed-temperature-sensing-assess/index.md",
+   "pdf": null,
+   "pdf_version": null,
+   "open_copy_elsewhere": "https://hdl.handle.net/10092/105673",
+   "fulltext_markdown": null,
+   "bibtex": "https://ddempsey.github.io/papers/2022-banks-active-distributed-temperature-sensing-assess/citation.bib",
+   "summary": null,
+   "topics": [
+    "Groundwater & hydrology"
+   ]
+  },
+  {
+   "title": "Evaluation of short-term probabilistic eruption forecasting at Whakaari, New Zealand",
+   "authors": [
+    "D. E. Dempsey",
+    "A. W. Kempa-Liehr",
+    "A. Ardid",
+    "A. Li",
+    "S. Orenia",
+    "J. Singh",
+    "A. J. Tyler",
+    "S. J. Cronin"
+   ],
+   "year": 2022,
+   "date": "2022-09-12",
+   "journal": "Bulletin of Volcanology",
+   "volume": "84",
+   "pages": "91",
+   "doi": "10.1007/s00445-022-01600-5",
+   "doi_url": "https://doi.org/10.1007/s00445-022-01600-5",
+   "page": "https://ddempsey.github.io/papers/2022-dempsey-evaluation-short-term-probabilistic-eruption/",
+   "markdown": "https://ddempsey.github.io/papers/2022-dempsey-evaluation-short-term-probabilistic-eruption/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2022-dempsey-evaluation-short-term-probabilistic-eruption/dempsey2022-evaluation-short-term.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": "https://hdl.handle.net/10092/105840",
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2022-dempsey-evaluation-short-term-probabilistic-eruption/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2022-dempsey-evaluation-short-term-probabilistic-eruption/citation.bib",
+   "summary": null,
+   "topics": [
+    "Volcanoes & eruption forecasting",
+    "Induced seismicity & faults"
+   ]
+  },
+  {
+   "title": "Seismic precursors to the Whakaari 2019 phreatic eruption are transferable to other eruptions and volcanoes",
+   "authors": [
+    "Alberto Ardid",
+    "David Dempsey",
+    "Corentin Caudron",
+    "Shane Cronin"
+   ],
+   "year": 2022,
+   "date": "2022-04-20",
+   "journal": "Nature Communications",
+   "volume": "13",
+   "pages": "2002",
+   "doi": "10.1038/s41467-022-29681-y",
+   "doi_url": "https://doi.org/10.1038/s41467-022-29681-y",
+   "page": "https://ddempsey.github.io/papers/2022-ardid-seismic-precursors-whakaari-2019-phreatic/",
+   "markdown": "https://ddempsey.github.io/papers/2022-ardid-seismic-precursors-whakaari-2019-phreatic/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2022-ardid-seismic-precursors-whakaari-2019-phreatic/ardid2022-seismic-precursors-whakaari.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": "https://hdl.handle.net/10092/105669",
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2022-ardid-seismic-precursors-whakaari-2019-phreatic/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2022-ardid-seismic-precursors-whakaari-2019-phreatic/citation.bib",
+   "summary": null,
+   "topics": [
+    "Volcanoes & eruption forecasting",
+    "Induced seismicity & faults"
+   ]
+  },
+  {
+   "title": "Techno-Economic feasibility of enhanced geothermal systems (EGS) with partially bridging Multi-Stage fractures for district heating applications",
+   "authors": [
+    "Pengliang Yu",
+    "David Dempsey",
+    "Rosalind Archer"
+   ],
+   "year": 2022,
+   "date": "2022-04-01",
+   "journal": "Energy Conversion and Management",
+   "volume": "257",
+   "pages": "115405",
+   "doi": "10.1016/j.enconman.2022.115405",
+   "doi_url": "https://doi.org/10.1016/j.enconman.2022.115405",
+   "page": "https://ddempsey.github.io/papers/2022-yu-techno-economic-feasibility-enhanced-geothermal/",
+   "markdown": "https://ddempsey.github.io/papers/2022-yu-techno-economic-feasibility-enhanced-geothermal/index.md",
+   "pdf": null,
+   "pdf_version": null,
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": null,
+   "bibtex": "https://ddempsey.github.io/papers/2022-yu-techno-economic-feasibility-enhanced-geothermal/citation.bib",
+   "summary": null,
+   "topics": [
+    "Induced seismicity & faults",
+    "Geothermal systems"
+   ]
+  },
+  {
+   "title": "Hydrothermal Cooling as a Requirement for Short Storage of Silicic Magmas",
+   "authors": [
+    "Liam J. Kelly",
+    "Guilherme A. R. Gualda",
+    "Darren M. Gravley",
+    "David E. Dempsey"
+   ],
+   "year": 2021,
+   "date": "2021-09-17",
+   "journal": "Geochemistry, Geophysics, Geosystems",
+   "volume": "22",
+   "pages": "e2021GC009794",
+   "doi": "10.1029/2021gc009794",
+   "doi_url": "https://doi.org/10.1029/2021gc009794",
+   "page": "https://ddempsey.github.io/papers/2021-kelly-hydrothermal-cooling-requirement-short-storage/",
+   "markdown": "https://ddempsey.github.io/papers/2021-kelly-hydrothermal-cooling-requirement-short-storage/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2021-kelly-hydrothermal-cooling-requirement-short-storage/kelly2021-hydrothermal-cooling-requirement.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": "https://hdl.handle.net/10092/105818",
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2021-kelly-hydrothermal-cooling-requirement-short-storage/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2021-kelly-hydrothermal-cooling-requirement-short-storage/citation.bib",
+   "summary": null,
+   "topics": [
+    "Volcanoes & eruption forecasting",
+    "Geothermal systems",
+    "CO2 & hydrogen storage"
+   ]
+  },
+  {
+   "title": "A three-dimensional coupled thermo-hydro-mechanical numerical model with partially bridging multi-stage contact fractures in horizontal-well enhanced geothermal system",
+   "authors": [
+    "Pengliang Yu",
+    "David Dempsey",
+    "Rosalind Archer"
+   ],
+   "year": 2021,
+   "date": "2021-07-01",
+   "journal": "International Journal of Rock Mechanics and Mining Sciences",
+   "volume": "143",
+   "pages": "104787",
+   "doi": "10.1016/j.ijrmms.2021.104787",
+   "doi_url": "https://doi.org/10.1016/j.ijrmms.2021.104787",
+   "page": "https://ddempsey.github.io/papers/2021-yu-three-dimensional-coupled-thermo-hydro/",
+   "markdown": "https://ddempsey.github.io/papers/2021-yu-three-dimensional-coupled-thermo-hydro/index.md",
+   "pdf": null,
+   "pdf_version": null,
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": null,
+   "bibtex": "https://ddempsey.github.io/papers/2021-yu-three-dimensional-coupled-thermo-hydro/citation.bib",
+   "summary": null,
+   "topics": [
+    "Induced seismicity & faults",
+    "Geothermal systems"
+   ]
+  },
+  {
+   "title": "Heat Transfer Through the Wairakei‐Tauhara Geothermal System Quantified by Multi‐Channel Data Modeling",
+   "authors": [
+    "Alberto Ardid",
+    "Rosalind Archer",
+    "Edward Bertrand",
+    "Fabian Sepulveda",
+    "Pascal Tarits",
+    "David Dempsey"
+   ],
+   "year": 2021,
+   "date": "2021-04-23",
+   "journal": "Geophysical Research Letters",
+   "volume": "48",
+   "pages": "e2020GL092056",
+   "doi": "10.1029/2020gl092056",
+   "doi_url": "https://doi.org/10.1029/2020gl092056",
+   "page": "https://ddempsey.github.io/papers/2021-ardid-heat-transfer-wairakei-tauhara-geothermal/",
+   "markdown": "https://ddempsey.github.io/papers/2021-ardid-heat-transfer-wairakei-tauhara-geothermal/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2021-ardid-heat-transfer-wairakei-tauhara-geothermal/ardid2021-heat-transfer-wairakei.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": "https://hdl.handle.net/10092/105816",
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2021-ardid-heat-transfer-wairakei-tauhara-geothermal/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2021-ardid-heat-transfer-wairakei-tauhara-geothermal/citation.bib",
+   "summary": null,
+   "topics": [
+    "Geothermal systems"
+   ]
+  },
+  {
+   "title": "Bayesian magnetotelluric inversion using methylene blue structural priors for imaging shallow conductors in geothermal fields",
+   "authors": [
+    "Alberto Ardid",
+    "David Dempsey",
+    "Edward Bertrand",
+    "Fabian Sepulveda",
+    "Pascal Tarits",
+    "Flora Solon",
+    "Rosalind Archer"
+   ],
+   "year": 2021,
+   "date": "2021-04-08",
+   "journal": "Geophysics",
+   "volume": "86",
+   "pages": "E171-E183",
+   "doi": "10.1190/geo2020-0226.1",
+   "doi_url": "https://doi.org/10.1190/geo2020-0226.1",
+   "page": "https://ddempsey.github.io/papers/2021-ardid-bayesian-magnetotelluric-inversion-methylene-blue/",
+   "markdown": "https://ddempsey.github.io/papers/2021-ardid-bayesian-magnetotelluric-inversion-methylene-blue/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2021-ardid-bayesian-magnetotelluric-inversion-methylene-blue/ardid2021-bayesian-magnetotelluric-inversion.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": null,
+   "bibtex": "https://ddempsey.github.io/papers/2021-ardid-bayesian-magnetotelluric-inversion-methylene-blue/citation.bib",
+   "summary": null,
+   "topics": [
+    "Geothermal systems"
+   ]
+  },
+  {
+   "title": "Two-dimensional numerical modelling of strategies to avoid thermal stress induced flow channeling in fractured geothermal reservoirs",
+   "authors": [
+    "Mats Rongved",
+    "Andreas Bauer",
+    "David Dempsey",
+    "Rune M. Holt"
+   ],
+   "year": 2021,
+   "date": "2021-02-01",
+   "journal": "Geothermics",
+   "volume": "90",
+   "pages": "101978",
+   "doi": "10.1016/j.geothermics.2020.101978",
+   "doi_url": "https://doi.org/10.1016/j.geothermics.2020.101978",
+   "page": "https://ddempsey.github.io/papers/2021-rongved-two-dimensional-numerical-modelling-strategies/",
+   "markdown": "https://ddempsey.github.io/papers/2021-rongved-two-dimensional-numerical-modelling-strategies/index.md",
+   "pdf": null,
+   "pdf_version": null,
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": null,
+   "bibtex": "https://ddempsey.github.io/papers/2021-rongved-two-dimensional-numerical-modelling-strategies/citation.bib",
+   "summary": null,
+   "topics": [
+    "Induced seismicity & faults",
+    "Geothermal systems"
+   ]
+  },
+  {
+   "title": "Ground motion simulation of hypothetical earthquakes in the upper North Island of New Zealand",
+   "authors": [
+    "David Dempsey",
+    "Jennifer D. Eccles",
+    "Jonney Huang",
+    "Seokho Jeong",
+    "Elia Nicolin",
+    "Andrew Stolte",
+    "Liam Wotherspoon",
+    "Brendon A. Bradley"
+   ],
+   "year": 2020,
+   "date": "2020-11-12",
+   "journal": "New Zealand Journal of Geology and Geophysics",
+   "volume": "64",
+   "pages": "570-588",
+   "doi": "10.1080/00288306.2020.1842469",
+   "doi_url": "https://doi.org/10.1080/00288306.2020.1842469",
+   "page": "https://ddempsey.github.io/papers/2020-dempsey-ground-motion-simulation-hypothetical-earthquakes/",
+   "markdown": "https://ddempsey.github.io/papers/2020-dempsey-ground-motion-simulation-hypothetical-earthquakes/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2020-dempsey-ground-motion-simulation-hypothetical-earthquakes/dempsey2020-ground-motion-simulation.pdf",
+   "pdf_version": "aam",
+   "open_copy_elsewhere": "https://hdl.handle.net/10092/103195",
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2020-dempsey-ground-motion-simulation-hypothetical-earthquakes/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2020-dempsey-ground-motion-simulation-hypothetical-earthquakes/citation.bib",
+   "summary": null,
+   "topics": [
+    "Induced seismicity & faults",
+    "Fire & other hazards"
+   ]
+  },
+  {
+   "title": "Automatic precursor recognition and real-time forecasting of sudden explosive volcanic eruptions at Whakaari, New Zealand",
+   "authors": [
+    "D. E. Dempsey",
+    "S. J. Cronin",
+    "S. Mei",
+    "A. W. Kempa-Liehr"
+   ],
+   "year": 2020,
+   "date": "2020-07-16",
+   "journal": "Nature Communications",
+   "volume": "11",
+   "pages": "3562",
+   "doi": "10.1038/s41467-020-17375-2",
+   "doi_url": "https://doi.org/10.1038/s41467-020-17375-2",
+   "page": "https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/",
+   "markdown": "https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/dempsey2020-automatic-precursor-recognition.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": "https://hdl.handle.net/10092/105819",
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/citation.bib",
+   "summary": "We trained a machine learning model on nine years of seismic tremor from one station at Whakaari. It recognised four-hour tremor bursts before most eruptions. In tests on eruptions withheld from its training, it warned of four of five eruptive episodes, including 17 hours before the fatal 2019 eruption.",
+   "topics": [
+    "Volcanoes & eruption forecasting"
+   ]
+  },
+  {
+   "title": "Response of Induced Seismicity to Injection Rate Reduction: Models of Delay, Decay, Quiescence, Recovery, and Oklahoma",
+   "authors": [
+    "David Dempsey",
+    "Jeremy Riffault"
+   ],
+   "year": 2019,
+   "date": "2019-01-28",
+   "journal": "Water Resources Research",
+   "volume": "55",
+   "pages": "656-681",
+   "doi": "10.1029/2018wr023587",
+   "doi_url": "https://doi.org/10.1029/2018wr023587",
+   "page": "https://ddempsey.github.io/papers/2019-dempsey-response-induced-seismicity-injection-rate/",
+   "markdown": "https://ddempsey.github.io/papers/2019-dempsey-response-induced-seismicity-injection-rate/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2019-dempsey-response-induced-seismicity-injection-rate/dempsey2019-response-induced-seismicity.pdf",
+   "pdf_version": "aam",
+   "open_copy_elsewhere": "https://hdl.handle.net/10092/105822",
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2019-dempsey-response-induced-seismicity-injection-rate/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2019-dempsey-response-induced-seismicity-injection-rate/citation.bib",
+   "summary": null,
+   "topics": [
+    "Induced seismicity & faults"
+   ]
+  },
+  {
+   "title": "Microseismicity Cloud Can Be Substantially Larger Than the Associated Stimulated Fracture Volume: The Case of the Paralana Enhanced Geothermal System",
+   "authors": [
+    "Jeremy Riffault",
+    "David Dempsey",
+    "Satish Karra",
+    "Rosalind Archer"
+   ],
+   "year": 2018,
+   "date": "2018-08-23",
+   "journal": "Journal of Geophysical Research: Solid Earth",
+   "volume": "123",
+   "pages": "6845-6870",
+   "doi": "10.1029/2017jb015299",
+   "doi_url": "https://doi.org/10.1029/2017jb015299",
+   "page": "https://ddempsey.github.io/papers/2018-riffault-microseismicity-cloud-can-substantially-larger/",
+   "markdown": "https://ddempsey.github.io/papers/2018-riffault-microseismicity-cloud-can-substantially-larger/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2018-riffault-microseismicity-cloud-can-substantially-larger/riffault2018-microseismicity-cloud-can.pdf",
+   "pdf_version": "aam",
+   "open_copy_elsewhere": "https://hdl.handle.net/10092/105823",
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2018-riffault-microseismicity-cloud-can-substantially-larger/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2018-riffault-microseismicity-cloud-can-substantially-larger/citation.bib",
+   "summary": null,
+   "topics": [
+    "Induced seismicity & faults",
+    "Geothermal systems"
+   ]
+  },
+  {
+   "title": "Physics‐based forecasting of induced seismicity at Groningen gas field, the Netherlands",
+   "authors": [
+    "David Dempsey",
+    "Jenny Suckale"
+   ],
+   "year": 2017,
+   "date": "2017-08-12",
+   "journal": "Geophysical Research Letters",
+   "volume": "44",
+   "pages": "7773-7782",
+   "doi": "10.1002/2017gl073878",
+   "doi_url": "https://doi.org/10.1002/2017gl073878",
+   "page": "https://ddempsey.github.io/papers/2017-dempsey-physics-forecasting-induced-seismicity-groningen/",
+   "markdown": "https://ddempsey.github.io/papers/2017-dempsey-physics-forecasting-induced-seismicity-groningen/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2017-dempsey-physics-forecasting-induced-seismicity-groningen/dempsey2017-physics-forecasting-induced.pdf",
+   "pdf_version": "aam",
+   "open_copy_elsewhere": "https://hdl.handle.net/10092/105824",
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2017-dempsey-physics-forecasting-induced-seismicity-groningen/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2017-dempsey-physics-forecasting-induced-seismicity-groningen/citation.bib",
+   "summary": null,
+   "topics": [
+    "Induced seismicity & faults"
+   ]
+  },
+  {
+   "title": "Simulation of the crystal growth of platelet sea ice with diffusive heat and mass transfer",
+   "authors": [
+    "Pat Wongpan",
+    "Patricia J. Langhorne",
+    "David E. Dempsey",
+    "Lisa Hahn-Woernle",
+    "Zhifa Sun"
+   ],
+   "year": 2015,
+   "date": "2017-07-26",
+   "journal": "Annals of Glaciology",
+   "volume": "56",
+   "pages": "127-136",
+   "doi": "10.3189/2015aog69a777",
+   "doi_url": "https://doi.org/10.3189/2015aog69a777",
+   "page": "https://ddempsey.github.io/papers/2015-wongpan-simulation-crystal-growth-platelet-sea/",
+   "markdown": "https://ddempsey.github.io/papers/2015-wongpan-simulation-crystal-growth-platelet-sea/index.md",
+   "pdf": null,
+   "pdf_version": null,
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": null,
+   "bibtex": "https://ddempsey.github.io/papers/2015-wongpan-simulation-crystal-growth-platelet-sea/citation.bib",
+   "summary": null,
+   "topics": [
+    "Sea ice"
+   ]
+  },
+  {
+   "title": "Collective properties of injection‐induced earthquake sequences: 2. Spatiotemporal evolution and magnitude frequency distributions",
+   "authors": [
+    "David Dempsey",
+    "Jenny Suckale",
+    "Yihe Huang"
+   ],
+   "year": 2016,
+   "date": "2016-05-20",
+   "journal": "Journal of Geophysical Research: Solid Earth",
+   "volume": "121",
+   "pages": "3638-3665",
+   "doi": "10.1002/2015jb012551",
+   "doi_url": "https://doi.org/10.1002/2015jb012551",
+   "page": "https://ddempsey.github.io/papers/2016-dempsey-collective-properties-injection-induced-earthquake-sequences/",
+   "markdown": "https://ddempsey.github.io/papers/2016-dempsey-collective-properties-injection-induced-earthquake-sequences/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2016-dempsey-collective-properties-injection-induced-earthquake-sequences/dempsey2016-collective-properties-injection.pdf",
+   "pdf_version": "aam",
+   "open_copy_elsewhere": "https://hdl.handle.net/10092/105826",
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2016-dempsey-collective-properties-injection-induced-earthquake-sequences/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2016-dempsey-collective-properties-injection-induced-earthquake-sequences/citation.bib",
+   "summary": null,
+   "topics": [
+    "Induced seismicity & faults"
+   ]
+  },
+  {
+   "title": "Collective properties of injection‐induced earthquake sequences: 1. Model description and directivity bias",
+   "authors": [
+    "David Dempsey",
+    "Jenny Suckale"
+   ],
+   "year": 2016,
+   "date": "2016-05-20",
+   "journal": "Journal of Geophysical Research: Solid Earth",
+   "volume": "121",
+   "pages": "3609-3637",
+   "doi": "10.1002/2015jb012550",
+   "doi_url": "https://doi.org/10.1002/2015jb012550",
+   "page": "https://ddempsey.github.io/papers/2016-dempsey-collective-properties-injection-induced-earthquake/",
+   "markdown": "https://ddempsey.github.io/papers/2016-dempsey-collective-properties-injection-induced-earthquake/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2016-dempsey-collective-properties-injection-induced-earthquake/dempsey2016-collective-properties-injection.pdf",
+   "pdf_version": "aam",
+   "open_copy_elsewhere": "https://hdl.handle.net/10092/105828",
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2016-dempsey-collective-properties-injection-induced-earthquake/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2016-dempsey-collective-properties-injection-induced-earthquake/citation.bib",
+   "summary": null,
+   "topics": [
+    "Induced seismicity & faults",
+    "Geothermal systems"
+   ]
+  },
+  {
+   "title": "Hydraulic fracturing fluid migration in the subsurface: A review and expanded modeling results",
+   "authors": [
+    "Daniel T. Birdsell",
+    "Harihar Rajaram",
+    "David Dempsey",
+    "Hari S. Viswanathan"
+   ],
+   "year": 2015,
+   "date": "2015-09-05",
+   "journal": "Water Resources Research",
+   "volume": "51",
+   "pages": "7159-7188",
+   "doi": "10.1002/2015wr017810",
+   "doi_url": "https://doi.org/10.1002/2015wr017810",
+   "page": "https://ddempsey.github.io/papers/2015-birdsell-hydraulic-fracturing-fluid-migration-subsurface/",
+   "markdown": "https://ddempsey.github.io/papers/2015-birdsell-hydraulic-fracturing-fluid-migration-subsurface/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2015-birdsell-hydraulic-fracturing-fluid-migration-subsurface/birdsell2015-hydraulic-fracturing-fluid.pdf",
+   "pdf_version": "aam",
+   "open_copy_elsewhere": "https://hdl.handle.net/10092/105829",
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2015-birdsell-hydraulic-fracturing-fluid-migration-subsurface/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2015-birdsell-hydraulic-fracturing-fluid-migration-subsurface/citation.bib",
+   "summary": null,
+   "topics": [
+    "Induced seismicity & faults"
+   ]
+  },
+  {
+   "title": "Numerical modeling of injection, stress and permeability enhancement during shear stimulation at the Desert Peak Enhanced Geothermal System",
+   "authors": [
+    "David Dempsey",
+    "Sharad Kelkar",
+    "Nicholas Davatzes",
+    "Stephen Hickman",
+    "Daniel Moos"
+   ],
+   "year": 2015,
+   "date": "2015-09-01",
+   "journal": "International Journal of Rock Mechanics and Mining Sciences",
+   "volume": "78",
+   "pages": "190-206",
+   "doi": "10.1016/j.ijrmms.2015.06.003",
+   "doi_url": "https://doi.org/10.1016/j.ijrmms.2015.06.003",
+   "page": "https://ddempsey.github.io/papers/2015-dempsey-numerical-modeling-injection-stress-permeability/",
+   "markdown": "https://ddempsey.github.io/papers/2015-dempsey-numerical-modeling-injection-stress-permeability/index.md",
+   "pdf": null,
+   "pdf_version": null,
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": null,
+   "bibtex": "https://ddempsey.github.io/papers/2015-dempsey-numerical-modeling-injection-stress-permeability/citation.bib",
+   "summary": null,
+   "topics": [
+    "Induced seismicity & faults",
+    "Geothermal systems"
+   ]
+  },
+  {
+   "title": "Reducing uncertainty associated with CO2 injection and brine production in heterogeneous formations",
+   "authors": [
+    "David Dempsey",
+    "Daniel O’Malley",
+    "Rajesh Pawar"
+   ],
+   "year": 2015,
+   "date": "2015-06-01",
+   "journal": "International Journal of Greenhouse Gas Control",
+   "volume": "37",
+   "pages": "24-37",
+   "doi": "10.1016/j.ijggc.2015.03.004",
+   "doi_url": "https://doi.org/10.1016/j.ijggc.2015.03.004",
+   "page": "https://ddempsey.github.io/papers/2015-dempsey-reducing-uncertainty-associated-co2-injection/",
+   "markdown": "https://ddempsey.github.io/papers/2015-dempsey-reducing-uncertainty-associated-co2-injection/index.md",
+   "pdf": null,
+   "pdf_version": null,
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": null,
+   "bibtex": "https://ddempsey.github.io/papers/2015-dempsey-reducing-uncertainty-associated-co2-injection/citation.bib",
+   "summary": null,
+   "topics": [
+    "CO2 & hydrogen storage"
+   ]
+  },
+  {
+   "title": "Passive injection: A strategy for mitigating reservoir pressurization, induced seismicity and brine migration in geologic CO2 storage",
+   "authors": [
+    "David Dempsey",
+    "Sharad Kelkar",
+    "Rajesh Pawar"
+   ],
+   "year": 2014,
+   "date": "2014-09-01",
+   "journal": "International Journal of Greenhouse Gas Control",
+   "volume": "28",
+   "pages": "96-113",
+   "doi": "10.1016/j.ijggc.2014.06.002",
+   "doi_url": "https://doi.org/10.1016/j.ijggc.2014.06.002",
+   "page": "https://ddempsey.github.io/papers/2014-dempsey-passive-injection-strategy-mitigating-reservoir/",
+   "markdown": "https://ddempsey.github.io/papers/2014-dempsey-passive-injection-strategy-mitigating-reservoir/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2014-dempsey-passive-injection-strategy-mitigating-reservoir/dempsey2014-passive-injection-strategy.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": "https://hdl.handle.net/10092/107537",
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2014-dempsey-passive-injection-strategy-mitigating-reservoir/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2014-dempsey-passive-injection-strategy-mitigating-reservoir/citation.bib",
+   "summary": null,
+   "topics": [
+    "Induced seismicity & faults",
+    "CO2 & hydrogen storage"
+   ]
+  },
+  {
+   "title": "Insights into interconnections between the shallow and deep systems from a natural CO2 reservoir near Springerville, Arizona",
+   "authors": [
+    "Elizabeth Keating",
+    "Dennis Newell",
+    "David Dempsey",
+    "Rajesh Pawar"
+   ],
+   "year": 2014,
+   "date": "2014-06-01",
+   "journal": "International Journal of Greenhouse Gas Control",
+   "volume": "25",
+   "pages": "162-172",
+   "doi": "10.1016/j.ijggc.2014.03.009",
+   "doi_url": "https://doi.org/10.1016/j.ijggc.2014.03.009",
+   "page": "https://ddempsey.github.io/papers/2014-keating-insights-interconnections-shallow-deep-systems/",
+   "markdown": "https://ddempsey.github.io/papers/2014-keating-insights-interconnections-shallow-deep-systems/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2014-keating-insights-interconnections-shallow-deep-systems/keating2014-insights-interconnections-shallow.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": "https://hdl.handle.net/10092/105827",
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2014-keating-insights-interconnections-shallow-deep-systems/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2014-keating-insights-interconnections-shallow-deep-systems/citation.bib",
+   "summary": null,
+   "topics": [
+    "CO2 & hydrogen storage",
+    "Groundwater & hydrology"
+   ]
+  },
+  {
+   "title": "Modeling caprock bending stresses and their potential for induced seismicity during CO2 injection",
+   "authors": [
+    "David Dempsey",
+    "Sharad Kelkar",
+    "Rajesh Pawar",
+    "Elizabeth Keating",
+    "David Coblentz"
+   ],
+   "year": 2014,
+   "date": "2014-03-01",
+   "journal": "International Journal of Greenhouse Gas Control",
+   "volume": "22",
+   "pages": "223-236",
+   "doi": "10.1016/j.ijggc.2014.01.005",
+   "doi_url": "https://doi.org/10.1016/j.ijggc.2014.01.005",
+   "page": "https://ddempsey.github.io/papers/2014-dempsey-modeling-caprock-bending-stresses-their/",
+   "markdown": "https://ddempsey.github.io/papers/2014-dempsey-modeling-caprock-bending-stresses-their/index.md",
+   "pdf": null,
+   "pdf_version": null,
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": null,
+   "bibtex": "https://ddempsey.github.io/papers/2014-dempsey-modeling-caprock-bending-stresses-their/citation.bib",
+   "summary": null,
+   "topics": [
+    "Induced seismicity & faults",
+    "Geothermal systems",
+    "CO2 & hydrogen storage"
+   ]
+  },
+  {
+   "title": "Hydrological effects of dip‐slip fault rupture on a hydrothermal plume",
+   "authors": [
+    "D. E. Dempsey",
+    "R. A. Archer",
+    "S. M. Ellis",
+    "J. V. Rowland"
+   ],
+   "year": 2013,
+   "date": "2013-01-31",
+   "journal": "Journal of Geophysical Research: Solid Earth",
+   "volume": "118",
+   "pages": "195-211",
+   "doi": "10.1029/2012jb009395",
+   "doi_url": "https://doi.org/10.1029/2012jb009395",
+   "page": "https://ddempsey.github.io/papers/2013-dempsey-hydrological-effects-dip-slip-fault/",
+   "markdown": "https://ddempsey.github.io/papers/2013-dempsey-hydrological-effects-dip-slip-fault/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2013-dempsey-hydrological-effects-dip-slip-fault/dempsey2013-hydrological-effects-dip.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2013-dempsey-hydrological-effects-dip-slip-fault/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2013-dempsey-hydrological-effects-dip-slip-fault/citation.bib",
+   "summary": null,
+   "topics": [
+    "Induced seismicity & faults",
+    "Geothermal systems",
+    "Groundwater & hydrology"
+   ]
+  },
+  {
+   "title": "Delineation of catchment zones of geothermal systems in large‐scale rifted settings",
+   "authors": [
+    "D. E. Dempsey",
+    "S. F. Simmons",
+    "R. A. Archer",
+    "J. V. Rowland"
+   ],
+   "year": 2012,
+   "date": "2012-10-05",
+   "journal": "Journal of Geophysical Research: Solid Earth",
+   "volume": "117",
+   "pages": "2012JB009515",
+   "doi": "10.1029/2012jb009515",
+   "doi_url": "https://doi.org/10.1029/2012jb009515",
+   "page": "https://ddempsey.github.io/papers/2012-dempsey-delineation-catchment-zones-geothermal-systems/",
+   "markdown": "https://ddempsey.github.io/papers/2012-dempsey-delineation-catchment-zones-geothermal-systems/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2012-dempsey-delineation-catchment-zones-geothermal-systems/dempsey2012-delineation-catchment-zones.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2012-dempsey-delineation-catchment-zones-geothermal-systems/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2012-dempsey-delineation-catchment-zones-geothermal-systems/citation.bib",
+   "summary": null,
+   "topics": [
+    "Volcanoes & eruption forecasting",
+    "Geothermal systems"
+   ]
+  },
+  {
+   "title": "Geometric properties of platelet ice crystals",
+   "authors": [
+    "D.E. Dempsey",
+    "P.J. Langhorne"
+   ],
+   "year": 2012,
+   "date": "2012-07-01",
+   "journal": "Cold Regions Science and Technology",
+   "volume": "78",
+   "pages": "1-13",
+   "doi": "10.1016/j.coldregions.2012.03.002",
+   "doi_url": "https://doi.org/10.1016/j.coldregions.2012.03.002",
+   "page": "https://ddempsey.github.io/papers/2012-dempsey-geometric-properties-platelet-ice-crystals/",
+   "markdown": "https://ddempsey.github.io/papers/2012-dempsey-geometric-properties-platelet-ice-crystals/index.md",
+   "pdf": null,
+   "pdf_version": null,
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": null,
+   "bibtex": "https://ddempsey.github.io/papers/2012-dempsey-geometric-properties-platelet-ice-crystals/citation.bib",
+   "summary": null,
+   "topics": [
+    "Sea ice"
+   ]
+  },
+  {
+   "title": "The role of frictional plasticity in the evolution of normal fault systems",
+   "authors": [
+    "David E. Dempsey",
+    "Susan M. Ellis",
+    "Julie V. Rowland",
+    "Rosalind A. Archer"
+   ],
+   "year": 2012,
+   "date": "2012-06-01",
+   "journal": "Journal of Structural Geology",
+   "volume": "39",
+   "pages": "122-137",
+   "doi": "10.1016/j.jsg.2012.03.001",
+   "doi_url": "https://doi.org/10.1016/j.jsg.2012.03.001",
+   "page": "https://ddempsey.github.io/papers/2012-dempsey-role-frictional-plasticity-evolution-normal/",
+   "markdown": "https://ddempsey.github.io/papers/2012-dempsey-role-frictional-plasticity-evolution-normal/index.md",
+   "pdf": null,
+   "pdf_version": null,
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": null,
+   "bibtex": "https://ddempsey.github.io/papers/2012-dempsey-role-frictional-plasticity-evolution-normal/citation.bib",
+   "summary": null,
+   "topics": [
+    "Induced seismicity & faults"
+   ]
+  },
+  {
+   "title": "Modeling the effects of silica deposition and fault rupture on natural geothermal systems",
+   "authors": [
+    "D. E. Dempsey",
+    "J. V. Rowland",
+    "G. A. Zyvoloski",
+    "R. A. Archer"
+   ],
+   "year": 2012,
+   "date": "2012-05-19",
+   "journal": "Journal of Geophysical Research: Solid Earth",
+   "volume": "117",
+   "pages": "2012JB009218",
+   "doi": "10.1029/2012jb009218",
+   "doi_url": "https://doi.org/10.1029/2012jb009218",
+   "page": "https://ddempsey.github.io/papers/2012-dempsey-modeling-effects-silica-deposition-fault/",
+   "markdown": "https://ddempsey.github.io/papers/2012-dempsey-modeling-effects-silica-deposition-fault/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2012-dempsey-modeling-effects-silica-deposition-fault/dempsey2012-modeling-effects-silica.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": "https://hdl.handle.net/10092/107327",
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2012-dempsey-modeling-effects-silica-deposition-fault/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2012-dempsey-modeling-effects-silica-deposition-fault/citation.bib",
+   "summary": null,
+   "topics": [
+    "Volcanoes & eruption forecasting",
+    "Induced seismicity & faults",
+    "Geothermal systems"
+   ]
+  },
+  {
+   "title": "Energetics of normal earthquakes on dip-slip faults",
+   "authors": [
+    "David Dempsey",
+    "Susan Ellis",
+    "Rosalind Archer",
+    "Julie Rowland"
+   ],
+   "year": 2012,
+   "date": "2012-03-01",
+   "journal": "Geology",
+   "volume": "40",
+   "pages": "279-282",
+   "doi": "10.1130/g32643.1",
+   "doi_url": "https://doi.org/10.1130/g32643.1",
+   "page": "https://ddempsey.github.io/papers/2012-dempsey-energetics-normal-earthquakes-dip-slip/",
+   "markdown": "https://ddempsey.github.io/papers/2012-dempsey-energetics-normal-earthquakes-dip-slip/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2012-dempsey-energetics-normal-earthquakes-dip-slip/dempsey2012-energetics-normal-earthquakes.pdf",
+   "pdf_version": "aam",
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2012-dempsey-energetics-normal-earthquakes-dip-slip/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2012-dempsey-energetics-normal-earthquakes-dip-slip/citation.bib",
+   "summary": null,
+   "topics": [
+    "Induced seismicity & faults"
+   ]
+  },
+  {
+   "title": "Evolution of supercooling under coastal Antarctic sea ice during winter",
+   "authors": [
+    "Gregory H. Leonard",
+    "Patricia J. Langhorne",
+    "Michael J.M. Williams",
+    "Ross Vennell",
+    "Craig R. Purdie",
+    "David E. Dempsey",
+    "Timothy G. Haskell",
+    "Russell D. Frew"
+   ],
+   "year": 2011,
+   "date": "2011-04-27",
+   "journal": "Antarctic Science",
+   "volume": "23",
+   "pages": "399-409",
+   "doi": "10.1017/s0954102011000265",
+   "doi_url": "https://doi.org/10.1017/s0954102011000265",
+   "page": "https://ddempsey.github.io/papers/2011-leonard-evolution-supercooling-coastal-antarctic-sea/",
+   "markdown": "https://ddempsey.github.io/papers/2011-leonard-evolution-supercooling-coastal-antarctic-sea/index.md",
+   "pdf": null,
+   "pdf_version": null,
+   "open_copy_elsewhere": null,
+   "fulltext_markdown": null,
+   "bibtex": "https://ddempsey.github.io/papers/2011-leonard-evolution-supercooling-coastal-antarctic-sea/citation.bib",
+   "summary": null,
+   "topics": [
+    "Sea ice"
+   ]
+  },
+  {
+   "title": "Observation and modeling of platelet ice fabric in McMurdo Sound, Antarctica",
+   "authors": [
+    "D. E. Dempsey",
+    "P. J. Langhorne",
+    "N. J. Robinson",
+    "M. J. M. Williams",
+    "T. G. Haskell",
+    "R. D. Frew"
+   ],
+   "year": 2010,
+   "date": "2010-01-26",
+   "journal": "Journal of Geophysical Research: Oceans",
+   "volume": "115",
+   "pages": "2008JC005264",
+   "doi": "10.1029/2008jc005264",
+   "doi_url": "https://doi.org/10.1029/2008jc005264",
+   "page": "https://ddempsey.github.io/papers/2010-dempsey-observation-modeling-platelet-ice-fabric/",
+   "markdown": "https://ddempsey.github.io/papers/2010-dempsey-observation-modeling-platelet-ice-fabric/index.md",
+   "pdf": "https://ddempsey.github.io/papers/2010-dempsey-observation-modeling-platelet-ice-fabric/dempsey2010-observation-modeling-platelet.pdf",
+   "pdf_version": "vor",
+   "open_copy_elsewhere": "https://hdl.handle.net/10092/107328",
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2010-dempsey-observation-modeling-platelet-ice-fabric/fulltext.md",
+   "bibtex": "https://ddempsey.github.io/papers/2010-dempsey-observation-modeling-platelet-ice-fabric/citation.bib",
+   "summary": null,
+   "topics": [
+    "Sea ice"
+   ]
+  }
+ ]
+}

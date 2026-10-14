@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>David Dempsey — research papers</title>
+  <link href="https://ddempsey.github.io/"/>
+  <link rel="self" href="https://ddempsey.github.io/feed.xml"/>
+  <id>https://ddempsey.github.io/</id>
+  <updated>2026-10-15T00:00:00Z</updated>
+  <author><name>David Dempsey</name><uri>https://orcid.org/0000-0003-2135-5129</uri></author>
+  <entry>
+    <title>Surrogate-Based probabilistic assessment of hydrogen leakage through abandoned wells in depleted gas reservoirs for underground hydrogen storage</title>
+    <link href="https://ddempsey.github.io/papers/2027-chang-surrogate-probabilistic-assessment-hydrogen-leakage/"/>
+    <id>https://doi.org/10.1016/j.fuel.2026.140374</id>
+    <updated>2027-01-01T00:00:00Z</updated>
+    <summary>Chang, Qiuhao, Dempsey, David, Xu, Guilong, Zhang, Liehui, Zhao, Yulong (2027). Surrogate-Based probabilistic assessment of hydrogen leakage through abandoned wells in depleted gas reservoirs for underground hydrogen storage. Fuel, 428, 140374. https://doi.org/10.1016/j.fuel.2026.140374</summary>
+  </entry>
+  <entry>
+    <title>A Physics‐Based, Lumped‐Parameter Model for Attributing Natural and Anthropogenic CO2 Emissions From Producing Geothermal Systems</title>
+    <link href="https://ddempsey.github.io/papers/2026-dempsey-physics-lumped-parameter-model-attributing/"/>
+    <id>https://doi.org/10.1029/2026wr044239</id>
+    <updated>2026-09-12T00:00:00Z</updated>
+    <summary>Dempsey, David (2026). A Physics‐Based, Lumped‐Parameter Model for Attributing Natural and Anthropogenic CO2 Emissions From Producing Geothermal Systems. Water Resources Research, 62(9), e2026WR044239. https://doi.org/10.1029/2026wr044239</summary>
+  </entry>
+  <entry>
+    <title>Socio-economic value of data-driven eruption forecasts to balance false alarms against catastrophic loss</title>
+    <link href="https://ddempsey.github.io/papers/2026-ardid-socio-economic-value-data-driven/"/>
+    <id>https://doi.org/10.1038/s41467-026-77242-4</id>
+    <updated>2026-08-26T00:00:00Z</updated>
+    <summary>Ardid, Alberto, Dempsey, David, McDonald, Garry, Cronin, Shane (2026). Socio-economic value of data-driven eruption forecasts to balance false alarms against catastrophic loss. Nature Communications, 17(1), 9356. https://doi.org/10.1038/s41467-026-77242-4</summary>
+  </entry>
+  <entry>
+    <title>A Machine‐Learning Classification for Torlesse Composite Terrane Petrofacies and its Application to Sediment Provenance</title>
+    <link href="https://ddempsey.github.io/papers/2026-parker-machine-learning-classification-torlesse-composite/"/>
+    <id>https://doi.org/10.1002/jgo2.70064</id>
+    <updated>2026-06-16T00:00:00Z</updated>
+    <summary>Parker, Matthew O., Dempsey, David E., Sagar, Matthew W., Bassett, Kari N., Nichols, Alexander R. L., Browne, Greg H. (2026). A Machine‐Learning Classification for Torlesse Composite Terrane Petrofacies and its Application to Sediment Provenance. New Zealand Journal of Geology and Geophysics, 69(2), e70064. https://doi.org/10.1002/jgo2.70064</summary>
+  </entry>
+  <entry>
+    <title>From forecast skill to economic value: sub-hourly wildfire potential forecasting across Australian regions</title>
+    <link href="https://ddempsey.github.io/papers/2026-ardid-forecast-skill-economic-value-sub/"/>
+    <id>https://doi.org/10.1071/wf25221</id>
+    <updated>2026-03-25T00:00:00Z</updated>
+    <summary>Ardid, Alberto, Power, Anthony, Valencia, Andres, Pearce, H. Grant, Gross, Shana, Dempsey, David, Boer, Matthias (2026). From forecast skill to economic value: sub-hourly wildfire potential forecasting across Australian regions. International Journal of Wildland Fire, 35(4), WF25221. https://doi.org/10.1071/wf25221</summary>
+  </entry>
+  <entry>
+    <title>Impacts of reservoir permeability anisotropy on hydrogen migration and recovery efficiency in geological storage</title>
+    <link href="https://ddempsey.github.io/papers/2026-liu-impacts-reservoir-permeability-anisotropy-hydrogen/"/>
+    <id>https://doi.org/10.1016/j.fuel.2025.137596</id>
+    <updated>2026-03-01T00:00:00Z</updated>
+    <summary>Liu, Jinjiang, Dempsey, David, Nicol, Andy, Parker, Matt, Titus, Karan (2026). Impacts of reservoir permeability anisotropy on hydrogen migration and recovery efficiency in geological storage. Fuel, 408, 137596. https://doi.org/10.1016/j.fuel.2025.137596</summary>
+  </entry>
+  <entry>
+    <title>Effects of reservoir interlayers on hydrogen migration and distribution in underground hydrogen storage</title>
+    <link href="https://ddempsey.github.io/papers/2026-liu-effects-reservoir-interlayers-hydrogen-migration/"/>
+    <id>https://doi.org/10.1016/j.ijhydene.2026.153704</id>
+    <updated>2026-02-01T00:00:00Z</updated>
+    <summary>Liu, Jinjiang, Dempsey, David, Nicol, Andy, Parker, Matt, Passmore, John (2026). Effects of reservoir interlayers on hydrogen migration and distribution in underground hydrogen storage. International Journal of Hydrogen Energy, 211, 153704. https://doi.org/10.1016/j.ijhydene.2026.153704</summary>
+  </entry>
+  <entry>
+    <title>Determination of interfacial tension for H2-H2S-water and CH4-H2S-water mixtures under different geological conditions for underground hydrogen storage</title>
+    <link href="https://ddempsey.github.io/papers/2026-chang-determination-interfacial-tension-h2s-water/"/>
+    <id>https://doi.org/10.1016/j.est.2025.119683</id>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <summary>Chang, Qiuhao, Dempsey, David, Huang, Liangliang (2026). Determination of interfacial tension for H2-H2S-water and CH4-H2S-water mixtures under different geological conditions for underground hydrogen storage. Journal of Energy Storage, 143, 119683. https://doi.org/10.1016/j.est.2025.119683</summary>
+  </entry>
+  <entry>
+    <title>Preferential seawater intrusion in a heterogeneous alluvial aquifer that extends offshore: Insights from numerical modeling</title>
+    <link href="https://ddempsey.github.io/papers/2025-cleary-preferential-seawater-intrusion-heterogeneous-alluvial/"/>
+    <id>https://doi.org/10.1016/j.jhydrol.2025.133455</id>
+    <updated>2025-11-01T00:00:00Z</updated>
+    <summary>Cleary, Connor A., Sarris, Theo S., Morgan, Leanne K., Dempsey, David E. (2025). Preferential seawater intrusion in a heterogeneous alluvial aquifer that extends offshore: Insights from numerical modeling. Journal of Hydrology, 661, 133455. https://doi.org/10.1016/j.jhydrol.2025.133455</summary>
+  </entry>
+  <entry>
+    <title>Advanced Hydrogeochemical Coupling in Carbon Sequestration: A 4D Spatiotemporal Fourier Neural Operator–Driven Modeling Framework</title>
+    <link href="https://ddempsey.github.io/papers/2025-rui-advanced-hydrogeochemical-coupling-carbon-sequestration/"/>
+    <id>https://doi.org/10.2118/228397-pa</id>
+    <updated>2025-07-21T00:00:00Z</updated>
+    <summary>Rui, Zhenhua, Zhou, Kaihu, Hu, Ting, Dempsey, David, Du, Kai, Chen, Siwei (2025). Advanced Hydrogeochemical Coupling in Carbon Sequestration: A 4D Spatiotemporal Fourier Neural Operator–Driven Modeling Framework. SPE Journal, 30(09), 5858-5880. https://doi.org/10.2118/228397-pa</summary>
+  </entry>
+  <entry>
+    <title>The Research and Impact of the Works by Don Nield</title>
+    <link href="https://ddempsey.github.io/papers/2025-becker-research-impact-works-don-nield/"/>
+    <id>https://doi.org/10.1007/s11242-025-02199-9</id>
+    <updated>2025-07-16T00:00:00Z</updated>
+    <summary>Becker, Sid, Dempsey, David, Zhao, Dan (2025). The Research and Impact of the Works by Don Nield. Transport in Porous Media, 152(9), 61. https://doi.org/10.1007/s11242-025-02199-9</summary>
+  </entry>
+  <entry>
+    <title>Quantifying Interannual Variations in Groundwater Fluxes Within a Braidplain Aquifer Using Active‐Distributed Temperature Sensing</title>
+    <link href="https://ddempsey.github.io/papers/2025-sai-louie-quantifying-interannual-variations-groundwater-fluxes/"/>
+    <id>https://doi.org/10.1029/2024wr039328</id>
+    <updated>2025-07-15T00:00:00Z</updated>
+    <summary>Sai Louie, A. J., Morgan, L. K., Dempsey, D., Wilson, S., Banks, E. W. (2025). Quantifying Interannual Variations in Groundwater Fluxes Within a Braidplain Aquifer Using Active‐Distributed Temperature Sensing. Water Resources Research, 61(7), e2024WR039328. https://doi.org/10.1029/2024wr039328</summary>
+  </entry>
+  <entry>
+    <title>Impact of operational parameters on water invasion in underground hydrogen storage: A numerical investigation of the Ahuroa field, New Zealand</title>
+    <link href="https://ddempsey.github.io/papers/2025-liu-impact-operational-parameters-water-invasion/"/>
+    <id>https://doi.org/10.1016/j.ijhydene.2025.150236</id>
+    <updated>2025-07-01T00:00:00Z</updated>
+    <summary>Liu, Jinjiang, Dempsey, David, Nicol, Andy, Parker, Matt, Passmore, John (2025). Impact of operational parameters on water invasion in underground hydrogen storage: A numerical investigation of the Ahuroa field, New Zealand. International Journal of Hydrogen Energy, 153, 150236. https://doi.org/10.1016/j.ijhydene.2025.150236</summary>
+  </entry>
+  <entry>
+    <title>Forecasting Eruptions at Steamboat Geyser: Time Scales, Differentiability, and Detectability of Seismic Precursors Through Data‐Driven Methods</title>
+    <link href="https://ddempsey.github.io/papers/2025-ardid-forecasting-eruptions-steamboat-geyser-time/"/>
+    <id>https://doi.org/10.1029/2024jh000569</id>
+    <updated>2025-04-12T00:00:00Z</updated>
+    <summary>Ardid, Alberto, Barth, Anna, Dempsey, David, Manga, Michael, Cronin, Shane J. (2025). Forecasting Eruptions at Steamboat Geyser: Time Scales, Differentiability, and Detectability of Seismic Precursors Through Data‐Driven Methods. Journal of Geophysical Research: Machine Learning and Computation, 2(2), e2024JH000569. https://doi.org/10.1029/2024jh000569</summary>
+  </entry>
+  <entry>
+    <title>Ergodic seismic precursors and transfer learning for short term eruption forecasting at data scarce volcanoes</title>
+    <link href="https://ddempsey.github.io/papers/2025-ardid-ergodic-seismic-precursors-transfer-learning/"/>
+    <id>https://doi.org/10.1038/s41467-025-56689-x</id>
+    <updated>2025-02-25T00:00:00Z</updated>
+    <summary>Ardid, Alberto, Dempsey, David, Caudron, Corentin, Cronin, Shane, Kennedy, Ben, Girona, Társilo, Roman, Diana, Miller, Craig, Potter, Sally, Lamb, Oliver D., Martanto, Anto, Cubuk-Sabuncu, Yesim, Cabrera, Leoncio, Ruiz, Sergio, Contreras, Rodrigo, Pacheco, Javier, Mora, Mauricio M., De Angelis, Silvio (2025). Ergodic seismic precursors and transfer learning for short term eruption forecasting at data scarce volcanoes. Nature Communications, 16(1), 1758. https://doi.org/10.1038/s41467-025-56689-x</summary>
+  </entry>
+  <entry>
+    <title>Sub-hourly forecasting of fire potential using machine learning on time series of surface weather variables</title>
+    <link href="https://ddempsey.github.io/papers/2025-ardid-sub-hourly-forecasting-fire-potential/"/>
+    <id>https://doi.org/10.1071/wf24113</id>
+    <updated>2025-01-30T00:00:00Z</updated>
+    <summary>Ardid, Alberto, Valencia, Andres, Power, Anthony, Boer, Matthias M., Katurji, Marwan, Gross, Shana, Dempsey, David (2025). Sub-hourly forecasting of fire potential using machine learning on time series of surface weather variables. International Journal of Wildland Fire, 34(1), WF24113. https://doi.org/10.1071/wf24113</summary>
+  </entry>
+  <entry>
+    <title>Techno-economic analysis of geothermal combined with direct and biomass-based carbon dioxide removal for high-temperature hydrothermal systems</title>
+    <link href="https://ddempsey.github.io/papers/2025-titus-techno-economic-analysis-geothermal-combined/"/>
+    <id>https://doi.org/10.1016/j.geothermics.2024.103159</id>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <summary>Titus, K.A., Dempsey, David, Peer, Rebecca A.M., Archer, Rosalind (2025). Techno-economic analysis of geothermal combined with direct and biomass-based carbon dioxide removal for high-temperature hydrothermal systems. Geothermics, 125, 103159. https://doi.org/10.1016/j.geothermics.2024.103159</summary>
+  </entry>
+  <entry>
+    <title>Influence of hydrogen sulfide on gas-water interface in underground hydrogen storage: A molecular dynamics study</title>
+    <link href="https://ddempsey.github.io/papers/2024-chang-influence-hydrogen-sulfide-gas-water/"/>
+    <id>https://doi.org/10.1016/j.est.2024.112766</id>
+    <updated>2024-09-01T00:00:00Z</updated>
+    <summary>Chang, Qiuhao, Huang, Liangliang, McKenzie, Kelsey, Carere, Carlo, Stott, Matthew, Nicol, Andy, Dempsey, David (2024). Influence of hydrogen sulfide on gas-water interface in underground hydrogen storage: A molecular dynamics study. Journal of Energy Storage, 97, 112766. https://doi.org/10.1016/j.est.2024.112766</summary>
+  </entry>
+  <entry>
+    <title>Earthquakes Trigger Rapid Flash Boiling Front at Optimal Geologic Conditions</title>
+    <link href="https://ddempsey.github.io/papers/2024-sanchez-alfaro-earthquakes-trigger-rapid-flash-boiling/"/>
+    <id>https://doi.org/10.1029/2023gl108109</id>
+    <updated>2024-08-21T00:00:00Z</updated>
+    <summary>Sanchez‐Alfaro, P., Wallis, I., Iturrieta, P., Rowland, J., Dempsey, D., O’Sullivan, J., Reich, M., Cembrano, J. (2024). Earthquakes Trigger Rapid Flash Boiling Front at Optimal Geologic Conditions. Geophysical Research Letters, 51(16), e2023GL108109. https://doi.org/10.1029/2023gl108109</summary>
+  </entry>
+  <entry>
+    <title>From carbon neutral to carbon negative: a theoretical bioenergy and CO2 removal retrofit at Ngāwhā geothermal power station</title>
+    <link href="https://ddempsey.github.io/papers/2024-titus-carbon-neutral-carbon-negative-theoretical/"/>
+    <id>https://doi.org/10.1080/03036758.2024.2385807</id>
+    <updated>2024-08-11T00:00:00Z</updated>
+    <summary>Titus, Karan, Dempsey, David, Peer, Rebecca, Hanik, Fabian (2024). From carbon neutral to carbon negative: a theoretical bioenergy and CO2 removal retrofit at Ngāwhā geothermal power station. Journal of the Royal Society of New Zealand, 55(4), 893-911. https://doi.org/10.1080/03036758.2024.2385807</summary>
+  </entry>
+  <entry>
+    <title>Multitimescale Template Matching: Discovering Eruption Precursors across Diverse Volcanic Settings</title>
+    <link href="https://ddempsey.github.io/papers/2024-ardid-multitimescale-template-matching-discovering-eruption/"/>
+    <id>https://doi.org/10.1785/0220240012</id>
+    <updated>2024-06-10T00:00:00Z</updated>
+    <summary>Ardid, Alberto, Dempsey, David, Corry, Josh, Garrett, Owen, Lamb, Oliver D., Cronin, Shane (2024). Multitimescale Template Matching: Discovering Eruption Precursors across Diverse Volcanic Settings. Seismological Research Letters, 95(5), 2611-2621. https://doi.org/10.1785/0220240012</summary>
+  </entry>
+  <entry>
+    <title>Prospectivity analysis for underground hydrogen storage, Taranaki basin, Aotearoa New Zealand: A multi-criteria decision-making approach</title>
+    <link href="https://ddempsey.github.io/papers/2024-higgs-prospectivity-analysis-underground-hydrogen-storage/"/>
+    <id>https://doi.org/10.1016/j.ijhydene.2024.05.098</id>
+    <updated>2024-06-01T00:00:00Z</updated>
+    <summary>Higgs, Karen E., Strogen, Dominic P., Nicol, Andrew, Dempsey, David, Leith, Kerry, Bassett, Kari, Reid, Catherine, Yates, Edward, Parker, Matthew, Bischoff, Alan, Adam, Ludmila, Rowe, Michael (2024). Prospectivity analysis for underground hydrogen storage, Taranaki basin, Aotearoa New Zealand: A multi-criteria decision-making approach. International Journal of Hydrogen Energy, 71, 1468-1485. https://doi.org/10.1016/j.ijhydene.2024.05.098</summary>
+  </entry>
+  <entry>
+    <title>Eruption Forecasting Model for Copahue Volcano (Southern Andes) Using Seismic Data and Machine Learning: A Joint Interpretation with Geodetic Data (GNSS and InSAR)</title>
+    <link href="https://ddempsey.github.io/papers/2024-cabrera-eruption-forecasting-model-copahue-volcano/"/>
+    <id>https://doi.org/10.1785/0220240022</id>
+    <updated>2024-05-29T00:00:00Z</updated>
+    <summary>Cabrera, Leoncio, Ardid, Alberto, Melchor, Ivan, Ruiz, Sergio, Symmes-Lopetegui, Blanca, Carlos Báez, Juan, Delgado, Francisco, Martinez-Yáñez, Pablo, Dempsey, David, Cronin, Shane (2024). Eruption Forecasting Model for Copahue Volcano (Southern Andes) Using Seismic Data and Machine Learning: A Joint Interpretation with Geodetic Data (GNSS and InSAR). Seismological Research Letters, 95(5), 2595-2610. https://doi.org/10.1785/0220240022</summary>
+  </entry>
+  <entry>
+    <title>Testing the reproducibility of active-distributed temperature sensing for measuring groundwater specific discharge beneath a braided river</title>
+    <link href="https://ddempsey.github.io/papers/2024-sai-louie-testing-reproducibility-active-distributed-temperature/"/>
+    <id>https://doi.org/10.1016/j.jhydrol.2024.130877</id>
+    <updated>2024-04-01T00:00:00Z</updated>
+    <summary>Sai Louie, Alice J., Morgan, Leanne K., Banks, Eddie W., Dempsey, David, Wilson, Scott (2024). Testing the reproducibility of active-distributed temperature sensing for measuring groundwater specific discharge beneath a braided river. Journal of Hydrology, 633, 130877. https://doi.org/10.1016/j.jhydrol.2024.130877</summary>
+  </entry>
+  <entry>
+    <title>Molecular dynamics insights into gas-water interfacial tension: Optimizing hydrogen storage in subsurface conditions</title>
+    <link href="https://ddempsey.github.io/papers/2024-chang-molecular-dynamics-insights-gas-water/"/>
+    <id>https://doi.org/10.1016/j.ijhydene.2024.03.341</id>
+    <updated>2024-04-01T00:00:00Z</updated>
+    <summary>Chang, Qiuhao, Dempsey, David, Zhang, Liehui, Zhao, Yulong, Huang, Liangliang (2024). Molecular dynamics insights into gas-water interfacial tension: Optimizing hydrogen storage in subsurface conditions. International Journal of Hydrogen Energy, 64, 896-905. https://doi.org/10.1016/j.ijhydene.2024.03.341</summary>
+  </entry>
+  <entry>
+    <title>Active-distributed temperature sensing dataset beneath a braided river</title>
+    <link href="https://ddempsey.github.io/papers/2023-sai-louie-active-distributed-temperature-sensing-dataset/"/>
+    <id>https://doi.org/10.1016/j.dib.2023.109756</id>
+    <updated>2023-12-01T00:00:00Z</updated>
+    <summary>Sai Louie, Alice J., Morgan, Leanne K., Banks, Eddie W., Dempsey, David, Wilson, Scott (2023). Active-distributed temperature sensing dataset beneath a braided river. Data in Brief, 51, 109756. https://doi.org/10.1016/j.dib.2023.109756</summary>
+  </entry>
+  <entry>
+    <title>Shallow groundwater characterisation and hydrograph classification in the coastal city of Ōtautahi/Christchurch, New Zealand</title>
+    <link href="https://ddempsey.github.io/papers/2023-bosserelle-shallow-groundwater-characterisation-hydrograph-classification/"/>
+    <id>https://doi.org/10.1007/s10040-023-02745-z</id>
+    <updated>2023-11-15T00:00:00Z</updated>
+    <summary>Bosserelle, Amandine L., Morgan, Leanne K., Dempsey, David E., Setiawan, Irene (2023). Shallow groundwater characterisation and hydrograph classification in the coastal city of Ōtautahi/Christchurch, New Zealand. Hydrogeology Journal, 32(2), 577-600. https://doi.org/10.1007/s10040-023-02745-z</summary>
+  </entry>
+  <entry>
+    <title>Using Template Matching to Detect Hidden Fluid Release Episodes Beneath Crater Lakes in Ruapehu, Copahue, and Kawah Ijen Volcanoes</title>
+    <link href="https://ddempsey.github.io/papers/2023-ardid-template-matching-detect-hidden-fluid/"/>
+    <id>https://doi.org/10.1029/2023jb026729</id>
+    <updated>2023-10-17T00:00:00Z</updated>
+    <summary>Ardid, A., Dempsey, D., Caudron, C., Cronin, S. J., Miller, C. A., Melchor, I., Syahbana, D., Kennedy, B. (2023). Using Template Matching to Detect Hidden Fluid Release Episodes Beneath Crater Lakes in Ruapehu, Copahue, and Kawah Ijen Volcanoes. Journal of Geophysical Research: Solid Earth, 128(10), e2023JB026729. https://doi.org/10.1029/2023jb026729</summary>
+  </entry>
+  <entry>
+    <title>Association Between Injection and Microseismicity in Geothermal Fields With Multiple Wells: Data‐Driven Modeling of Rotokawa, New Zealand, and Húsmúli, Iceland</title>
+    <link href="https://ddempsey.github.io/papers/2023-yu-association-injection-microseismicity-geothermal-fields/"/>
+    <id>https://doi.org/10.1029/2022jb025952</id>
+    <updated>2023-04-16T00:00:00Z</updated>
+    <summary>Yu, Pengliang, Dempsey, David, Rinaldi, Antonio Pio, Calibugan, Aimee, Ritz, Vanille A., Archer, Rosalind (2023). Association Between Injection and Microseismicity in Geothermal Fields With Multiple Wells: Data‐Driven Modeling of Rotokawa, New Zealand, and Húsmúli, Iceland. Journal of Geophysical Research: Solid Earth, 128(4), e2022JB025952. https://doi.org/10.1029/2022jb025952</summary>
+  </entry>
+  <entry>
+    <title>Identification of Seismo‐Volcanic Regimes at Whakaari/White Island (New Zealand) Via Systematic Tuning of an Unsupervised Classifier</title>
+    <link href="https://ddempsey.github.io/papers/2023-steinke-identification-seismo-volcanic-regimes-whakaari/"/>
+    <id>https://doi.org/10.1029/2022jb026221</id>
+    <updated>2023-03-14T00:00:00Z</updated>
+    <summary>Steinke, B., Jolly, A. D., Carniel, R., Dempsey, D. E., Cronin, S. J. (2023). Identification of Seismo‐Volcanic Regimes at Whakaari/White Island (New Zealand) Via Systematic Tuning of an Unsupervised Classifier. Journal of Geophysical Research: Solid Earth, 128(3), e2022JB026221. https://doi.org/10.1029/2022jb026221</summary>
+  </entry>
+</feed>
