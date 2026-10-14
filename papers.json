@@ -79,7 +79,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2026-ardid-socio-economic-value-data-driven/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2026-ardid-socio-economic-value-data-driven/citation.bib",
-   "summary": null,
+   "summary": "We compared the cost of false alarms with the loss from missed eruptions for eruption forecasts at five volcanoes. In retrospective tests, with documented losses at two volcanoes and assumed losses at three, acting on the forecasts could have reduced losses by 30 to 90%, despite many false alarms.",
    "topics": [
     "Volcanoes & eruption forecasting"
    ]
@@ -424,7 +424,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2025-ardid-ergodic-seismic-precursors-transfer-learning/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2025-ardid-ergodic-seismic-precursors-transfer-learning/citation.bib",
-   "summary": null,
+   "summary": "We trained forecasting models on seismic data from 41 eruptions at 24 volcanoes and tested each on a volcano left out of training. They scored better than a seismic amplitude benchmark and, at three volcanoes, close to models trained on that volcano alone. This suggests precursors are shared between volcanoes.",
    "topics": [
     "Volcanoes & eruption forecasting",
     "Induced seismicity & faults"
@@ -1012,7 +1012,7 @@
    "open_copy_elsewhere": "https://hdl.handle.net/10092/105669",
    "fulltext_markdown": "https://ddempsey.github.io/papers/2022-ardid-seismic-precursors-whakaari-2019-phreatic/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2022-ardid-seismic-precursors-whakaari-2019-phreatic/citation.bib",
-   "summary": null,
+   "summary": "We searched seismic tremor recorded before 18 eruptions at six volcanoes for a shared precursor. A rise in the ratio of medium- to high-frequency tremor recurred before steam-driven eruptions at Whakaari and, less clearly, Ruapehu and Tongariro. At Whakaari in 2019, we interpret it as shallow sealing and pressurisation.",
    "topics": [
     "Volcanoes & eruption forecasting",
     "Induced seismicity & faults"
@@ -1067,7 +1067,7 @@
    "open_copy_elsewhere": "https://hdl.handle.net/10092/105818",
    "fulltext_markdown": "https://ddempsey.github.io/papers/2021-kelly-hydrothermal-cooling-requirement-short-storage/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2021-kelly-hydrothermal-cooling-requirement-short-storage/citation.bib",
-   "summary": null,
+   "summary": "Magma for large eruptions in New Zealand's Taupō Volcanic Zone appears to have crystallised within decades to centuries. In our calculations, conduction through rock took over 1,000 years to remove the heat. Circulating groundwater above the magma, with a heat output of about 1,000 MW, could remove it within decades.",
    "topics": [
     "Volcanoes & eruption forecasting",
     "Geothermal systems",
@@ -1125,7 +1125,7 @@
    "open_copy_elsewhere": "https://hdl.handle.net/10092/105816",
    "fulltext_markdown": "https://ddempsey.github.io/papers/2021-ardid-heat-transfer-wairakei-tauhara-geothermal/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2021-ardid-heat-transfer-wairakei-tauhara-geothermal/citation.bib",
-   "summary": null,
+   "summary": "We combined electrical surveys, clay tests on drill cuttings, and well temperature logs to map the clay layer above the Wairakei-Tauhara geothermal reservoir. We estimate that 380 ± 21 MW of heat passes up through this layer. We treat this as a lower bound on the field's total heat output.",
    "topics": [
     "Geothermal systems"
    ]
@@ -1294,7 +1294,7 @@
    "open_copy_elsewhere": "https://hdl.handle.net/10092/105823",
    "fulltext_markdown": "https://ddempsey.github.io/papers/2018-riffault-microseismicity-cloud-can-substantially-larger/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2018-riffault-microseismicity-cloud-can-substantially-larger/citation.bib",
-   "summary": null,
+   "summary": "During the 2011 Paralana geothermal stimulation in South Australia, earthquakes occurred up to 400 m from the well. Our inversion of the earthquake and well data suggests that permeability increased only within 40 m of it. For the best-fitting model, the stimulated volume was 0.4% of the seismically active volume.",
    "topics": [
     "Induced seismicity & faults",
     "Geothermal systems"

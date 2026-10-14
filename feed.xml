@@ -25,7 +25,7 @@
     <link href="https://ddempsey.github.io/papers/2026-ardid-socio-economic-value-data-driven/"/>
     <id>https://doi.org/10.1038/s41467-026-77242-4</id>
     <updated>2026-08-26T00:00:00Z</updated>
-    <summary>Ardid, Alberto, Dempsey, David, McDonald, Garry, Cronin, Shane (2026). Socio-economic value of data-driven eruption forecasts to balance false alarms against catastrophic loss. Nature Communications, 17(1), 9356. https://doi.org/10.1038/s41467-026-77242-4</summary>
+    <summary>Ardid, Alberto, Dempsey, David, McDonald, Garry, Cronin, Shane (2026). Socio-economic value of data-driven eruption forecasts to balance false alarms against catastrophic loss. Nature Communications, 17(1), 9356. https://doi.org/10.1038/s41467-026-77242-4 We compared the cost of false alarms with the loss from missed eruptions for eruption forecasts at five volcanoes. In retrospective tests, with documented losses at two volcanoes and assumed losses at three, acting on the forecasts could have reduced losses by 30 to 90%, despite many false alarms.</summary>
   </entry>
   <entry>
     <title>A Machine‐Learning Classification for Torlesse Composite Terrane Petrofacies and its Application to Sediment Provenance</title>
@@ -109,7 +109,7 @@
     <link href="https://ddempsey.github.io/papers/2025-ardid-ergodic-seismic-precursors-transfer-learning/"/>
     <id>https://doi.org/10.1038/s41467-025-56689-x</id>
     <updated>2025-02-25T00:00:00Z</updated>
-    <summary>Ardid, Alberto, Dempsey, David, Caudron, Corentin, Cronin, Shane, Kennedy, Ben, Girona, Társilo, Roman, Diana, Miller, Craig, Potter, Sally, Lamb, Oliver D., Martanto, Anto, Cubuk-Sabuncu, Yesim, Cabrera, Leoncio, Ruiz, Sergio, Contreras, Rodrigo, Pacheco, Javier, Mora, Mauricio M., De Angelis, Silvio (2025). Ergodic seismic precursors and transfer learning for short term eruption forecasting at data scarce volcanoes. Nature Communications, 16(1), 1758. https://doi.org/10.1038/s41467-025-56689-x</summary>
+    <summary>Ardid, Alberto, Dempsey, David, Caudron, Corentin, Cronin, Shane, Kennedy, Ben, Girona, Társilo, Roman, Diana, Miller, Craig, Potter, Sally, Lamb, Oliver D., Martanto, Anto, Cubuk-Sabuncu, Yesim, Cabrera, Leoncio, Ruiz, Sergio, Contreras, Rodrigo, Pacheco, Javier, Mora, Mauricio M., De Angelis, Silvio (2025). Ergodic seismic precursors and transfer learning for short term eruption forecasting at data scarce volcanoes. Nature Communications, 16(1), 1758. https://doi.org/10.1038/s41467-025-56689-x We trained forecasting models on seismic data from 41 eruptions at 24 volcanoes and tested each on a volcano left out of training. They scored better than a seismic amplitude benchmark and, at three volcanoes, close to models trained on that volcano alone. This suggests precursors are shared between volcanoes.</summary>
   </entry>
   <entry>
     <title>Sub-hourly forecasting of fire potential using machine learning on time series of surface weather variables</title>
