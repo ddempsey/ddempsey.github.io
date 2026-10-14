@@ -8,9 +8,149 @@
 - **Open PDF:** [https://ddempsey.github.io/papers/2023-dempsey-physics-forecasting-induced-seismicity-groningen/dempsey2023-physics-forecasting-induced.pdf](https://ddempsey.github.io/papers/2023-dempsey-physics-forecasting-induced-seismicity-groningen/dempsey2023-physics-forecasting-induced.pdf) (Accepted manuscript (peer-reviewed, author's version))
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2023-dempsey-physics-forecasting-induced-seismicity-groningen/fulltext.md](https://ddempsey.github.io/papers/2023-dempsey-physics-forecasting-induced-seismicity-groningen/fulltext.md)
 - **Notice:** Accepted manuscript. The version of record, published by the Seismological Society of America in Seismological Research Letters, is at https://doi.org/10.1785/0220220317. Not for commercial redistribution.
+- **Explainer:** all explainers on this site are AI-generated and human-checked.
 - **BibTeX:** https://ddempsey.github.io/papers/2023-dempsey-physics-forecasting-induced-seismicity-groningen/citation.bib
 - **Topics:** Induced seismicity & faults
 - **Keywords:** Induced seismicity; Magnitude (astronomy); Geology; Rollover (web design); Seismology
+
+## In brief
+
+We tested our 2017 earthquake forecast for the Groningen gas field against the earthquakes that followed, then updated it. For 2021 to 2030, the largest event has a 1% chance of exceeding magnitude 3.8 if ruptures are confined to the reservoir, and 5.4 if they can extend below it.
+
+- Because gas extraction from February 2017 to July 2022 was about 35% less than the lowest scenario in our 2017 forecast, we scaled that forecast by the volume extracted.
+- After scaling, the 2017 forecast slightly underestimated the number of earthquakes of magnitude 2.5 or more, with the 10 observed at about its 2% exceedance level.
+- The largest earthquake from February 2017 to July 2022, a magnitude 3.4, was consistent with the 2017 forecast.
+- We calibrated the updated model on earthquakes before 2017 and found no clear evidence to reject it in tests against the 2017 to 2022 record.
+- For 2021 to 2030, the largest earthquake has a 1% chance of exceeding magnitude 3.8 if ruptures are confined to the reservoir, the scenario we prefer, and 5.4 otherwise.
+
+## The problem
+
+Gas extraction from the Groningen field in the Netherlands has caused
+earthquakes since the early 1990s. Forecasts that link extraction plans to
+earthquake rates could help reduce impacts on nearby communities. By July 2022,
+840 events of magnitude 1.0 or more had been detected, and the largest was a
+magnitude 3.6 in 2012.
+
+In 2016, the field operator, Nederlandse Aardolie Maatschappij (NAM), convened a
+workshop to estimate the largest earthquake that could occur in the field. Our
+forecast (Dempsey and Suckale, 2017) was one contribution. However, the accuracy
+of forecasts like this was unknown, and actual extraction has since differed
+from the plans they assumed. NAM held a second workshop in 2022. This study,
+under contract to NAM, was our contribution. Our goal was to evaluate the 2017
+forecast and then update it.
+
+## What we did
+
+Mean reservoir pressure has fallen by more than 25 MPa, about 250 times
+atmospheric pressure. The reservoir rock would contract as pressure falls if it
+were free. Because it is attached to the surrounding rock, it cannot contract
+sideways. Instead, the horizontal stress in it falls. This moves the faults
+closer to slipping (Segall and Fitzgerald, 1998). We assume that earthquakes
+start on each fault at a rate proportional to how fast stress on it is
+increasing towards failure.
+
+The 2017 forecast covered February 2017 to January 2025 for three extraction
+rates: 21, 27, and 33 billion cubic metres a year. We compared it with the
+earthquakes up to 1 July 2022, the first 5.5 years. Over that time, 72.5 billion
+cubic metres were extracted, about 35% less per year than the lowest scenario.
+In the 2017 model, earthquake rates were in proportion to extraction rates. We
+therefore scaled the earthquake count of the lowest scenario, which assumed 168
+billion cubic metres over the full eight years, by the volume ratio 72.5/168, or
+43%.
+
+We then updated the model with (1) a new pressure scenario from NAM, (2) fault
+heights that follow the thickness of the reservoir, (3) earthquake magnitudes
+drawn from two statistical distributions in place of the 2017 simulation of how
+far each rupture spreads, and (4) calibration to earthquake locations as well as
+times. One distribution, a tapered Gutenberg-Richter law (Bourne and Oates,
+2020), has fewer large earthquakes and represents ruptures confined to the
+reservoir. The other, an unbounded Gutenberg-Richter law, represents ruptures
+that can extend into the rock beneath it.
+
+For an out-of-sample test of the updated model, we calibrated it on earthquakes
+before 1 February 2017 and compared its forecast with the 2017 to 2022 record.
+We then recalibrated it on earthquakes up to 1 January 2021 and forecast 2021 to
+2030.
+
+## What we found
+
+After scaling, the 2017 forecast gave a 50% chance of 6 or more earthquakes of
+magnitude 2.5 or more, and a 5% chance of 9 or more. Ten occurred. This is about
+the 2% exceedance level, a 1 in 50 outcome. This suggests the 2017 model
+slightly underestimated the number of these earthquakes. We consider three
+explanations: (1) a rare but plausible outcome, (2) a scaling that is less
+accurate at lower extraction rates, or (3) a deficiency in the model.
+
+The largest event in the period, a magnitude 3.4, was consistent with the 2017
+forecast. Across scenarios, the forecasts of the largest event differed by only
+about 0.05 magnitude units. This is because the earthquake rates in the 33 and
+21 billion cubic metre scenarios differed by a factor of about 1.6, while about
+ten times as many earthquakes are needed to raise the largest event by one
+magnitude unit.
+
+The updated model reproduced past earthquake rates, although its onset was about
+two years late. In the out-of-sample test, 10 earthquakes of magnitude 2.5 or
+more had a 9% chance of being exceeded under the tapered distribution and 11%
+under the unbounded one. The largest observed event, a magnitude 3.4, had a 34%
+chance of being exceeded under the tapered distribution and 60% under the
+unbounded one. Together with a test of earthquake timing, these results gave no
+clear evidence to reject the model.
+
+For 2021 to 2030, the forecast rate falls from 20 to 10 earthquakes of magnitude
+1.0 or more per year. Both distributions give a 10% chance of more than 8
+earthquakes of magnitude 2.5 or more, and a 1% chance of more than 11.
+
+<div class="widget" id="w-mmax-2030" role="group" aria-label="Magnitude of the largest earthquake from 2021 to 2030 at three exceedance probabilities, for ruptures confined to the reservoir and for ruptures that can extend below it"></div>
+
+At 10%, 1%, and 0.1% chances of exceedance, the largest event is magnitude 3.6,
+3.8, and 3.9 for the tapered distribution, and 4.3, 5.4, and 6.5 for the
+unbounded one. We consider the tapered distribution more likely, consistent with
+earlier studies (e.g., Smith et al., 2020; Muntendam-Bos and Grobbe, 2022).
+Groningen's magnitude-frequency distribution shows a clear rollover, and few
+earthquakes appear to start beneath the reservoir. The expert panel at the 2022
+workshop assigned a probability of 10% to the scenario of ruptures below the
+reservoir (Coppersmith et al., 2022).
+
+## Limitations
+
+Because a forecast is a probability distribution, a single observed period
+cannot confirm it. Our model also omits the stress that uneven compaction of the
+reservoir adds to faults. The model's best-fitting stress path coefficient is
+also higher than values reported for real reservoirs. We suggest this reflects
+physical processes missing from the model.
+
+We cannot rule out the unbounded distribution, because no direct stress
+measurements exist for the rock beneath the reservoir. Drilling into it, with
+pressure tests, borehole imaging, and friction tests on core, could reduce this
+uncertainty.
+
+## Glossary
+
+**Magnitude** is a logarithmic measure of earthquake size.
+
+**Calibration** is the adjustment of model parameters until the model reproduces
+past earthquakes.
+
+A **magnitude-frequency distribution** describes how the number of earthquakes
+falls as magnitude increases.
+
+The **Gutenberg-Richter law** is a magnitude-frequency distribution in which
+each unit increase in magnitude makes earthquakes rarer by a fixed factor.
+
+A **tapered** distribution follows the Gutenberg-Richter law at small magnitudes
+but has progressively fewer large earthquakes.
+
+A **rollover** is a bend in the magnitude-frequency distribution, with fewer
+large earthquakes than the Gutenberg-Richter law predicts.
+
+An **exceedance probability** is the chance that a quantity, such as the largest
+magnitude, is higher than a given value.
+
+An **out-of-sample test** checks a model against data withheld from its
+calibration.
+
+The **stress path coefficient** is the ratio of the change in horizontal stress
+to the change in reservoir pressure.
 
 ## Cite
 

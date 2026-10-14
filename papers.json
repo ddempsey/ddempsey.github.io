@@ -898,7 +898,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2023-dempsey-physics-forecasting-induced-seismicity-groningen/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2023-dempsey-physics-forecasting-induced-seismicity-groningen/citation.bib",
-   "summary": null,
+   "summary": "We tested our 2017 earthquake forecast for the Groningen gas field against the earthquakes that followed, then updated it. For 2021 to 2030, the largest event has a 1% chance of exceeding magnitude 3.8 if ruptures are confined to the reservoir, and 5.4 if they can extend below it.",
    "topics": [
     "Induced seismicity & faults"
    ]
@@ -1732,7 +1732,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2012-dempsey-energetics-normal-earthquakes-dip-slip/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2012-dempsey-energetics-normal-earthquakes-dip-slip/citation.bib",
-   "summary": null,
+   "summary": "We modelled a normal fault in a stretching crust and quantified where energy is released and taken up during each earthquake. Stored elastic energy lifts the footwall. The hangingwall drops under gravity and compresses the crust. We suggest the energy for normal faulting comes from gravity and stored elastic energy.",
    "topics": [
     "Induced seismicity & faults"
    ]
