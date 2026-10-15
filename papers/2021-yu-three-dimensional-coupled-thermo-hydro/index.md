@@ -5,7 +5,9 @@
 - **Publisher:** Elsevier BV
 - **DOI (version of record):** [https://doi.org/10.1016/j.ijrmms.2021.104787](https://doi.org/10.1016/j.ijrmms.2021.104787)
 - **This page:** https://ddempsey.github.io/papers/2021-yu-three-dimensional-coupled-thermo-hydro/
-- **Open copy:** none posted yet; use the DOI.
+- **Open PDF:** [https://ddempsey.github.io/papers/2021-yu-three-dimensional-coupled-thermo-hydro/yu2021-three-dimensional-coupled.pdf](https://ddempsey.github.io/papers/2021-yu-three-dimensional-coupled-thermo-hydro/yu2021-three-dimensional-coupled.pdf) (Accepted manuscript (peer-reviewed, author's version))
+- **Full text (Markdown):** [https://ddempsey.github.io/papers/2021-yu-three-dimensional-coupled-thermo-hydro/fulltext.md](https://ddempsey.github.io/papers/2021-yu-three-dimensional-coupled-thermo-hydro/fulltext.md)
+- **Notice:** Accepted manuscript. © 2021. This manuscript version is made available under the CC-BY-NC-ND 4.0 license https://creativecommons.org/licenses/by-nc-nd/4.0/. The version of record is available at https://doi.org/10.1016/j.ijrmms.2021.104787
 - **Explainer:** all explainers on this site are AI-generated and human-checked.
 - **BibTeX:** https://ddempsey.github.io/papers/2021-yu-three-dimensional-coupled-thermo-hydro/citation.bib
 - **Topics:** Induced seismicity & faults; Geothermal systems

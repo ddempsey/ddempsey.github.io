@@ -5,7 +5,9 @@
 - **Publisher:** Seismological Society of America (SSA)
 - **DOI (version of record):** [https://doi.org/10.1785/0220240012](https://doi.org/10.1785/0220240012)
 - **This page:** https://ddempsey.github.io/papers/2024-ardid-multitimescale-template-matching-discovering-eruption/
-- **Open copy:** none posted yet; use the DOI.
+- **Open PDF:** [https://ddempsey.github.io/papers/2024-ardid-multitimescale-template-matching-discovering-eruption/ardid2024-multitimescale-template-matching.pdf](https://ddempsey.github.io/papers/2024-ardid-multitimescale-template-matching-discovering-eruption/ardid2024-multitimescale-template-matching.pdf) (Accepted manuscript (peer-reviewed, author's version))
+- **Full text (Markdown):** [https://ddempsey.github.io/papers/2024-ardid-multitimescale-template-matching-discovering-eruption/fulltext.md](https://ddempsey.github.io/papers/2024-ardid-multitimescale-template-matching-discovering-eruption/fulltext.md)
+- **Notice:** Accepted manuscript. The version of record, published by the Seismological Society of America in Seismological Research Letters, is at https://doi.org/10.1785/0220240012. Not for commercial redistribution.
 - **BibTeX:** https://ddempsey.github.io/papers/2024-ardid-multitimescale-template-matching-discovering-eruption/citation.bib
 - **Topics:** Volcanoes & eruption forecasting
 - **Keywords:** Volcano; Spurious relationship; Seismology; Feature (linguistics); Hazard; Matching (statistics); Geology; Hazard analysis

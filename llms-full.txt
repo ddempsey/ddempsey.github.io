@@ -1,6 +1,6 @@
 # David Dempsey: all papers, with summaries
 
-Source: https://ddempsey.github.io/ (generated 2026-10-15). Cite the DOI for each paper.
+Source: https://ddempsey.github.io/ (generated 2026-10-16). Cite the DOI for each paper.
 
 ---
 
@@ -119,7 +119,7 @@ Abstract: With the rapid expansion of renewable energy deployment, underground h
 ## Determination of interfacial tension for H2-H2S-water and CH4-H2S-water mixtures under different geological conditions for underground hydrogen storage
 
 Chang, Qiuhao, Dempsey, David, Huang, Liangliang (2026). Determination of interfacial tension for H2-H2S-water and CH4-H2S-water mixtures under different geological conditions for underground hydrogen storage. Journal of Energy Storage, 143, 119683. https://doi.org/10.1016/j.est.2025.119683
-Page: https://ddempsey.github.io/papers/2026-chang-determination-interfacial-tension-h2s-water/
+Page: https://ddempsey.github.io/papers/2026-chang-determination-interfacial-tension-h2s-water/ | PDF (Accepted manuscript (peer-reviewed, author's version)): https://ddempsey.github.io/papers/2026-chang-determination-interfacial-tension-h2s-water/chang2026-determination-interfacial-tension.pdf | Full text: https://ddempsey.github.io/papers/2026-chang-determination-interfacial-tension-h2s-water/fulltext.md
 Hydrogen stored in depleted oil and gas reservoirs may mix with hydrogen sulfide (H2S). In our molecular simulations, H2S lowered the interfacial tension between the gas and pore water more than pressure or temperature did. We fitted a linear formula in H2S content, pressure and temperature to predict it.
 
 - In our simulations, 10 mol% H2S lowered the interfacial tension of hydrogen and methane against water by about 7 to 14 mN/m, and 40 mol% by 31 to 49 mN/m.
@@ -314,7 +314,7 @@ Abstract: For countries like New Zealand with high renewable electricity generat
 ## Multitimescale Template Matching: Discovering Eruption Precursors across Diverse Volcanic Settings
 
 Ardid, Alberto, Dempsey, David, Corry, Josh, Garrett, Owen, Lamb, Oliver D., Cronin, Shane (2024). Multitimescale Template Matching: Discovering Eruption Precursors across Diverse Volcanic Settings. Seismological Research Letters, 95(5), 2611-2621. https://doi.org/10.1785/0220240012
-Page: https://ddempsey.github.io/papers/2024-ardid-multitimescale-template-matching-discovering-eruption/
+Page: https://ddempsey.github.io/papers/2024-ardid-multitimescale-template-matching-discovering-eruption/ | PDF (Accepted manuscript (peer-reviewed, author's version)): https://ddempsey.github.io/papers/2024-ardid-multitimescale-template-matching-discovering-eruption/ardid2024-multitimescale-template-matching.pdf | Full text: https://ddempsey.github.io/papers/2024-ardid-multitimescale-template-matching-discovering-eruption/fulltext.md
 
 ---
 
@@ -337,7 +337,7 @@ Abstract: Seasonal underground hydrogen storage (UHS) in porous media provides a
 ## Eruption Forecasting Model for Copahue Volcano (Southern Andes) Using Seismic Data and Machine Learning: A Joint Interpretation with Geodetic Data (GNSS and InSAR)
 
 Cabrera, Leoncio, Ardid, Alberto, Melchor, Ivan, Ruiz, Sergio, Symmes-Lopetegui, Blanca, Carlos Báez, Juan, Delgado, Francisco, Martinez-Yáñez, Pablo, Dempsey, David, Cronin, Shane (2024). Eruption Forecasting Model for Copahue Volcano (Southern Andes) Using Seismic Data and Machine Learning: A Joint Interpretation with Geodetic Data (GNSS and InSAR). Seismological Research Letters, 95(5), 2595-2610. https://doi.org/10.1785/0220240022
-Page: https://ddempsey.github.io/papers/2024-cabrera-eruption-forecasting-model-copahue-volcano/
+Page: https://ddempsey.github.io/papers/2024-cabrera-eruption-forecasting-model-copahue-volcano/ | PDF (Accepted manuscript (peer-reviewed, author's version)): https://ddempsey.github.io/papers/2024-cabrera-eruption-forecasting-model-copahue-volcano/cabrera2024-eruption-forecasting-model.pdf | Full text: https://ddempsey.github.io/papers/2024-cabrera-eruption-forecasting-model-copahue-volcano/fulltext.md
 
 ---
 
@@ -360,7 +360,7 @@ Abstract: Braided rivers are a major contributor of groundwater recharge, yet li
 ## Molecular dynamics insights into gas-water interfacial tension: Optimizing hydrogen storage in subsurface conditions
 
 Chang, Qiuhao, Dempsey, David, Zhang, Liehui, Zhao, Yulong, Huang, Liangliang (2024). Molecular dynamics insights into gas-water interfacial tension: Optimizing hydrogen storage in subsurface conditions. International Journal of Hydrogen Energy, 64, 896-905. https://doi.org/10.1016/j.ijhydene.2024.03.341
-Page: https://ddempsey.github.io/papers/2024-chang-molecular-dynamics-insights-gas-water/
+Page: https://ddempsey.github.io/papers/2024-chang-molecular-dynamics-insights-gas-water/ | PDF (Accepted manuscript (peer-reviewed, author's version)): https://ddempsey.github.io/papers/2024-chang-molecular-dynamics-insights-gas-water/chang2024-molecular-dynamics-insights.pdf | Full text: https://ddempsey.github.io/papers/2024-chang-molecular-dynamics-insights-gas-water/fulltext.md
 In molecular simulations at underground hydrogen storage conditions, mixing a cushion gas into hydrogen lowered the tension at the boundary between gas and pore water. Carbon dioxide lowered it substantially up to a 40% share, and at a lower rate above that. Methane lowered it at a steady rate.
 
 - At 20 MPa and 373 K, adding CO2 or CH4 to hydrogen lowered the simulated gas-water interfacial tension, and CO2 lowered it more than CH4 at the same concentration.
@@ -473,7 +473,7 @@ We modelled four power plant designs that burn forestry waste alongside a 160 °
 ## Active distributed temperature sensing to assess surface water–groundwater interaction and river loss in braided river systems
 
 Banks, Eddie W., Morgan, Leanne K., Sai Louie, Alice J., Dempsey, David, Wilson, Scott R. (2022). Active distributed temperature sensing to assess surface water–groundwater interaction and river loss in braided river systems. Journal of Hydrology, 615, 128667. https://doi.org/10.1016/j.jhydrol.2022.128667
-Page: https://ddempsey.github.io/papers/2022-banks-active-distributed-temperature-sensing-assess/
+Page: https://ddempsey.github.io/papers/2022-banks-active-distributed-temperature-sensing-assess/ | PDF (Accepted manuscript (peer-reviewed, author's version)): https://ddempsey.github.io/papers/2022-banks-active-distributed-temperature-sensing-assess/banks2022-active-distributed-temperature.pdf | Full text: https://ddempsey.github.io/papers/2022-banks-active-distributed-temperature-sensing-assess/fulltext.md
 We installed heated fibre optic cables 5 m beneath the Waikirikiri Selwyn River, a braided river in Canterbury, to measure water leaking from the river into the gravels below. We estimate that groundwater beneath the channel moved at an average of 12.0 and 15.8 m per day in two surveys.
 
 - Two 100 m long drillholes, about 5 m below and across the river channel, contain fibre optic cables that we heated at 15 W per metre for 20 minutes.
@@ -519,7 +519,7 @@ Abstract: Volcanic eruptions that occur without warning can be deadly in tourist
 ## Techno-Economic feasibility of enhanced geothermal systems (EGS) with partially bridging Multi-Stage fractures for district heating applications
 
 Yu, Pengliang, Dempsey, David, Archer, Rosalind (2022). Techno-Economic feasibility of enhanced geothermal systems (EGS) with partially bridging Multi-Stage fractures for district heating applications. Energy Conversion and Management, 257, 115405. https://doi.org/10.1016/j.enconman.2022.115405
-Page: https://ddempsey.github.io/papers/2022-yu-techno-economic-feasibility-enhanced-geothermal/
+Page: https://ddempsey.github.io/papers/2022-yu-techno-economic-feasibility-enhanced-geothermal/ | PDF (Accepted manuscript (peer-reviewed, author's version)): https://ddempsey.github.io/papers/2022-yu-techno-economic-feasibility-enhanced-geothermal/yu2022-techno-economic-feasibility.pdf | Full text: https://ddempsey.github.io/papers/2022-yu-techno-economic-feasibility-enhanced-geothermal/fulltext.md
 We modelled a geothermal heating scheme that forces water through fractured hot rock between two horizontal wells. In a modelled case study at Qiabuqia, China, a 14-fracture design gave a median profit of USD 110 million over 20 years, with a 95% range of USD 24 to 185 million.
 
 - In our model, the permeability of the rock between fractures and the reservoir temperature were the main controls on profitability, with smaller effects from depth and fracture number.
@@ -549,7 +549,7 @@ Abstract: Large (&gt;50 km 3 ) magma bodies that contribute to caldera‐forming
 ## A three-dimensional coupled thermo-hydro-mechanical numerical model with partially bridging multi-stage contact fractures in horizontal-well enhanced geothermal system
 
 Yu, Pengliang, Dempsey, David, Archer, Rosalind (2021). A three-dimensional coupled thermo-hydro-mechanical numerical model with partially bridging multi-stage contact fractures in horizontal-well enhanced geothermal system. International Journal of Rock Mechanics and Mining Sciences, 143, 104787. https://doi.org/10.1016/j.ijrmms.2021.104787
-Page: https://ddempsey.github.io/papers/2021-yu-three-dimensional-coupled-thermo-hydro/
+Page: https://ddempsey.github.io/papers/2021-yu-three-dimensional-coupled-thermo-hydro/ | PDF (Accepted manuscript (peer-reviewed, author's version)): https://ddempsey.github.io/papers/2021-yu-three-dimensional-coupled-thermo-hydro/yu2021-three-dimensional-coupled.pdf | Full text: https://ddempsey.github.io/papers/2021-yu-three-dimensional-coupled-thermo-hydro/fulltext.md
 We propose a geothermal well design in which fractures grow alternately from the injection and production wells and stop short of the other well. In our model, this forces water through the rock between fractures and keeps produced water hotter, for the same mass produced, than fractures joining both wells.
 
 - In our model, partially bridging fractures delivered hotter water than fully bridging fractures for the same mass produced, but produced less water in total.
@@ -591,7 +591,7 @@ We developed a way to map the clay layer above a geothermal reservoir from elect
 ## Two-dimensional numerical modelling of strategies to avoid thermal stress induced flow channeling in fractured geothermal reservoirs
 
 Rongved, Mats, Bauer, Andreas, Dempsey, David, Holt, Rune M. (2021). Two-dimensional numerical modelling of strategies to avoid thermal stress induced flow channeling in fractured geothermal reservoirs. Geothermics, 90, 101978. https://doi.org/10.1016/j.geothermics.2020.101978
-Page: https://ddempsey.github.io/papers/2021-rongved-two-dimensional-numerical-modelling-strategies/
+Page: https://ddempsey.github.io/papers/2021-rongved-two-dimensional-numerical-modelling-strategies/ | PDF (Accepted manuscript (peer-reviewed, author's version)): https://ddempsey.github.io/papers/2021-rongved-two-dimensional-numerical-modelling-strategies/rongved2021-two-dimensional-numerical.pdf | Full text: https://ddempsey.github.io/papers/2021-rongved-two-dimensional-numerical-modelling-strategies/fulltext.md
 Cooling by injected water can concentrate flow into one fracture. In our two-dimensional model of two parallel fractures, flow stayed even or evened out with wider, more alike fractures or a higher injection rate. A high starting rate, or injecting through each fracture in turn, made even flow more likely.
 
 - In our model, flow between two fractures splits by the ratio of their apertures. A narrower fracture with a larger relative aperture gain can regain flow.
@@ -685,7 +685,7 @@ Abstract: Earthquakes induced by natural gas extraction from the Groningen reser
 ## Simulation of the crystal growth of platelet sea ice with diffusive heat and mass transfer
 
 Wongpan, Pat, Langhorne, Patricia J., Dempsey, David E., Hahn-Woernle, Lisa, Sun, Zhifa (2015). Simulation of the crystal growth of platelet sea ice with diffusive heat and mass transfer. Annals of Glaciology, 56(69), 127-136. https://doi.org/10.3189/2015aog69a777
-Page: https://ddempsey.github.io/papers/2015-wongpan-simulation-crystal-growth-platelet-sea/
+Page: https://ddempsey.github.io/papers/2015-wongpan-simulation-crystal-growth-platelet-sea/ | PDF (Accepted manuscript (peer-reviewed, author's version)): https://ddempsey.github.io/papers/2015-wongpan-simulation-crystal-growth-platelet-sea/wongpan2015-simulation-crystal-growth.pdf | Full text: https://ddempsey.github.io/papers/2015-wongpan-simulation-crystal-growth-platelet-sea/fulltext.md
 We simulated, crystal by crystal and in three dimensions, the loose layer of ice platelets that collects under Antarctic sea ice near ice shelves. In our model the layer is about 22% ice by volume, close to the 25 ± 6% estimated from field heat-flux measurements.
 
 - In our model the sub-ice platelet layer has a solid fraction of about 0.22, in good agreement with 0.25 ± 0.06 from heat-flux measurements (Gough and others, 2012a).
@@ -854,7 +854,7 @@ Abstract: Hydrothermal convection in the Taupo Volcanic Zone (TVZ), New Zealand,
 ## Geometric properties of platelet ice crystals
 
 Dempsey, D.E., Langhorne, P.J. (2012). Geometric properties of platelet ice crystals. Cold Regions Science and Technology, 78, 1-13. https://doi.org/10.1016/j.coldregions.2012.03.002
-Page: https://ddempsey.github.io/papers/2012-dempsey-geometric-properties-platelet-ice-crystals/
+Page: https://ddempsey.github.io/papers/2012-dempsey-geometric-properties-platelet-ice-crystals/ | PDF (Accepted manuscript (peer-reviewed, author's version)): https://ddempsey.github.io/papers/2012-dempsey-geometric-properties-platelet-ice-crystals/dempsey2012-geometric-properties-platelet.pdf | Full text: https://ddempsey.github.io/papers/2012-dempsey-geometric-properties-platelet-ice-crystals/fulltext.md
 We cut ten closely spaced slices from Antarctic sea ice and rebuilt its crystals in 3-D. For large, elongated grains, the outline in a photograph gave the horizontal direction of the c-axis with a standard deviation of 6°. Grain shape can also depend on the angle of the cut.
 
 - Ten horizontal thin sections, about 9 mm apart, sampled 108 crystals as 249 grains in 400 cm³ of sea ice from McMurdo Sound, Antarctica.

@@ -5,7 +5,9 @@
 - **Publisher:** International Glaciological Society
 - **DOI (version of record):** [https://doi.org/10.3189/2015aog69a777](https://doi.org/10.3189/2015aog69a777)
 - **This page:** https://ddempsey.github.io/papers/2015-wongpan-simulation-crystal-growth-platelet-sea/
-- **Open copy:** none posted yet; use the DOI.
+- **Open PDF:** [https://ddempsey.github.io/papers/2015-wongpan-simulation-crystal-growth-platelet-sea/wongpan2015-simulation-crystal-growth.pdf](https://ddempsey.github.io/papers/2015-wongpan-simulation-crystal-growth-platelet-sea/wongpan2015-simulation-crystal-growth.pdf) (Accepted manuscript (peer-reviewed, author's version))
+- **Full text (Markdown):** [https://ddempsey.github.io/papers/2015-wongpan-simulation-crystal-growth-platelet-sea/fulltext.md](https://ddempsey.github.io/papers/2015-wongpan-simulation-crystal-growth-platelet-sea/fulltext.md)
+- **Notice:** Accepted manuscript. This article has been published in a revised form in Annals of Glaciology at https://doi.org/10.3189/2015aog69a777. This version is free to view and download for private research and study only. Not for re-distribution, re-sale or use in derivative works.
 - **Explainer:** all explainers on this site are AI-generated and human-checked.
 - **BibTeX:** https://ddempsey.github.io/papers/2015-wongpan-simulation-crystal-growth-platelet-sea/citation.bib
 - **Topics:** Sea ice

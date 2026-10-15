@@ -5,7 +5,9 @@
 - **Publisher:** Elsevier BV
 - **DOI (version of record):** [https://doi.org/10.1016/j.geothermics.2020.101978](https://doi.org/10.1016/j.geothermics.2020.101978)
 - **This page:** https://ddempsey.github.io/papers/2021-rongved-two-dimensional-numerical-modelling-strategies/
-- **Open copy:** none posted yet; use the DOI.
+- **Open PDF:** [https://ddempsey.github.io/papers/2021-rongved-two-dimensional-numerical-modelling-strategies/rongved2021-two-dimensional-numerical.pdf](https://ddempsey.github.io/papers/2021-rongved-two-dimensional-numerical-modelling-strategies/rongved2021-two-dimensional-numerical.pdf) (Accepted manuscript (peer-reviewed, author's version))
+- **Full text (Markdown):** [https://ddempsey.github.io/papers/2021-rongved-two-dimensional-numerical-modelling-strategies/fulltext.md](https://ddempsey.github.io/papers/2021-rongved-two-dimensional-numerical-modelling-strategies/fulltext.md)
+- **Notice:** Accepted manuscript. © 2021. This manuscript version is made available under the CC-BY-NC-ND 4.0 license https://creativecommons.org/licenses/by-nc-nd/4.0/. The version of record is available at https://doi.org/10.1016/j.geothermics.2020.101978
 - **Explainer:** all explainers on this site are AI-generated and human-checked.
 - **BibTeX:** https://ddempsey.github.io/papers/2021-rongved-two-dimensional-numerical-modelling-strategies/citation.bib
 - **Topics:** Induced seismicity & faults; Geothermal systems

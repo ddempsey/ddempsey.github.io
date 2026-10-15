@@ -5,7 +5,9 @@
 - **Publisher:** Seismological Society of America (SSA)
 - **DOI (version of record):** [https://doi.org/10.1785/0220240022](https://doi.org/10.1785/0220240022)
 - **This page:** https://ddempsey.github.io/papers/2024-cabrera-eruption-forecasting-model-copahue-volcano/
-- **Open copy:** none posted yet; use the DOI.
+- **Open PDF:** [https://ddempsey.github.io/papers/2024-cabrera-eruption-forecasting-model-copahue-volcano/cabrera2024-eruption-forecasting-model.pdf](https://ddempsey.github.io/papers/2024-cabrera-eruption-forecasting-model-copahue-volcano/cabrera2024-eruption-forecasting-model.pdf) (Accepted manuscript (peer-reviewed, author's version))
+- **Full text (Markdown):** [https://ddempsey.github.io/papers/2024-cabrera-eruption-forecasting-model-copahue-volcano/fulltext.md](https://ddempsey.github.io/papers/2024-cabrera-eruption-forecasting-model-copahue-volcano/fulltext.md)
+- **Notice:** Accepted manuscript. The version of record, published by the Seismological Society of America in Seismological Research Letters, is at https://doi.org/10.1785/0220240022. Not for commercial redistribution.
 - **BibTeX:** https://ddempsey.github.io/papers/2024-cabrera-eruption-forecasting-model-copahue-volcano/citation.bib
 - **Topics:** Volcanoes & eruption forecasting; Induced seismicity & faults
 - **Keywords:** Volcano; Geodetic datum; Geology; Seismology
