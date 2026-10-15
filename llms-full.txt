@@ -404,6 +404,12 @@ Abstract: Large (&gt;50 km 3 ) magma bodies that contribute to caldera‐forming
 
 Yu, Pengliang, Dempsey, David, Archer, Rosalind (2021). A three-dimensional coupled thermo-hydro-mechanical numerical model with partially bridging multi-stage contact fractures in horizontal-well enhanced geothermal system. International Journal of Rock Mechanics and Mining Sciences, 143, 104787. https://doi.org/10.1016/j.ijrmms.2021.104787
 Page: https://ddempsey.github.io/papers/2021-yu-three-dimensional-coupled-thermo-hydro/
+We propose a geothermal well design in which fractures grow alternately from the injection and production wells and stop short of the other well. In our model, this forces water through the rock between fractures and keeps produced water hotter, for the same mass produced, than fractures joining both wells.
+
+- In our model, partially bridging fractures delivered hotter water than fully bridging fractures for the same mass produced, but produced less water in total.
+- At a point midway between two fractures, modelled failure began after 12.5 years with partially bridging fractures and after 14.5 years with fully bridging fractures.
+- In our simulations, leaving fracture opening out of the model overestimated the failed rock volume by 10 to 20%. We expect the error to be smaller in deeper systems with higher stresses.
+- Stresses from cooling had the largest effect on modelled stress changes. Stresses from fluid pressure had a minor effect and appeared to delay failure.
 
 ---
 
@@ -427,6 +433,12 @@ Abstract: To obtain the fullest picture of geothermal systems, it is necessary t
 
 Ardid, Alberto, Dempsey, David, Bertrand, Edward, Sepulveda, Fabian, Tarits, Pascal, Solon, Flora, Archer, Rosalind (2021). Bayesian magnetotelluric inversion using methylene blue structural priors for imaging shallow conductors in geothermal fields. Geophysics, 86(3), E171-E183. https://doi.org/10.1190/geo2020-0226.1
 Page: https://ddempsey.github.io/papers/2021-ardid-bayesian-magnetotelluric-inversion-methylene-blue/ | PDF (Published version): https://ddempsey.github.io/papers/2021-ardid-bayesian-magnetotelluric-inversion-methylene-blue/ardid2021-bayesian-magnetotelluric-inversion.pdf
+We developed a way to map the clay layer above a geothermal reservoir from electrical surveys, using clay tests on drill cuttings to reduce the range of possible depths. At Wairākei it returned depth ranges for the layer's boundaries and reduced the uncertainty in the depth of its base.
+
+- Our Bayesian inversion returns a range of plausible depths for the top and bottom of the shallow conductor beneath each MT station, using clay tests from wells as prior information.
+- In a synthetic test, a deterministic inversion placed the conductor's base about 65 m too shallow near the centre, and clay priors brought our estimate closer to the true base.
+- At Wairākei, clay priors left the data fit almost unchanged, and the most constrained prior we tested cut the average bottom-depth uncertainty from 77 m to 54 m.
+- Our 12-station Wairākei inversion took about 0.3 hours on four cores, against about 28 hours on 56 cores for a 3D inversion that can also image deeper structure.
 
 ---
 
@@ -592,6 +604,13 @@ In 2010, cold water injected below the pressure that opens fractures raised the 
 
 Dempsey, David, O’Malley, Daniel, Pawar, Rajesh (2015). Reducing uncertainty associated with CO2 injection and brine production in heterogeneous formations. International Journal of Greenhouse Gas Control, 37, 24-37. https://doi.org/10.1016/j.ijggc.2015.03.004
 Page: https://ddempsey.github.io/papers/2015-dempsey-reducing-uncertainty-associated-co2-injection/
+When CO2 is injected while brine is pumped out nearby, unknown variations in rock permeability make the outcome hard to predict. In a synthetic reservoir, permeability measured at five wells narrowed 30-year prediction ranges by 40 to 72%. Pressure tests between wells narrowed two of these ranges further.
+
+- In our synthetic reservoir, fast flow paths brought CO2 to two of four production wells within about 11 years, whereas a uniform model predicted no arrival within 30 years.
+- Permeability measured at five wells narrowed the 30-year prediction ranges for CO2 retention, brine production and CO2 production by 40, 45 and 72%.
+- Weighting model runs by their match to simulated interference tests narrowed the brine and CO2 production ranges by a further 38 and 69%.
+- After weighting, the ranges of predicted CO2 arrival time were narrower and included the true time at three of the four production wells.
+- At the remaining well, a small permeable zone inside a larger region of low-permeability rock meant its CO2 arrival was still not predicted.
 
 ---
 

@@ -1095,7 +1095,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": null,
    "bibtex": "https://ddempsey.github.io/papers/2021-yu-three-dimensional-coupled-thermo-hydro/citation.bib",
-   "summary": null,
+   "summary": "We propose a geothermal well design in which fractures grow alternately from the injection and production wells and stop short of the other well. In our model, this forces water through the rock between fractures and keeps produced water hotter, for the same mass produced, than fractures joining both wells.",
    "topics": [
     "Induced seismicity & faults",
     "Geothermal systems"
@@ -1155,7 +1155,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": null,
    "bibtex": "https://ddempsey.github.io/papers/2021-ardid-bayesian-magnetotelluric-inversion-methylene-blue/citation.bib",
-   "summary": null,
+   "summary": "We developed a way to map the clay layer above a geothermal reservoir from electrical surveys, using clay tests on drill cuttings to reduce the range of possible depths. At Wairākei it returned depth ranges for the layer's boundaries and reduced the uncertainty in the depth of its base.",
    "topics": [
     "Geothermal systems"
    ]
@@ -1482,7 +1482,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": null,
    "bibtex": "https://ddempsey.github.io/papers/2015-dempsey-reducing-uncertainty-associated-co2-injection/citation.bib",
-   "summary": null,
+   "summary": "When CO2 is injected while brine is pumped out nearby, unknown variations in rock permeability make the outcome hard to predict. In a synthetic reservoir, permeability measured at five wells narrowed 30-year prediction ranges by 40 to 72%. Pressure tests between wells narrowed two of these ranges further.",
    "topics": [
     "CO2 & hydrogen storage"
    ]
