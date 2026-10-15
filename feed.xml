@@ -32,7 +32,7 @@
     <link href="https://ddempsey.github.io/papers/2026-parker-machine-learning-classification-torlesse-composite/"/>
     <id>https://doi.org/10.1002/jgo2.70064</id>
     <updated>2026-06-16T00:00:00Z</updated>
-    <summary>Parker, Matthew O., Dempsey, David E., Sagar, Matthew W., Bassett, Kari N., Nichols, Alexander R. L., Browne, Greg H. (2026). A Machine‐Learning Classification for Torlesse Composite Terrane Petrofacies and its Application to Sediment Provenance. New Zealand Journal of Geology and Geophysics, 69(2), e70064. https://doi.org/10.1002/jgo2.70064</summary>
+    <summary>Parker, Matthew O., Dempsey, David E., Sagar, Matthew W., Bassett, Kari N., Nichols, Alexander R. L., Browne, Greg H. (2026). A Machine‐Learning Classification for Torlesse Composite Terrane Petrofacies and its Application to Sediment Provenance. New Zealand Journal of Geology and Geophysics, 69(2), e70064. https://doi.org/10.1002/jgo2.70064 We trained four machine-learning algorithms to assign sandstone clasts to source regions of the Torlesse Composite Terrane, including the newly recognised Kaweka Terrane. Combined by equal vote, they reached a balanced accuracy of 80% on unseen samples, counting a two-two split as correct if either group was right.</summary>
   </entry>
   <entry>
     <title>From forecast skill to economic value: sub-hourly wildfire potential forecasting across Australian regions</title>
@@ -67,7 +67,7 @@
     <link href="https://ddempsey.github.io/papers/2025-cleary-preferential-seawater-intrusion-heterogeneous-alluvial/"/>
     <id>https://doi.org/10.1016/j.jhydrol.2025.133455</id>
     <updated>2025-11-01T00:00:00Z</updated>
-    <summary>Cleary, Connor A., Sarris, Theo S., Morgan, Leanne K., Dempsey, David E. (2025). Preferential seawater intrusion in a heterogeneous alluvial aquifer that extends offshore: Insights from numerical modeling. Journal of Hydrology, 661, 133455. https://doi.org/10.1016/j.jhydrol.2025.133455</summary>
+    <summary>Cleary, Connor A., Sarris, Theo S., Morgan, Leanne K., Dempsey, David E. (2025). Preferential seawater intrusion in a heterogeneous alluvial aquifer that extends offshore: Insights from numerical modeling. Journal of Hydrology, 661, 133455. https://doi.org/10.1016/j.jhydrol.2025.133455 We modelled seawater moving inland through a gravel aquifer beneath the Canterbury coast. In our model, seawater moved preferentially through high-conductivity gravel. In places, the salt/fresh water interface moved more than five times faster than a uniform model with dispersion predicts.</summary>
   </entry>
   <entry>
     <title>Advanced Hydrogeochemical Coupling in Carbon Sequestration: A 4D Spatiotemporal Fourier Neural Operator–Driven Modeling Framework</title>
@@ -88,7 +88,7 @@
     <link href="https://ddempsey.github.io/papers/2025-sai-louie-quantifying-interannual-variations-groundwater-fluxes/"/>
     <id>https://doi.org/10.1029/2024wr039328</id>
     <updated>2025-07-15T00:00:00Z</updated>
-    <summary>Sai Louie, A. J., Morgan, L. K., Dempsey, D., Wilson, S., Banks, E. W. (2025). Quantifying Interannual Variations in Groundwater Fluxes Within a Braidplain Aquifer Using Active‐Distributed Temperature Sensing. Water Resources Research, 61(7), e2024WR039328. https://doi.org/10.1029/2024wr039328</summary>
+    <summary>Sai Louie, A. J., Morgan, L. K., Dempsey, D., Wilson, S., Banks, E. W. (2025). Quantifying Interannual Variations in Groundwater Fluxes Within a Braidplain Aquifer Using Active‐Distributed Temperature Sensing. Water Resources Research, 61(7), e2024WR039328. https://doi.org/10.1029/2024wr039328 Over nearly three years we used heated fibre optic cables to measure groundwater flow beneath a braided river in Canterbury, New Zealand. River flow varied about tenfold between surveys, but average groundwater flux remained between 2.4 and 5.9 m/day. Riverbed changes after a flood likely had the largest effect.</summary>
   </entry>
   <entry>
     <title>Impact of operational parameters on water invasion in underground hydrogen storage: A numerical investigation of the Ahuroa field, New Zealand</title>
@@ -172,7 +172,7 @@
     <link href="https://ddempsey.github.io/papers/2024-sai-louie-testing-reproducibility-active-distributed-temperature/"/>
     <id>https://doi.org/10.1016/j.jhydrol.2024.130877</id>
     <updated>2024-04-01T00:00:00Z</updated>
-    <summary>Sai Louie, Alice J., Morgan, Leanne K., Banks, Eddie W., Dempsey, David, Wilson, Scott (2024). Testing the reproducibility of active-distributed temperature sensing for measuring groundwater specific discharge beneath a braided river. Journal of Hydrology, 633, 130877. https://doi.org/10.1016/j.jhydrol.2024.130877</summary>
+    <summary>Sai Louie, Alice J., Morgan, Leanne K., Banks, Eddie W., Dempsey, David, Wilson, Scott (2024). Testing the reproducibility of active-distributed temperature sensing for measuring groundwater specific discharge beneath a braided river. Journal of Hydrology, 633, 130877. https://doi.org/10.1016/j.jhydrol.2024.130877 We heated a 100 m fibre optic cable beneath New Zealand&#39;s Waikirikiri-Selwyn River twelve times in 24 hours. The median groundwater flow of each survey lay between 3.5 and 4.0 m per day, within the measurement error of the method. Repeat surveys could therefore measure seasonal changes in river loss.</summary>
   </entry>
   <entry>
     <title>Molecular dynamics insights into gas-water interfacial tension: Optimizing hydrogen storage in subsurface conditions</title>
@@ -193,7 +193,7 @@
     <link href="https://ddempsey.github.io/papers/2023-bosserelle-shallow-groundwater-characterisation-hydrograph-classification/"/>
     <id>https://doi.org/10.1007/s10040-023-02745-z</id>
     <updated>2023-11-15T00:00:00Z</updated>
-    <summary>Bosserelle, Amandine L., Morgan, Leanne K., Dempsey, David E., Setiawan, Irene (2023). Shallow groundwater characterisation and hydrograph classification in the coastal city of Ōtautahi/Christchurch, New Zealand. Hydrogeology Journal, 32(2), 577-600. https://doi.org/10.1007/s10040-023-02745-z</summary>
+    <summary>Bosserelle, Amandine L., Morgan, Leanne K., Dempsey, David E., Setiawan, Irene (2023). Shallow groundwater characterisation and hydrograph classification in the coastal city of Ōtautahi/Christchurch, New Zealand. Hydrogeology Journal, 32(2), 577-600. https://doi.org/10.1007/s10040-023-02745-z Records from 265 monitoring wells in Christchurch, New Zealand, show that from 2016 to 2020 the median depth to the water table was 1 m or less below about 62% of the mapped city. In a preliminary one-week comparison, wells nearer tidal rivers followed the ocean tide more closely.</summary>
   </entry>
   <entry>
     <title>Using Template Matching to Detect Hidden Fluid Release Episodes Beneath Crater Lakes in Ruapehu, Copahue, and Kawah Ijen Volcanoes</title>

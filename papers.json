@@ -108,7 +108,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2026-parker-machine-learning-classification-torlesse-composite/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2026-parker-machine-learning-classification-torlesse-composite/citation.bib",
-   "summary": null,
+   "summary": "We trained four machine-learning algorithms to assign sandstone clasts to source regions of the Torlesse Composite Terrane, including the newly recognised Kaweka Terrane. Combined by equal vote, they reached a balanced accuracy of 80% on unseen samples, counting a two-two split as correct if either group was right.",
    "topics": []
   },
   {
@@ -245,7 +245,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2025-cleary-preferential-seawater-intrusion-heterogeneous-alluvial/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2025-cleary-preferential-seawater-intrusion-heterogeneous-alluvial/citation.bib",
-   "summary": null,
+   "summary": "We modelled seawater moving inland through a gravel aquifer beneath the Canterbury coast. In our model, seawater moved preferentially through high-conductivity gravel. In places, the salt/fresh water interface moved more than five times faster than a uniform model with dispersion predicts.",
    "topics": [
     "Groundwater & hydrology"
    ]
@@ -326,7 +326,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2025-sai-louie-quantifying-interannual-variations-groundwater-fluxes/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2025-sai-louie-quantifying-interannual-variations-groundwater-fluxes/citation.bib",
-   "summary": null,
+   "summary": "Over nearly three years we used heated fibre optic cables to measure groundwater flow beneath a braided river in Canterbury, New Zealand. River flow varied about tenfold between surveys, but average groundwater flux remained between 2.4 and 5.9 m/day. Riverbed changes after a flood likely had the largest effect.",
    "topics": [
     "Groundwater & hydrology"
    ]
@@ -698,7 +698,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2024-sai-louie-testing-reproducibility-active-distributed-temperature/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2024-sai-louie-testing-reproducibility-active-distributed-temperature/citation.bib",
-   "summary": null,
+   "summary": "We heated a 100 m fibre optic cable beneath New Zealand's Waikirikiri-Selwyn River twelve times in 24 hours. The median groundwater flow of each survey lay between 3.5 and 4.0 m per day, within the measurement error of the method. Repeat surveys could therefore measure seasonal changes in river loss.",
    "topics": [
     "Groundwater & hydrology"
    ]
@@ -781,7 +781,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2023-bosserelle-shallow-groundwater-characterisation-hydrograph-classification/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2023-bosserelle-shallow-groundwater-characterisation-hydrograph-classification/citation.bib",
-   "summary": null,
+   "summary": "Records from 265 monitoring wells in Christchurch, New Zealand, show that from 2016 to 2020 the median depth to the water table was 1 m or less below about 62% of the mapped city. In a preliminary one-week comparison, wells nearer tidal rivers followed the ocean tide more closely.",
    "topics": [
     "Groundwater & hydrology"
    ]
@@ -953,7 +953,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": null,
    "bibtex": "https://ddempsey.github.io/papers/2022-banks-active-distributed-temperature-sensing-assess/citation.bib",
-   "summary": null,
+   "summary": "We installed heated fibre optic cables 5 m beneath the Waikirikiri Selwyn River, a braided river in Canterbury, to measure water leaking from the river into the gravels below. We estimate that groundwater beneath the channel moved at an average of 12.0 and 15.8 m per day in two surveys.",
    "topics": [
     "Groundwater & hydrology"
    ]
@@ -1536,7 +1536,7 @@
    "open_copy_elsewhere": "https://hdl.handle.net/10092/105827",
    "fulltext_markdown": "https://ddempsey.github.io/papers/2014-keating-insights-interconnections-shallow-deep-systems/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2014-keating-insights-interconnections-shallow-deep-systems/citation.bib",
-   "summary": null,
+   "summary": "At a natural CO2 reservoir in Arizona, a permeable fault likely connects the deep gas to a shallow aquifer. Water chemistry suggests that CO2 rises dissolved in saline water that also contains arsenic. In our simulations, most of the gas remains at depth despite the fault.",
    "topics": [
     "CO2 & hydrogen storage",
     "Groundwater & hydrology"
