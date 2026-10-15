@@ -71,7 +71,14 @@ Abstract: The Torlesse Composite Terrane (TCT) forms many of the mountain ranges
 ## From forecast skill to economic value: sub-hourly wildfire potential forecasting across Australian regions
 
 Ardid, Alberto, Power, Anthony, Valencia, Andres, Pearce, H. Grant, Gross, Shana, Dempsey, David, Boer, Matthias (2026). From forecast skill to economic value: sub-hourly wildfire potential forecasting across Australian regions. International Journal of Wildland Fire, 35(4), WF25221. https://doi.org/10.1071/wf25221
-Page: https://ddempsey.github.io/papers/2026-ardid-forecast-skill-economic-value-sub/
+Page: https://ddempsey.github.io/papers/2026-ardid-forecast-skill-economic-value-sub/ | PDF (Published version): https://ddempsey.github.io/papers/2026-ardid-forecast-skill-economic-value-sub/ardid2026-forecast-skill-economic.pdf | Full text: https://ddempsey.github.io/papers/2026-ardid-forecast-skill-economic-value-sub/fulltext.md
+We tested a machine learning forecast of fire potential, updated every 30 minutes, in three Australian regions. On the Sunshine Coast it detected twice as many pre-fire periods as the Fire Behaviour Index, at a similar false alarm rate. Projected savings were nearly three times higher. Both are upper bounds.
+
+- We used nine weather stations in three regions, the Sunshine Coast, Brisbane and Hobart, with 126 documented fires between 2000 and 2022.
+- On the Sunshine Coast, our tailored model had a true positive rate of 0.80 against 0.38 for the Fire Behaviour Index, at a similar false positive rate.
+- Projected net savings on the Sunshine Coast, both upper bounds, were A$97.7 million from our tailored model and A$34.5 million from the index.
+- In Brisbane and Hobart, our tailored model also had a higher true positive rate and a higher potential economic value than the index, at a higher false positive rate.
+- Learning curves at Hobart suggest that about 30 well-documented fires are enough for model performance to stabilise.
 
 Abstract: Wildfire risk is rising under climate change, yet most operational forecasts rely on daily indices that miss rapid weather shifts preceding ignition. Accurate, timely and economically justified forecasts are critical for early warning and resource allocation. This study evaluates a sub-hourly machine-learning (ML) forecasting system for fire potential using weather-station data from three Australian regions (Sunshine Coast, Brisbane, Hobart), and quantifies its economic value using a cost–loss framework. ML classifiers were trained on sub-hourly Automatic Weather Station (AWS) data and benchmarked against the Fire Behaviour Index (FBI). Forecast discrimination was assessed using True Positive Rates (TPRs) and False Positive Rates (FPRs), as well as a Potential Economic Value (PEV) analysis, complemented by learning-curve tests. The ML model improved forecast skill over the FBI by 10–30%, with the ML system doubling potential savings relative to the FBI. Learning-curve diagnostics indicated that stable performance is achieved after ~30 fire events. The ML forecasting framework demonstrates predictive skill and measurable economic value, highlighting its potential for scalable, cost-effective early-warning systems. By linking forecast skill directly to financial and operational outcomes, this approach provides a quantitative basis for prioritising investment in timely, data-driven fire-warning tools across regions with limited data and constrained budgets.
 
@@ -585,6 +592,13 @@ We developed a way to map the clay layer above a geothermal reservoir from elect
 
 Rongved, Mats, Bauer, Andreas, Dempsey, David, Holt, Rune M. (2021). Two-dimensional numerical modelling of strategies to avoid thermal stress induced flow channeling in fractured geothermal reservoirs. Geothermics, 90, 101978. https://doi.org/10.1016/j.geothermics.2020.101978
 Page: https://ddempsey.github.io/papers/2021-rongved-two-dimensional-numerical-modelling-strategies/
+Cooling by injected water can concentrate flow into one fracture. In our two-dimensional model of two parallel fractures, flow stayed even or evened out with wider, more alike fractures or a higher injection rate. A high starting rate, or injecting through each fracture in turn, made even flow more likely.
+
+- In our model, flow between two fractures splits by the ratio of their apertures. A narrower fracture with a larger relative aperture gain can regain flow.
+- With an initial fracture permeability of 5 × 10^-10 m², flow stayed close to even. At 10^-11 m², one fracture took most of the flow within about two days.
+- At 1.5 × 10^-10 m², a tenfold lower injection rate gave uneven flow. A tenfold higher rate gave uneven flow at first, then even flow.
+- In our model, a high injection rate for the first 30 days, or injection through each fracture in turn for 100 days each, gave close to even flow.
+- Resolving temperature beside the fracture on a finer grid changed the modelled timing of thermal breakthrough.
 
 ---
 

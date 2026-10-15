@@ -131,12 +131,12 @@
    "doi_url": "https://doi.org/10.1071/wf25221",
    "page": "https://ddempsey.github.io/papers/2026-ardid-forecast-skill-economic-value-sub/",
    "markdown": "https://ddempsey.github.io/papers/2026-ardid-forecast-skill-economic-value-sub/index.md",
-   "pdf": null,
-   "pdf_version": null,
+   "pdf": "https://ddempsey.github.io/papers/2026-ardid-forecast-skill-economic-value-sub/ardid2026-forecast-skill-economic.pdf",
+   "pdf_version": "vor",
    "open_copy_elsewhere": "https://hdl.handle.net/10092/109982",
-   "fulltext_markdown": null,
+   "fulltext_markdown": "https://ddempsey.github.io/papers/2026-ardid-forecast-skill-economic-value-sub/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2026-ardid-forecast-skill-economic-value-sub/citation.bib",
-   "summary": null,
+   "summary": "We tested a machine learning forecast of fire potential, updated every 30 minutes, in three Australian regions. On the Sunshine Coast it detected twice as many pre-fire periods as the Fire Behaviour Index, at a similar false alarm rate. Projected savings were nearly three times higher. Both are upper bounds.",
    "topics": [
     "Fire & other hazards"
    ]
@@ -1182,7 +1182,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": null,
    "bibtex": "https://ddempsey.github.io/papers/2021-rongved-two-dimensional-numerical-modelling-strategies/citation.bib",
-   "summary": null,
+   "summary": "Cooling by injected water can concentrate flow into one fracture. In our two-dimensional model of two parallel fractures, flow stayed even or evened out with wider, more alike fractures or a higher injection rate. A high starting rate, or injecting through each fracture in turn, made even flow more likely.",
    "topics": [
     "Induced seismicity & faults",
     "Geothermal systems"
