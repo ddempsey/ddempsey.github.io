@@ -164,7 +164,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2026-liu-impacts-reservoir-permeability-anisotropy-hydrogen/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2026-liu-impacts-reservoir-permeability-anisotropy-hydrogen/citation.bib",
-   "summary": null,
+   "summary": "We simulated hydrogen storage in a depleted gas reservoir to test how direction-dependent permeability affects how much stored hydrogen can be withdrawn again. In our models, lower vertical permeability raised recovery for most well layouts, and the orientation of horizontal wells changed it by up to 8 percentage points.",
    "topics": [
     "CO2 & hydrogen storage"
    ]
@@ -192,7 +192,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2026-liu-effects-reservoir-interlayers-hydrogen-migration/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2026-liu-effects-reservoir-interlayers-hydrogen-migration/citation.bib",
-   "summary": null,
+   "summary": "In our models of hydrogen storage in a layered gas reservoir with the well open to every layer, thin low-permeability layers (interlayers) slowed the rise of hydrogen and raised the share recovered. At low permeability, a model with diffusion predicted more hydrogen in these layers than one without.",
    "topics": [
     "CO2 & hydrogen storage"
    ]
@@ -300,7 +300,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2025-becker-research-impact-works-don-nield/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2025-becker-research-impact-works-don-nield/citation.bib",
-   "summary": null,
+   "summary": "We review the published work of Don Nield, a University of Auckland mathematician who studied convection and flow in porous media for more than 50 years. Scopus indexes 249 of his works, with 22,480 citations in total.",
    "topics": []
   },
   {
@@ -571,7 +571,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2024-titus-carbon-neutral-carbon-negative-theoretical/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2024-titus-carbon-neutral-carbon-negative-theoretical/citation.bib",
-   "summary": null,
+   "summary": "We modelled a biomass boiler retrofit that adds 1 MWe to Station-1 at the Ngāwhā geothermal power station. Dissolving the biomass CO2 in reinjected fluid could remove up to 15,900 tonnes of CO2 a year. The design that also sells its surplus CO2 had the lowest costs in our model.",
    "topics": [
     "Geothermal systems",
     "CO2 & hydrogen storage"

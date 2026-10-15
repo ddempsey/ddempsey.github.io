@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Effects of reservoir interlayers on hydrogen migration and distribution in underground hydrogen storage — David Dempsey</title>
 <meta name="author" content="David Dempsey">
-<meta name="description" content="Effects of reservoir interlayers on hydrogen migration and distribution in underground hydrogen storage. Liu J, Dempsey D, Nicol A et al., International Journal of Hydrogen Energy (2026).">
+<meta name="description" content="In our models of hydrogen storage in a layered gas reservoir with the well open to every layer, thin low-permeability layers (interlayers) slowed the rise of hydrogen and raised the share recovered. At low permeability, a model with diffusion predicted more hydrogen in these layers than one without.">
 <link rel="canonical" href="https://ddempsey.github.io/papers/2026-liu-effects-reservoir-interlayers-hydrogen-migration/">
 <link rel="alternate" type="text/markdown" href="https://ddempsey.github.io/papers/2026-liu-effects-reservoir-interlayers-hydrogen-migration/index.md" title="This page as Markdown">
 <link rel="alternate" type="text/markdown" href="https://ddempsey.github.io/papers/2026-liu-effects-reservoir-interlayers-hydrogen-migration/fulltext.md" title="Full text as Markdown">
@@ -98,6 +98,7 @@
  "keywords": "Hydrogen, Materials science, Environmental science, Work (physics), Porosity, Consistency (knowledge bases)",
  "mainEntityOfPage": "https://ddempsey.github.io/papers/2026-liu-effects-reservoir-interlayers-hydrogen-migration/",
  "abstract": "With the rapid expansion of renewable energy deployment, underground hydrogen storage (UHS) has emerged as a promising large-scale storage option to smooth seasonal fluctuations in electricity supply. However, current geological assessments for UHS primarily focus on reservoir properties such as porosity and permeability, while overlooking the influence of interlayers. To address this research gap, this study systematically investigates how interlayer characteristics, including permeability, thickness, and geometry, affect hydrogen recovery efficiency and the extent of unrecoverable hydrogen. Numerical simulations were conducted using OpenGoSim (OGS) software, beginning with a box model and extending to a realistic geological model based on the Ahuroa gas storage site. Simulation results reveal that, under fully perforated conditions, lower interlayer permeability impedes upward hydrogen migration, thereby reducing the impact of gravity override and enhancing hydrogen recovery efficiency. With decreasing interlayer permeability, hydrogen transport into the interlayer shifts from advection-dominated transport to diffusion-dominated transport, resulting in greater hydrogen volume than predicted by a model that neglects molecular diffusion. The study further demonstrates that optimizing well configuration should consider interlayer properties to maximize recovery efficiency. Consistency between the box model and the realistic geological model supports the generality of the findings. By integrating interlayer characteristics into site evaluation, this work enhances the accuracy of hydrogen recovery efficiency evaluation and advances UHS assessment. • The impact of interlayers on hydrogen recovery efficiency in UHS is systematically evaluated. • Interlayer permeability, thickness, and pinch-out extent affect hydrogen migration and recovery efficiency. • Molecular diffusion effects on hydrogen migration in gas-saturated, low-permeability interlayers should not be neglected. • Well configuration should be optimized based on interlayer characteristics to enhance hydrogen recovery efficiency.",
+ "description": "In our models of hydrogen storage in a layered gas reservoir with the well open to every layer, thin low-permeability layers (interlayers) slowed the rise of hydrogen and raised the share recovered. At low permeability, a model with diffusion predicted more hydrogen in these layers than one without.",
  "isAccessibleForFree": true,
  "license": "http://creativecommons.org/licenses/by/4.0/",
  "encoding": [
@@ -148,7 +149,91 @@
 <a class="btn" href="fulltext.md" type="text/markdown">Full text (Markdown)</a>    <a class="btn ghost" href="citation.bib">BibTeX</a>
     <a class="btn ghost" href="index.md" type="text/markdown">Markdown</a>
   </div>
-<p class="notice">Published version, reproduced under the CC BY 4.0 licence. © The Author(s). Version of record: https://doi.org/10.1016/j.ijhydene.2026.153704</p>
+<p class="notice">Published version, reproduced under the CC BY 4.0 licence. © The Author(s). Version of record: https://doi.org/10.1016/j.ijhydene.2026.153704</p><p class="provenance">All explainers on this site are AI-generated and human-checked.</p>
+  <section class="explainer">
+    <h2>In brief</h2>
+<p class="summary">In our models of hydrogen storage in a layered gas reservoir with the well open to every layer, thin low-permeability layers (interlayers) slowed the rise of hydrogen and raised the share recovered. At low permeability, a model with diffusion predicted more hydrogen in these layers than one without.</p><ul class="keypoints"><li>In our box model, with the well open to every layer, hydrogen recovery rose as interlayer permeability fell from 1 to 0.01 mD, and was nearly constant at lower permeabilities.</li><li>At an interlayer permeability of 0.001 mD, including molecular diffusion raised the hydrogen held in the interlayers from 4.3 to 10.7 million standard cubic metres.</li><li>In our box model, hydrogen recovery rose from 77.7 to 82.1% between the shortest (30 m) and longest lateral extents of the interlayers that we tested.</li><li>In our model of the Ahuroa gas storage site, final hydrogen recovery was 77.7% with its thin interlayers at 0.5 mD and 73.4% when they were ignored.</li><li>The trends in the Ahuroa model were consistent with those in the box model.</li></ul>    <div class="prose"><h2>The problem</h2>
+<p>Supply from wind and solar varies with the seasons (Asiaban et al., 2021; Zhou et al., 2018).
+Surplus renewable electricity can be stored as hydrogen and used later for generation (Hwang et al.,
+2023; Ishaq et al., 2022). For seasonal storage, depleted reservoirs are considered the preferred
+option. They offer large capacity, existing infrastructure and a proven seal (Nicol et al., 2022;
+Tarkowski, 2019; Muhammed et al., 2023).</p>
+<p>Hydrogen is injected and withdrawn in cycles above a cushion gas, here natural gas, that maintains
+reservoir pressure. Because some cushion gas is withdrawn with the hydrogen, the recovery efficiency
+(hydrogen withdrawn over hydrogen injected) is lowered (Malki et al., 2024). Hydrogen is also less
+dense than the cushion gas and tends to rise above it (gravity override). This reduces recovery
+further (Saeed and Jadhawar, 2023; Chai et al., 2023; Jia et al., 2023).</p>
+<p>Permeability measures how easily fluid flows through rock, in millidarcies (mD). Earlier studies of
+layered reservoirs examined permeability contrasts between the storage layers (Arekhov et al., 2023;
+Reijnen-Mooij et al., 2024). We found little earlier work on thin low-permeability layers between
+them (interlayers), although these may slow gas rising through the reservoir. Hydrogen can also
+enter an interlayer by molecular diffusion, the mixing of gases driven by differences in
+concentration.</p>
+<h2>What we did</h2>
+<p>We used Cirrus, a reservoir simulator from OpenGoSim, to model the flow of hydrogen and natural gas,
+including diffusion between them. Our first model, a box 1 km square at 2000 m depth, held four
+sandstone layers, each 15 m thick with a permeability of 100 mD, separated by interlayers of 0.001
+mD, 100,000 times less permeable than the sandstone (our calculation). A central well was open
+(perforated) in all four sandstone layers. After cushion gas injection, we ran ten cycles of 90 days of hydrogen injection
+and 90 days of withdrawal, each at 1 million standard cubic metres (Sm³) a day.</p>
+<p>We then modelled a hypothetical hydrogen store at the Ahuroa gas storage site in Taranaki, New
+Zealand. One rock type (facies), TN, forms thin interlayers of 0.5 to 10 mD. The HPM facies is a
+single thick layer of mudstone and siltstone, with permeability from below 0.01 mD up to 0.5 mD.</p>
+<h2>What we found</h2>
+<p>In the box model, with every layer perforated, we found that hydrogen recovery rose as interlayer
+permeability fell from 1 to 0.01 mD, and was nearly constant below that. This is because a less
+permeable interlayer restricts the upward migration of hydrogen. Hydrogen spreads sideways and more
+evenly between the layers. Permeability had less effect in thicker interlayers. Between a more and a
+less permeable interlayer, the recovery difference fell from 11 percentage points at 0.5 m thick to
+7 at 5 m.</p>
+<p>As interlayer permeability fell from 0.1 to 0.0001 mD, transport into the interlayer shifted from
+pressure-driven flow to diffusion. At 0.001 mD, a model without diffusion predicted 4.3 million Sm³
+of hydrogen in the interlayers, 2.8% of the hydrogen remaining in the reservoir. With diffusion this
+rose to 10.7 million Sm³, or 6.8%. Hydrogen that diffuses into an interlayer will not generally flow
+back out and is a potential loss. However, when the interlayer was saturated with water, the
+hydrogen in it increased only slightly.</p>
+<p>Where an interlayer ends (pinches out), hydrogen that has spread beyond its edge rises into the
+layer above. Recovery rose from 77.7 to 82.1% between the shortest interlayer extent, 30 m from the
+well, and the longest. However, in the box model, the influence of extent was minimal below 70 m and
+above 190 m.</p>
+<p>Earlier studies have recommended perforating only the top layer (Smith et al., 2024; Zhang et al.,
+2024). With such a well, the pressure at the bottom of the well fluctuated more as interlayer
+permeability fell. This is mainly because a low-permeability interlayer confines hydrogen to the top
+layer. At 0.0001 mD the pressure reached the 24 MPa limit (about 240 times atmospheric pressure, our
+calculation) during the first injection. In this configuration the lower layers are also not fully
+used. We recommend that well configuration and interlayer properties be assessed together.</p>
+<p>In the Ahuroa model, recovery after the first cycle was 66.0, 64.1 and 61.2% for TN permeabilities
+of 0.5, 1 and 10 mD. Without interlayers (TN at the 75 mD of the storage layers) it was 56.8%. At
+the end of the simulation the four values were 77.7, 77.0, 75.4 and 73.4%. We attribute the lower
+final recoveries mainly to co-produced cushion gas, from 200 to 240 million Sm³ across the four
+cases.</p>
+<div class="widget" id="w-tn" role="group" aria-label="Interactive comparison of hydrogen recovery in the Ahuroa model for four permeabilities of the thin TN interlayers"></div>
+<p>The permeability of the thick HPM layer changed final recovery by at most 0.1 percentage points.
+However, at 0.0001 mD, including diffusion raised the share of hydrogen held in it from 1.6 to 3%.</p>
+<p>For the two well configurations, the Ahuroa trends in recovery and well pressure were consistent
+with those in the box model.</p>
+<h2>Limitations</h2>
+<p>Our interlayers differ from the storage rock only in permeability and porosity. We did not model
+chemical or microbial reactions, the dissolution of hydrogen in brine, or capillary pressure.</p>
+<p>Interlayers are identified mainly from well logs. Their continuity between wells is therefore
+difficult to evaluate, and thick mudstone interlayers are rarely cored. The seal of an interlayer is
+also often harder to verify in the field than that of a caprock. Laboratory experiments could
+evaluate how well interlayers seal, and pressure tests between wells and zones could show whether
+they pinch out.</p>
+<h2>Glossary</h2>
+<p><strong>Cushion gas</strong> is gas left in a storage reservoir to maintain its pressure.</p>
+<p>A <strong>facies</strong> is a body of rock of a distinct type.</p>
+<p><strong>Gravity override</strong> is the rise of a less dense gas above a denser one.</p>
+<p>An <strong>interlayer</strong> is a thin layer of low permeability between storage layers.</p>
+<p><strong>mD</strong> (millidarcy) is a unit of permeability.</p>
+<p><strong>Molecular diffusion</strong> is the mixing of gases driven by differences in concentration.</p>
+<p><strong>MPa</strong> (megapascal) is a unit of pressure.</p>
+<p>A well is <strong>perforated</strong> where its casing is opened to a layer. Gas can then enter or leave the well there.</p>
+<p>An interlayer <strong>pinches out</strong> where it thins to nothing.</p>
+<p><strong>Recovery efficiency</strong> is the volume of hydrogen withdrawn divided by the volume injected.</p>
+<p><strong>Sm³</strong> (standard cubic metre) is a volume of gas measured at 15 °C and atmospheric pressure.</p>
+</div>
+  </section>
 
   <section class="abstract">
     <h2>Abstract</h2>
@@ -172,7 +257,7 @@
 </pre></details>
   </section>
 </article>
-</main>
+<script src="widget.js" defer></script></main>
 <footer class="site">
   <p>David Dempsey, University of Canterbury. Open copies are posted under each publisher's self-archiving policy; the DOI link always points to the version of record.</p>
   <p class="machine">Machine-readable: <a href="/llms.txt">llms.txt</a> · <a href="/papers.json">papers.json</a> · <a href="/sitemap.xml">sitemap.xml</a> · <a href="/feed.xml">Atom feed</a> · <a href="index.md">this page as Markdown</a></p>
