@@ -5,7 +5,9 @@
 - **Publisher:** Elsevier BV
 - **DOI (version of record):** [https://doi.org/10.1016/j.ijggc.2015.03.004](https://doi.org/10.1016/j.ijggc.2015.03.004)
 - **This page:** https://ddempsey.github.io/papers/2015-dempsey-reducing-uncertainty-associated-co2-injection/
-- **Open copy:** none posted yet; use the DOI.
+- **Open PDF:** [https://ddempsey.github.io/papers/2015-dempsey-reducing-uncertainty-associated-co2-injection/dempsey2015-reducing-uncertainty-associated.pdf](https://ddempsey.github.io/papers/2015-dempsey-reducing-uncertainty-associated-co2-injection/dempsey2015-reducing-uncertainty-associated.pdf) (Accepted manuscript (peer-reviewed, author's version))
+- **Full text (Markdown):** [https://ddempsey.github.io/papers/2015-dempsey-reducing-uncertainty-associated-co2-injection/fulltext.md](https://ddempsey.github.io/papers/2015-dempsey-reducing-uncertainty-associated-co2-injection/fulltext.md)
+- **Notice:** Accepted manuscript. © 2015. This manuscript version is made available under the CC-BY-NC-ND 4.0 license https://creativecommons.org/licenses/by-nc-nd/4.0/. The version of record is available at https://doi.org/10.1016/j.ijggc.2015.03.004
 - **Explainer:** all explainers on this site are AI-generated and human-checked.
 - **BibTeX:** https://ddempsey.github.io/papers/2015-dempsey-reducing-uncertainty-associated-co2-injection/citation.bib
 - **Topics:** CO2 & hydrogen storage

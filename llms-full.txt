@@ -459,7 +459,7 @@ We tested our 2017 earthquake forecast for the Groningen gas field against the e
 ## Carbon negative geothermal: Theoretical efficiency and sequestration potential of geothermal-BECCS energy cycles
 
 Titus, K.A., Dempsey, D.E., Peer, R.A.M. (2023). Carbon negative geothermal: Theoretical efficiency and sequestration potential of geothermal-BECCS energy cycles. International Journal of Greenhouse Gas Control, 122, 103813. https://doi.org/10.1016/j.ijggc.2022.103813
-Page: https://ddempsey.github.io/papers/2023-titus-carbon-negative-geothermal-theoretical-efficiency/
+Page: https://ddempsey.github.io/papers/2023-titus-carbon-negative-geothermal-theoretical-efficiency/ | PDF (Accepted manuscript (peer-reviewed, author's version)): https://ddempsey.github.io/papers/2023-titus-carbon-negative-geothermal-theoretical-efficiency/titus2023-carbon-negative-geothermal.pdf | Full text: https://ddempsey.github.io/papers/2023-titus-carbon-negative-geothermal-theoretical-efficiency/fulltext.md
 We modelled four power plant designs that burn forestry waste alongside a 160 °C geothermal resource and dissolve the flue CO2 in reinjected water. Per kg/s of geofluid drawn, they generated 62–589 kWe, the top figure mostly from biomass, and could store 217–675 tonnes of CO2 a year.
 
 - In our model, adding a biomass boiler increased output per kg/s of 160 °C geofluid from 32–43 kWe in conventional plants to 62–76 kWe.
@@ -748,7 +748,7 @@ Abstract: Understanding the transport of hydraulic fracturing (HF) fluid that is
 ## Numerical modeling of injection, stress and permeability enhancement during shear stimulation at the Desert Peak Enhanced Geothermal System
 
 Dempsey, David, Kelkar, Sharad, Davatzes, Nicholas, Hickman, Stephen, Moos, Daniel (2015). Numerical modeling of injection, stress and permeability enhancement during shear stimulation at the Desert Peak Enhanced Geothermal System. International Journal of Rock Mechanics and Mining Sciences, 78, 190-206. https://doi.org/10.1016/j.ijrmms.2015.06.003
-Page: https://ddempsey.github.io/papers/2015-dempsey-numerical-modeling-injection-stress-permeability/
+Page: https://ddempsey.github.io/papers/2015-dempsey-numerical-modeling-injection-stress-permeability/ | PDF (Accepted manuscript (peer-reviewed, author's version)): https://ddempsey.github.io/papers/2015-dempsey-numerical-modeling-injection-stress-permeability/dempsey2015-numerical-modeling-injection.pdf | Full text: https://ddempsey.github.io/papers/2015-dempsey-numerical-modeling-injection-stress-permeability/fulltext.md
 In 2010, cold water injected below the pressure that opens fractures raised the injectivity of well 27-15 at Desert Peak by an order of magnitude. Our model suggests cooling, and the stresses it caused, kept fractures failing where overpressure was too low. Pressure was still needed to push water in.
 
 - Injectivity was stable at wellhead pressures up to 2.4 MPa and rose only at 3.1 MPa. Our model reproduces the absence of stimulation and approximately captures the timing of the onset.
@@ -762,7 +762,7 @@ In 2010, cold water injected below the pressure that opens fractures raised the 
 ## Reducing uncertainty associated with CO2 injection and brine production in heterogeneous formations
 
 Dempsey, David, O’Malley, Daniel, Pawar, Rajesh (2015). Reducing uncertainty associated with CO2 injection and brine production in heterogeneous formations. International Journal of Greenhouse Gas Control, 37, 24-37. https://doi.org/10.1016/j.ijggc.2015.03.004
-Page: https://ddempsey.github.io/papers/2015-dempsey-reducing-uncertainty-associated-co2-injection/
+Page: https://ddempsey.github.io/papers/2015-dempsey-reducing-uncertainty-associated-co2-injection/ | PDF (Accepted manuscript (peer-reviewed, author's version)): https://ddempsey.github.io/papers/2015-dempsey-reducing-uncertainty-associated-co2-injection/dempsey2015-reducing-uncertainty-associated.pdf | Full text: https://ddempsey.github.io/papers/2015-dempsey-reducing-uncertainty-associated-co2-injection/fulltext.md
 When CO2 is injected while brine is pumped out nearby, unknown variations in rock permeability make the outcome hard to predict. In a synthetic reservoir, permeability measured at five wells narrowed 30-year prediction ranges by 40 to 72%. Pressure tests between wells narrowed two of these ranges further.
 
 - In our synthetic reservoir, fast flow paths brought CO2 to two of four production wells within about 11 years, whereas a uniform model predicted no arrival within 30 years.
@@ -808,7 +808,7 @@ Abstract: If carbon dioxide (CO2) sequestration into deep geologic reservoirs is
 ## Modeling caprock bending stresses and their potential for induced seismicity during CO2 injection
 
 Dempsey, David, Kelkar, Sharad, Pawar, Rajesh, Keating, Elizabeth, Coblentz, David (2014). Modeling caprock bending stresses and their potential for induced seismicity during CO2 injection. International Journal of Greenhouse Gas Control, 22, 223-236. https://doi.org/10.1016/j.ijggc.2014.01.005
-Page: https://ddempsey.github.io/papers/2014-dempsey-modeling-caprock-bending-stresses-their/
+Page: https://ddempsey.github.io/papers/2014-dempsey-modeling-caprock-bending-stresses-their/ | PDF (Accepted manuscript (peer-reviewed, author's version)): https://ddempsey.github.io/papers/2014-dempsey-modeling-caprock-bending-stresses-their/dempsey2014-modeling-caprock-bending.pdf | Full text: https://ddempsey.github.io/papers/2014-dempsey-modeling-caprock-bending-stresses-their/fulltext.md
 In our models, CO2 injection at overpressures of 5 to 10 MPa bent the caprock and induced stresses of about 1 to 2 MPa in it, outside the zone of raised fluid pressure. Such stresses would be enough to reactivate an undetected, well-oriented, critically stressed fault near the well.
 
 - In our models, overpressures of 5 to 10 MPa induced caprock stresses of about 1 to 2 MPa, in rock where the fluid pressure change was small.
@@ -867,7 +867,7 @@ We cut ten closely spaced slices from Antarctic sea ice and rebuilt its crystals
 ## The role of frictional plasticity in the evolution of normal fault systems
 
 Dempsey, David E., Ellis, Susan M., Rowland, Julie V., Archer, Rosalind A. (2012). The role of frictional plasticity in the evolution of normal fault systems. Journal of Structural Geology, 39, 122-137. https://doi.org/10.1016/j.jsg.2012.03.001
-Page: https://ddempsey.github.io/papers/2012-dempsey-role-frictional-plasticity-evolution-normal/
+Page: https://ddempsey.github.io/papers/2012-dempsey-role-frictional-plasticity-evolution-normal/ | PDF (Accepted manuscript (peer-reviewed, author's version)): https://ddempsey.github.io/papers/2012-dempsey-role-frictional-plasticity-evolution-normal/dempsey2012-role-frictional-plasticity.pdf | Full text: https://ddempsey.github.io/papers/2012-dempsey-role-frictional-plasticity-evolution-normal/fulltext.md
 We modelled a single normal fault in a stretching crust. In our model the fault takes up about half of the stretching of the upper crust. Slow frictional shearing takes up the rest, mostly in the hanging wall, where we suggest new faults are favoured to form.
 
 - In our model, a fault dipping at 50° takes up about half of the upper-crust extension over a 220-year earthquake cycle. Distributed frictional shearing takes up the rest.
