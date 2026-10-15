@@ -218,7 +218,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": null,
    "bibtex": "https://ddempsey.github.io/papers/2026-chang-determination-interfacial-tension-h2s-water/citation.bib",
-   "summary": null,
+   "summary": "Hydrogen stored in depleted oil and gas reservoirs may mix with hydrogen sulfide (H2S). In our molecular simulations, H2S lowered the interfacial tension between the gas and pore water more than pressure or temperature did. We fitted a linear formula in H2S content, pressure and temperature to predict it.",
    "topics": [
     "CO2 & hydrogen storage"
    ]
@@ -513,7 +513,7 @@
    "open_copy_elsewhere": "https://hdl.handle.net/10092/108288",
    "fulltext_markdown": "https://ddempsey.github.io/papers/2024-chang-influence-hydrogen-sulfide-gas-water/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2024-chang-influence-hydrogen-sulfide-gas-water/citation.bib",
-   "summary": null,
+   "summary": "We used molecular dynamics simulations to test how hydrogen sulfide, a gas that microbes can produce in underground hydrogen stores, changes the tension between stored gas and pore water. At 343 K and 14.5 MPa, 5% hydrogen sulfide in the gas lowered it by 12% when mixed with hydrogen and by 6% when mixed with methane.",
    "topics": [
     "CO2 & hydrogen storage"
    ]
@@ -636,7 +636,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2024-higgs-prospectivity-analysis-underground-hydrogen-storage/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2024-higgs-prospectivity-analysis-underground-hydrogen-storage/citation.bib",
-   "summary": null,
+   "summary": "We ranked 40 possible sites for storing hydrogen underground in Taranaki Basin, New Zealand. Depleted Paleogene gas and gas-cap reservoirs ranked highest. Our results suggest that one or two of the best sites could hold more than the country's projected 2050 storage need.",
    "topics": [
     "CO2 & hydrogen storage"
    ]
@@ -726,7 +726,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": null,
    "bibtex": "https://ddempsey.github.io/papers/2024-chang-molecular-dynamics-insights-gas-water/citation.bib",
-   "summary": null,
+   "summary": "In molecular simulations at underground hydrogen storage conditions, mixing a cushion gas into hydrogen lowered the tension at the boundary between gas and pore water. Carbon dioxide lowered it substantially up to a 40% share, and at a lower rate above that. Methane lowered it at a steady rate.",
    "topics": [
     "CO2 & hydrogen storage"
    ]
@@ -1348,7 +1348,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": null,
    "bibtex": "https://ddempsey.github.io/papers/2015-wongpan-simulation-crystal-growth-platelet-sea/citation.bib",
-   "summary": null,
+   "summary": "We simulated, crystal by crystal and in three dimensions, the loose layer of ice platelets that collects under Antarctic sea ice near ice shelves. In our model the layer is about 22% ice by volume, close to the 25 ± 6% estimated from field heat-flux measurements.",
    "topics": [
     "Sea ice"
    ]

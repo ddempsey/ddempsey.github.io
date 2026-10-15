@@ -60,7 +60,7 @@
     <link href="https://ddempsey.github.io/papers/2026-chang-determination-interfacial-tension-h2s-water/"/>
     <id>https://doi.org/10.1016/j.est.2025.119683</id>
     <updated>2026-01-01T00:00:00Z</updated>
-    <summary>Chang, Qiuhao, Dempsey, David, Huang, Liangliang (2026). Determination of interfacial tension for H2-H2S-water and CH4-H2S-water mixtures under different geological conditions for underground hydrogen storage. Journal of Energy Storage, 143, 119683. https://doi.org/10.1016/j.est.2025.119683</summary>
+    <summary>Chang, Qiuhao, Dempsey, David, Huang, Liangliang (2026). Determination of interfacial tension for H2-H2S-water and CH4-H2S-water mixtures under different geological conditions for underground hydrogen storage. Journal of Energy Storage, 143, 119683. https://doi.org/10.1016/j.est.2025.119683 Hydrogen stored in depleted oil and gas reservoirs may mix with hydrogen sulfide (H2S). In our molecular simulations, H2S lowered the interfacial tension between the gas and pore water more than pressure or temperature did. We fitted a linear formula in H2S content, pressure and temperature to predict it.</summary>
   </entry>
   <entry>
     <title>Preferential seawater intrusion in a heterogeneous alluvial aquifer that extends offshore: Insights from numerical modeling</title>
@@ -130,7 +130,7 @@
     <link href="https://ddempsey.github.io/papers/2024-chang-influence-hydrogen-sulfide-gas-water/"/>
     <id>https://doi.org/10.1016/j.est.2024.112766</id>
     <updated>2024-09-01T00:00:00Z</updated>
-    <summary>Chang, Qiuhao, Huang, Liangliang, McKenzie, Kelsey, Carere, Carlo, Stott, Matthew, Nicol, Andy, Dempsey, David (2024). Influence of hydrogen sulfide on gas-water interface in underground hydrogen storage: A molecular dynamics study. Journal of Energy Storage, 97, 112766. https://doi.org/10.1016/j.est.2024.112766</summary>
+    <summary>Chang, Qiuhao, Huang, Liangliang, McKenzie, Kelsey, Carere, Carlo, Stott, Matthew, Nicol, Andy, Dempsey, David (2024). Influence of hydrogen sulfide on gas-water interface in underground hydrogen storage: A molecular dynamics study. Journal of Energy Storage, 97, 112766. https://doi.org/10.1016/j.est.2024.112766 We used molecular dynamics simulations to test how hydrogen sulfide, a gas that microbes can produce in underground hydrogen stores, changes the tension between stored gas and pore water. At 343 K and 14.5 MPa, 5% hydrogen sulfide in the gas lowered it by 12% when mixed with hydrogen and by 6% when mixed with methane.</summary>
   </entry>
   <entry>
     <title>Earthquakes Trigger Rapid Flash Boiling Front at Optimal Geologic Conditions</title>
@@ -158,7 +158,7 @@
     <link href="https://ddempsey.github.io/papers/2024-higgs-prospectivity-analysis-underground-hydrogen-storage/"/>
     <id>https://doi.org/10.1016/j.ijhydene.2024.05.098</id>
     <updated>2024-06-01T00:00:00Z</updated>
-    <summary>Higgs, Karen E., Strogen, Dominic P., Nicol, Andrew, Dempsey, David, Leith, Kerry, Bassett, Kari, Reid, Catherine, Yates, Edward, Parker, Matthew, Bischoff, Alan, Adam, Ludmila, Rowe, Michael (2024). Prospectivity analysis for underground hydrogen storage, Taranaki basin, Aotearoa New Zealand: A multi-criteria decision-making approach. International Journal of Hydrogen Energy, 71, 1468-1485. https://doi.org/10.1016/j.ijhydene.2024.05.098</summary>
+    <summary>Higgs, Karen E., Strogen, Dominic P., Nicol, Andrew, Dempsey, David, Leith, Kerry, Bassett, Kari, Reid, Catherine, Yates, Edward, Parker, Matthew, Bischoff, Alan, Adam, Ludmila, Rowe, Michael (2024). Prospectivity analysis for underground hydrogen storage, Taranaki basin, Aotearoa New Zealand: A multi-criteria decision-making approach. International Journal of Hydrogen Energy, 71, 1468-1485. https://doi.org/10.1016/j.ijhydene.2024.05.098 We ranked 40 possible sites for storing hydrogen underground in Taranaki Basin, New Zealand. Depleted Paleogene gas and gas-cap reservoirs ranked highest. Our results suggest that one or two of the best sites could hold more than the country&#39;s projected 2050 storage need.</summary>
   </entry>
   <entry>
     <title>Eruption Forecasting Model for Copahue Volcano (Southern Andes) Using Seismic Data and Machine Learning: A Joint Interpretation with Geodetic Data (GNSS and InSAR)</title>
@@ -179,7 +179,7 @@
     <link href="https://ddempsey.github.io/papers/2024-chang-molecular-dynamics-insights-gas-water/"/>
     <id>https://doi.org/10.1016/j.ijhydene.2024.03.341</id>
     <updated>2024-04-01T00:00:00Z</updated>
-    <summary>Chang, Qiuhao, Dempsey, David, Zhang, Liehui, Zhao, Yulong, Huang, Liangliang (2024). Molecular dynamics insights into gas-water interfacial tension: Optimizing hydrogen storage in subsurface conditions. International Journal of Hydrogen Energy, 64, 896-905. https://doi.org/10.1016/j.ijhydene.2024.03.341</summary>
+    <summary>Chang, Qiuhao, Dempsey, David, Zhang, Liehui, Zhao, Yulong, Huang, Liangliang (2024). Molecular dynamics insights into gas-water interfacial tension: Optimizing hydrogen storage in subsurface conditions. International Journal of Hydrogen Energy, 64, 896-905. https://doi.org/10.1016/j.ijhydene.2024.03.341 In molecular simulations at underground hydrogen storage conditions, mixing a cushion gas into hydrogen lowered the tension at the boundary between gas and pore water. Carbon dioxide lowered it substantially up to a 40% share, and at a lower rate above that. Methane lowered it at a steady rate.</summary>
   </entry>
   <entry>
     <title>Active-distributed temperature sensing dataset beneath a braided river</title>

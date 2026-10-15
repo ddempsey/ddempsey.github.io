@@ -92,6 +92,12 @@ Abstract: With the rapid expansion of renewable energy deployment, underground h
 
 Chang, Qiuhao, Dempsey, David, Huang, Liangliang (2026). Determination of interfacial tension for H2-H2S-water and CH4-H2S-water mixtures under different geological conditions for underground hydrogen storage. Journal of Energy Storage, 143, 119683. https://doi.org/10.1016/j.est.2025.119683
 Page: https://ddempsey.github.io/papers/2026-chang-determination-interfacial-tension-h2s-water/
+Hydrogen stored in depleted oil and gas reservoirs may mix with hydrogen sulfide (H2S). In our molecular simulations, H2S lowered the interfacial tension between the gas and pore water more than pressure or temperature did. We fitted a linear formula in H2S content, pressure and temperature to predict it.
+
+- In our simulations, 10 mol% H2S lowered the interfacial tension of hydrogen and methane against water by about 7 to 14 mN/m, and 40 mol% by 31 to 49 mN/m.
+- Interfacial tension also fell as pressure rose from 10 to 30 MPa and as temperature rose from 298 to 343 K, by smaller amounts.
+- We suggest the temperature effect comes from weaker attraction among water molecules, and the pressure effect from more H2S gathering at the interface.
+- A linear formula in H2S fraction, pressure and temperature reproduced test simulations with average errors of 1.66 mN/m for hydrogen and 1.71 mN/m for methane.
 
 ---
 
@@ -206,6 +212,13 @@ Abstract: Limiting global temperature rise to between 1.5 and 2 °C will likely 
 
 Chang, Qiuhao, Huang, Liangliang, McKenzie, Kelsey, Carere, Carlo, Stott, Matthew, Nicol, Andy, Dempsey, David (2024). Influence of hydrogen sulfide on gas-water interface in underground hydrogen storage: A molecular dynamics study. Journal of Energy Storage, 97, 112766. https://doi.org/10.1016/j.est.2024.112766
 Page: https://ddempsey.github.io/papers/2024-chang-influence-hydrogen-sulfide-gas-water/ | PDF (Published version): https://ddempsey.github.io/papers/2024-chang-influence-hydrogen-sulfide-gas-water/chang2024-influence-hydrogen-sulfide.pdf | Full text: https://ddempsey.github.io/papers/2024-chang-influence-hydrogen-sulfide-gas-water/fulltext.md
+We used molecular dynamics simulations to test how hydrogen sulfide, a gas that microbes can produce in underground hydrogen stores, changes the tension between stored gas and pore water. At 343 K and 14.5 MPa, 5% hydrogen sulfide in the gas lowered it by 12% when mixed with hydrogen and by 6% when mixed with methane.
+
+- In our simulations, gas with 5% H2S lowered gas-water interfacial tension by about 12% for hydrogen, 9% for a hydrogen-methane mix, and 6% for methane.
+- Interfacial tension fell as H2S concentration rose, from 70.3 mN/m for pure hydrogen to 6.9 mN/m for pure H2S, with little further change above 80% H2S.
+- We attribute the accumulation of H2S in the interface region to its absorption into the water, and suggest that methane adsorbed there partly counteracted its effect.
+- Water molecules at the interface tend to lie parallel to it. Adding H2S made their orientation more random, up to about 80% H2S.
+- Simulated densities and interfacial tensions agreed with reference data, for example 6.9 mN/m against a measured 7.4 mN/m for H2S and water.
 
 Abstract: In this study, we investigate the dynamics of interfacial tension (IFT) between residual pore water and gas mixtures containing H2, CH4, and H2S within subsurface porous media, essential for underground hydrogen storage (UHS) systems. Utilizing molecular dynamics simulations, we established specific IFT correlations across a spectrum of H2S concentrations, ranging from 5 % to 80 %, under the conditions of 14.5 MPa and 343 K. Our results demonstrate a marked decrease in IFT, with a notable 12 % reduction observed even at a minimal H2S concentration of 5 % for H2S-H2 mixtures, contrasting with a 6 % reduction in H2S-CH4 mixtures, and reaching a saturation point at concentrations exceeding 80 %. The presence of CH4 at the interface mitigates the reduction in IFT caused by H2S, underscoring the complexity of gas interactions in subsurface storage. These insights into the molecular dynamics at the gas-water interface carry significant implications for the optimization of UHS operations, informed by the substantial variations in IFT with different H2S concentrations.
 
@@ -246,6 +259,13 @@ Page: https://ddempsey.github.io/papers/2024-ardid-multitimescale-template-match
 
 Higgs, Karen E., Strogen, Dominic P., Nicol, Andrew, Dempsey, David, Leith, Kerry, Bassett, Kari, Reid, Catherine, Yates, Edward, Parker, Matthew, Bischoff, Alan, Adam, Ludmila, Rowe, Michael (2024). Prospectivity analysis for underground hydrogen storage, Taranaki basin, Aotearoa New Zealand: A multi-criteria decision-making approach. International Journal of Hydrogen Energy, 71, 1468-1485. https://doi.org/10.1016/j.ijhydene.2024.05.098
 Page: https://ddempsey.github.io/papers/2024-higgs-prospectivity-analysis-underground-hydrogen-storage/ | PDF (Published version): https://ddempsey.github.io/papers/2024-higgs-prospectivity-analysis-underground-hydrogen-storage/higgs2024-prospectivity-analysis-underground.pdf | Full text: https://ddempsey.github.io/papers/2024-higgs-prospectivity-analysis-underground-hydrogen-storage/fulltext.md
+We ranked 40 possible sites for storing hydrogen underground in Taranaki Basin, New Zealand. Depleted Paleogene gas and gas-cap reservoirs ranked highest. Our results suggest that one or two of the best sites could hold more than the country's projected 2050 storage need.
+
+- We assessed 40 sites in Taranaki Basin, nearly all of them past or present oil and gas fields, against 18 technical parameters chosen by a panel of ten geoscientists.
+- To enter our scoring matrix, a site needed 1 to 20 TWh of hydrogen capacity, a reservoir top deeper than 1 km, and an average permeability above 5 mD.
+- A decision tree and a weighted scoring matrix both placed the Ahuroa gas storage field and the Kaimiro reservoir of the offshore Maui A field at the top.
+- Small, compartmentalised and often poorly lithified Miocene oil reservoirs ranked lowest, along with the one deep aquifer site, which has no proven containment.
+- The top ten matrix scores spanned 0.725 to 0.806, and their order changed under other weightings, but Paleogene reservoirs filled the top ten in all four weighting scenarios we report.
 
 Abstract: Seasonal underground hydrogen storage (UHS) in porous media provides an as yet untested method for storing surplus renewable energy and balancing our energy demands. This study investigates the technical suitability for UHS in depleted hydrocarbon fields and one deep aquifer site in Taranaki Basin, Aotearoa New Zealand. Prospective sites are assessed using a decision tree approach, providing a “fast-track” method for identifying potential sites, and a decision matrix approach for ranking optimal sites. Based on expert elicitation, the most important factors to consider are storage capacity, reservoir depth, and parameters that affect hydrogen injectivity/withdrawal and containment. Results from both approaches suggest that Paleogene reservoirs from gas (or gas cap) fields provide the best option for demonstrating UHS in Aotearoa New Zealand, and that the country’s projected 2050 hydrogen storage demand could be exceeded by developing one or two high ranking sites. Lower priority is assigned to heterolithic and typically finer grained, labile and, clay-rich Miocene oil reservoirs, and to deep aquifers that have no proven hydrocarbon containment.
 
@@ -278,6 +298,13 @@ Abstract: Braided rivers are a major contributor of groundwater recharge, yet li
 
 Chang, Qiuhao, Dempsey, David, Zhang, Liehui, Zhao, Yulong, Huang, Liangliang (2024). Molecular dynamics insights into gas-water interfacial tension: Optimizing hydrogen storage in subsurface conditions. International Journal of Hydrogen Energy, 64, 896-905. https://doi.org/10.1016/j.ijhydene.2024.03.341
 Page: https://ddempsey.github.io/papers/2024-chang-molecular-dynamics-insights-gas-water/
+In molecular simulations at underground hydrogen storage conditions, mixing a cushion gas into hydrogen lowered the tension at the boundary between gas and pore water. Carbon dioxide lowered it substantially up to a 40% share, and at a lower rate above that. Methane lowered it at a steady rate.
+
+- At 20 MPa and 373 K, adding CO2 or CH4 to hydrogen lowered the simulated gas-water interfacial tension, and CO2 lowered it more than CH4 at the same concentration.
+- With CO2, the tension fell substantially as the CO2 share rose to 40% and at a lower rate from 40% to 100%. With CH4, it fell linearly.
+- CO2 collected at the interface at about twice its gas density up to 40% CO2. Above 40% this ratio fell, which we interpret as the interface approaching saturation.
+- A shift in the orientation of interfacial water molecules, which occurred with rising CO2 and was absent with rising CH4, could contribute to the larger drop in tension with CO2.
+- Both cushion gases slowed the self-diffusion of hydrogen at the gas-water interface, where hydrogen-consuming microbes are concentrated.
 
 ---
 
@@ -589,6 +616,12 @@ Abstract: Earthquakes induced by natural gas extraction from the Groningen reser
 
 Wongpan, Pat, Langhorne, Patricia J., Dempsey, David E., Hahn-Woernle, Lisa, Sun, Zhifa (2015). Simulation of the crystal growth of platelet sea ice with diffusive heat and mass transfer. Annals of Glaciology, 56(69), 127-136. https://doi.org/10.3189/2015aog69a777
 Page: https://ddempsey.github.io/papers/2015-wongpan-simulation-crystal-growth-platelet-sea/
+We simulated, crystal by crystal and in three dimensions, the loose layer of ice platelets that collects under Antarctic sea ice near ice shelves. In our model the layer is about 22% ice by volume, close to the 25 ± 6% estimated from field heat-flux measurements.
+
+- In our model the sub-ice platelet layer has a solid fraction of about 0.22, in good agreement with 0.25 ± 0.06 from heat-flux measurements (Gough and others, 2012a).
+- Halving the diameter of the arriving crystals from 10 mm to 5 mm raised the simulated solid fraction from 0.22 to 0.29.
+- When all the crystals arrive at once, c-axes turn towards the horizontal with depth. A continuous supply keeps them randomly oriented. Both patterns agree with McMurdo Sound cores.
+- The code reproduces an exact solution for a slab of sea ice freezing downwards (the Stefan problem) for each of four salt diffusivities.
 
 Abstract: Antarctic coastal sea ice often grows in water that has been supercooled by interaction with an ice shelf. In these situations, ice crystals can form at depth, rise and deposit under the sea-ice cover to form a porous layer that eventually consolidates near the base of the existing sea ice. The least consolidated portion is called the sub-ice platelet layer. Congelation growth eventually causes the sub-ice platelet layer to become frozen into the sea-ice cover as incorporated platelet ice. In this study, we simulate these processes in three dimensions using Voronoi dynamics to govern crystal growth kinetics. Platelet deposition, in situ growth and incorporation into the sea-ice cover are integrated into the model. Heat and mass transfer are controlled by diffusion. We extract and compare spatial-temporal distributions of porosity, salinity, temperature and crystallographic c-axes with observations from McMurdo Sound, Antarctica. The model captures the crystallographic structure of incorporated platelet ice as well as the topology of the sub-ice platelet layer. The solid fraction, which has previously been poorly constrained, is simulated to be ∼0.22, in good agreement with an earlier estimate of 0.25 ± 0.06. This property of the sub-ice platelet layer is important for biological processes, and for the freeboard-thickness relationship around Antarctica.
 

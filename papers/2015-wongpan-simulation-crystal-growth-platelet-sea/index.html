@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Simulation of the crystal growth of platelet sea ice with diffusive heat and mass transfer — David Dempsey</title>
 <meta name="author" content="David Dempsey">
-<meta name="description" content="Simulation of the crystal growth of platelet sea ice with diffusive heat and mass transfer. Wongpan P, Langhorne PJ, Dempsey DE et al., Annals of Glaciology (2015).">
+<meta name="description" content="We simulated, crystal by crystal and in three dimensions, the loose layer of ice platelets that collects under Antarctic sea ice near ice shelves. In our model the layer is about 22% ice by volume, close to the 25 ± 6% estimated from field heat-flux measurements.">
 <link rel="canonical" href="https://ddempsey.github.io/papers/2015-wongpan-simulation-crystal-growth-platelet-sea/">
 <link rel="alternate" type="text/markdown" href="https://ddempsey.github.io/papers/2015-wongpan-simulation-crystal-growth-platelet-sea/index.md" title="This page as Markdown">
 <link rel="alternate" type="application/x-bibtex" href="https://ddempsey.github.io/papers/2015-wongpan-simulation-crystal-growth-platelet-sea/citation.bib">
@@ -88,6 +88,7 @@
  "keywords": "Sea ice, Geology, Ice crystals, Porosity",
  "mainEntityOfPage": "https://ddempsey.github.io/papers/2015-wongpan-simulation-crystal-growth-platelet-sea/",
  "abstract": "Antarctic coastal sea ice often grows in water that has been supercooled by interaction with an ice shelf. In these situations, ice crystals can form at depth, rise and deposit under the sea-ice cover to form a porous layer that eventually consolidates near the base of the existing sea ice. The least consolidated portion is called the sub-ice platelet layer. Congelation growth eventually causes the sub-ice platelet layer to become frozen into the sea-ice cover as incorporated platelet ice. In this study, we simulate these processes in three dimensions using Voronoi dynamics to govern crystal growth kinetics. Platelet deposition, in situ growth and incorporation into the sea-ice cover are integrated into the model. Heat and mass transfer are controlled by diffusion. We extract and compare spatial-temporal distributions of porosity, salinity, temperature and crystallographic c-axes with observations from McMurdo Sound, Antarctica. The model captures the crystallographic structure of incorporated platelet ice as well as the topology of the sub-ice platelet layer. The solid fraction, which has previously been poorly constrained, is simulated to be ∼0.22, in good agreement with an earlier estimate of 0.25 ± 0.06. This property of the sub-ice platelet layer is important for biological processes, and for the freeboard-thickness relationship around Antarctica.",
+ "description": "We simulated, crystal by crystal and in three dimensions, the loose layer of ice platelets that collects under Antarctic sea ice near ice shelves. In our model the layer is about 22% ice by volume, close to the 25 ± 6% estimated from field heat-flux measurements.",
  "encoding": [
   {
    "@type": "MediaObject",
@@ -123,7 +124,41 @@
     <a class="btn ghost" href="citation.bib">BibTeX</a>
     <a class="btn ghost" href="index.md" type="text/markdown">Markdown</a>
   </div>
-<p class="notice">No open copy is posted here yet; use the DOI link above.</p>
+<p class="notice">No open copy is posted here yet; use the DOI link above.</p><p class="provenance">All explainers on this site are AI-generated and human-checked.</p>
+  <section class="explainer">
+    <h2>In brief</h2>
+<p class="summary">We simulated, crystal by crystal and in three dimensions, the loose layer of ice platelets that collects under Antarctic sea ice near ice shelves. In our model the layer is about 22% ice by volume, close to the 25 ± 6% estimated from field heat-flux measurements.</p><ul class="keypoints"><li>In our model the sub-ice platelet layer has a solid fraction of about 0.22, in good agreement with 0.25 ± 0.06 from heat-flux measurements (Gough and others, 2012a).</li><li>Halving the diameter of the arriving crystals from 10 mm to 5 mm raised the simulated solid fraction from 0.22 to 0.29.</li><li>When all the crystals arrive at once, c-axes turn towards the horizontal with depth. A continuous supply keeps them randomly oriented. Both patterns agree with McMurdo Sound cores.</li><li>The code reproduces an exact solution for a slab of sea ice freezing downwards (the Stefan problem) for each of four salt diffusivities.</li></ul>    <div class="prose"><h2>The problem</h2>
+<p>Around the coast of Antarctica, sea ice often grows in seawater that an ice shelf has supercooled, that is, cooled below its freezing point (e.g. Lewis and Perkin, 1986). Ice crystals form at depth in this water, rise, and collect beneath the sea ice as a loose, porous layer called the sub-ice platelet layer. As the sea ice thickens, these crystals are frozen into it as incorporated platelet ice. Because it is &quot;highly porous&quot; and gives algae a stable surface, the layer holds some of the highest accumulations of sea-ice algae recorded (Arrigo and Thomas, 2004).</p>
+<p>The layer also complicates measurements of sea-ice thickness. Thickness is often derived from freeboard, the height of the ice above the waterline, which altimeters on aircraft and satellites measure. The conversion assumes the ice floats in equilibrium and needs the solid fraction of the platelet layer, the share of its volume that is ice. Electromagnetic induction sounding needs it too, to set the electrical conductivity of the layer. Price and others (2014) showed that thickness derived from freeboard may be in error by up to 20% when a platelet layer is present. However, the layer is loose and difficult to sample, and estimates of its solid fraction range from 0.2 to 0.5 (Gough and others, 2012a).</p>
+<h2>What we did</h2>
+<p>In this study, we simulated the growth of individual ice crystals in three dimensions, using Voronoi dynamics (Ohashi and others, 2004), a method that grows each crystal from a seed point on a grid by a set of rules. Each crystal forms a thin disc, because it grows 30 times faster across its flat face than along its c-axis, the axis of symmetry of an ice crystal. Our model includes the heat conduction and salt diffusion of a two-dimensional Voronoi model (Kawano and Ohashi, 2009) and the platelet growth of a purely mechanical one (Dempsey and others, 2010), extended to three dimensions. We also added partly frozen &quot;mixture cells&quot;, to make it easier to include the latent heat released when water freezes.</p>
+<p>In the model, heat and salt move by diffusion, and growing ice rejects salt. A cell freezes only when a crystal front reaches it and it is at or below its freezing point. Because the model has no ocean currents, we increased the salt diffusivity 100-fold to compensate.</p>
+<p>The code matched the Stefan problem, an exact solution for a slab of sea ice freezing downwards, for each of four values of salt diffusivity. We then ran two scenarios in a 10 cm cube of 1 mm cells, each for 9 × 10^4 s, about one day. In the first, 120 seed crystals 1 mm across arrived at once under flat sea ice. In the second, after the seeds had grown for about 8 hours, one 10 mm crystal arrived every 100 s for a further 8 hours, while the ice base advanced downward at 2.2 cm per day, a rate appropriate for ice 0.25 m thick (Leonard and others, 2006).</p>
+<h2>What we found</h2>
+<p>In our second scenario, the mean solid fraction of the platelet layer is about 0.22, or roughly a fifth ice by volume. This is in good agreement with 0.25 ± 0.06, deduced by Gough and others (2012a) from heat flux in sea-ice temperature profiles. Near the top of the domain, where the advancing ice base fills the gaps between platelets, the solid fraction rises to between 0.8 and 1. A repeat run with 5 mm crystals gave 0.29. This may be because that layer was thinner and smaller crystals pack more efficiently. A 30% change for a halving of diameter suggests the solid fraction is relatively insensitive to crystal size.</p>
+<p>We also compared the crystal orientations, called the fabric, with those in sea-ice cores. In the first scenario the seeds start with random orientations and grow until they begin to touch each other. Geometric selection then removes crystals with near-vertical c-axes. The c-axes therefore turn towards the horizontal plane with depth, in agreement with field observations (Gough and others, 2012a). In the second scenario, the continuous supply of new crystals keeps the fabric random, in good agreement with measurements near the top of the sea ice in western McMurdo Sound (Dempsey and others, 2010). Because the simulated fabric matches the observed one in both scenarios, we are confident that the model is a reasonable representation of how platelet ice forms.</p>
+<p>Whether a platelet layer persists depends on how fast crystals arrive relative to the advance of the ice base. Using a relation from Dempsey and others (2010) and the measured solid fraction of 0.25 (Smedsrud and Skogseth, 2006; Gough and others, 2012a), we calculate that the second scenario needs about 310,000 crystals per square metre per day to sustain a layer. The simulated supply was about 90,000 crystals per square metre per day, 29% of that value (our arithmetic). Had the simulation run longer, the advancing ice base would have frozen the whole platelet layer into the sea ice (Dempsey and others, 2010).</p>
+<div class="widget" id="w-crit-flux" role="group" aria-label="Interactive calculation of the crystal supply needed to keep a sub-ice platelet layer, for a chosen crystal diameter and rate of ice growth"></div>
+<h2>Limitations</h2>
+<p>Our main limitation is the neglect of fluid dynamics. Salt moves only by diffusion, through a diffusivity we increased to compensate for ocean mixing. The second scenario was also designed for thin ice, under conditions in which a platelet layer may exist only temporarily. Even so, because the layer is inaccessible, loose and difficult to sample, simulation is one possible way to obtain its solid fraction, the value that thickness estimates need.</p>
+<h2>Glossary</h2>
+<p><strong>Supercooled water</strong>: water that remains liquid below its freezing point.
+<strong>Sub-ice platelet layer</strong>: the loose, porous layer of ice crystals that collects beneath sea ice.
+<strong>Incorporated platelet ice</strong>: platelet crystals that have been frozen into the sea-ice cover.
+<strong>Solid fraction</strong>: the fraction of a volume occupied by ice, the rest being seawater or brine.
+<strong>Freeboard</strong>: the height of floating ice above the waterline.
+<strong>Altimeter</strong>: an instrument that measures height, here the height of the ice surface.
+<strong>Electromagnetic induction sounding</strong>: a method of estimating sea-ice thickness that needs the electrical conductivity of each layer to convert its measurements into thickness.
+<strong>c-axis</strong>: the axis of symmetry of an ice crystal, perpendicular to the flat face of a platelet.
+<strong>Fabric</strong>: the pattern of crystal orientations in a sample of ice.
+<strong>Voronoi dynamics</strong>: a method that grows crystals cell by cell on a grid from seed points, according to growth rules.
+<strong>Mixture cell</strong>: a model cell that is partly ice and partly brine, the salty water left between crystals.
+<strong>Geometric selection</strong>: the loss, as ice grows downward, of crystals whose c-axes lie close to the vertical.
+<strong>Stefan problem</strong>: a one-dimensional problem of heat transfer with freezing that has an exact solution.
+<strong>Latent heat</strong>: the heat released when water freezes, 334 kJ per kg in our model.
+<strong>Diffusivity</strong>: a measure of how fast heat or salt spreads, in square metres per second.</p>
+</div>
+  </section>
 
   <section class="abstract">
     <h2>Abstract</h2>
@@ -148,7 +183,7 @@
 </pre></details>
   </section>
 </article>
-</main>
+<script src="widget.js" defer></script></main>
 <footer class="site">
   <p>David Dempsey, University of Canterbury. Open copies are posted under each publisher's self-archiving policy; the DOI link always points to the version of record.</p>
   <p class="machine">Machine-readable: <a href="/llms.txt">llms.txt</a> · <a href="/papers.json">papers.json</a> · <a href="/sitemap.xml">sitemap.xml</a> · <a href="/feed.xml">Atom feed</a> · <a href="index.md">this page as Markdown</a></p>
