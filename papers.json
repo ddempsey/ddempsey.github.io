@@ -924,7 +924,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": null,
    "bibtex": "https://ddempsey.github.io/papers/2023-titus-carbon-negative-geothermal-theoretical-efficiency/citation.bib",
-   "summary": null,
+   "summary": "We modelled four power plant designs that burn forestry waste alongside a 160 °C geothermal resource and dissolve the flue CO2 in reinjected water. Per kg/s of geofluid drawn, they generated 62–589 kWe, the top figure mostly from biomass, and could store 217–675 tonnes of CO2 a year.",
    "topics": [
     "Geothermal systems",
     "CO2 & hydrogen storage"
@@ -1039,7 +1039,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": null,
    "bibtex": "https://ddempsey.github.io/papers/2022-yu-techno-economic-feasibility-enhanced-geothermal/citation.bib",
-   "summary": null,
+   "summary": "We modelled a geothermal heating scheme that forces water through fractured hot rock between two horizontal wells. In a modelled case study at Qiabuqia, China, a 14-fracture design gave a median profit of USD 110 million over 20 years, with a 95% range of USD 24 to 185 million.",
    "topics": [
     "Induced seismicity & faults",
     "Geothermal systems"

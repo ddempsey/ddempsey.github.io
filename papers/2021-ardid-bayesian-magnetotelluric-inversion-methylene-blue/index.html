@@ -156,7 +156,7 @@
 <p class="summary">We developed a way to map the clay layer above a geothermal reservoir from electrical surveys, using clay tests on drill cuttings to reduce the range of possible depths. At Wairākei it returned depth ranges for the layer&#39;s boundaries and reduced the uncertainty in the depth of its base.</p><ul class="keypoints"><li>Our Bayesian inversion returns a range of plausible depths for the top and bottom of the shallow conductor beneath each MT station, using clay tests from wells as prior information.</li><li>In a synthetic test, a deterministic inversion placed the conductor&#39;s base about 65 m too shallow near the centre, and clay priors brought our estimate closer to the true base.</li><li>At Wairākei, clay priors left the data fit almost unchanged, and the most constrained prior we tested cut the average bottom-depth uncertainty from 77 m to 54 m.</li><li>Our 12-station Wairākei inversion took about 0.3 hours on four cores, against about 28 hours on 56 cores for a 3D inversion that can also image deeper structure.</li></ul>    <div class="prose"><h2>The problem</h2>
 <p>Early in a geothermal project, drilling targets are often defined using models
 of underground electrical resistivity (Sepulveda et al., 2012). A geothermal
-reservoir is often overlain by a layer of low-permeability clay that limits the
+reservoir is commonly overlain by a layer of low-permeability clay that limits the
 mixing of hot reservoir fluid with cooler surface water. This clay cap conducts
 electricity well and appears in surveys as a shallow conductor (Johnston et al.,
 1992). Zones where hot water rises are traditionally associated with a dome in
@@ -201,17 +201,16 @@ main reservoir area mapped by an earlier direct current resistivity survey
 (Risk, 1984). To the east the conductor thickens beneath station WT030a. This is
 consistent with previous inversions (Sepulveda et al., 2012) and with conceptual
 models in which the conductor domes above an upflow.</p>
-<p>The inversions with the MeB prior (λ = 40) and without it fit the data equally
+<p>The inversions with the MeB prior (λ = ) and without it fit the data equally
 well, with average root-mean-square (rms) misfits of 1.64 and 1.65. However,
 they place the bottom of the conductor at different depths. Without a prior, the
-average standard deviation of the bottom depth was 77 m. It fell to 64 m with λ
-= 40 and to 54 m with λ = 20. The top boundary changed little, from 31 m to 27
+average standard deviation of the bottom depth was 77 m. It fell to 64 m with λ =  and to 54 m with λ = . The top boundary changed little, from 31 m to 27
 m. This supports the idea that the prior is most useful for the bottom boundary,
 which MT resolves less well than the top.</p>
 <div class="widget" id="w-mebprior" role="group" aria-label="Interactive comparison of uncertainty in the top and bottom depths of the Wairākei conductor for different strengths of the clay prior"></div>
 <p>For the Wairākei profile, our inversion took about 0.3 hours on four cores,
-against about 28 hours on 56 cores for a 3D ModEM inversion. Each station is a
-small, independent problem with five parameters. ModEM used all the measured
+against about 28 hours on 56 cores for a 3D ModEM inversion. This is because each
+station is a small, independent problem with five parameters. ModEM used all the measured
 periods, whereas we used only those that behave one-dimensionally. Even with
 fewer, ModEM would take several hours. However, 3D inversions can image
 resistivity to greater depths and are required where the structure is 2D or 3D.

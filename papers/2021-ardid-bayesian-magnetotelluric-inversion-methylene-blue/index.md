@@ -25,7 +25,7 @@ We developed a way to map the clay layer above a geothermal reservoir from elect
 
 Early in a geothermal project, drilling targets are often defined using models
 of underground electrical resistivity (Sepulveda et al., 2012). A geothermal
-reservoir is often overlain by a layer of low-permeability clay that limits the
+reservoir is commonly overlain by a layer of low-permeability clay that limits the
 mixing of hot reservoir fluid with cooler surface water. This clay cap conducts
 electricity well and appears in surveys as a shallow conductor (Johnston et al.,
 1992). Zones where hot water rises are traditionally associated with a dome in
@@ -79,19 +79,18 @@ main reservoir area mapped by an earlier direct current resistivity survey
 consistent with previous inversions (Sepulveda et al., 2012) and with conceptual
 models in which the conductor domes above an upflow.
 
-The inversions with the MeB prior (λ = 40) and without it fit the data equally
+The inversions with the MeB prior (λ = ) and without it fit the data equally
 well, with average root-mean-square (rms) misfits of 1.64 and 1.65. However,
 they place the bottom of the conductor at different depths. Without a prior, the
-average standard deviation of the bottom depth was 77 m. It fell to 64 m with λ
-= 40 and to 54 m with λ = 20. The top boundary changed little, from 31 m to 27
+average standard deviation of the bottom depth was 77 m. It fell to 64 m with λ =  and to 54 m with λ = . The top boundary changed little, from 31 m to 27
 m. This supports the idea that the prior is most useful for the bottom boundary,
 which MT resolves less well than the top.
 
 <div class="widget" id="w-mebprior" role="group" aria-label="Interactive comparison of uncertainty in the top and bottom depths of the Wairākei conductor for different strengths of the clay prior"></div>
 
 For the Wairākei profile, our inversion took about 0.3 hours on four cores,
-against about 28 hours on 56 cores for a 3D ModEM inversion. Each station is a
-small, independent problem with five parameters. ModEM used all the measured
+against about 28 hours on 56 cores for a 3D ModEM inversion. This is because each
+station is a small, independent problem with five parameters. ModEM used all the measured
 periods, whereas we used only those that behave one-dimensionally. Even with
 fewer, ModEM would take several hours. However, 3D inversions can image
 resistivity to greater depths and are required where the structure is 2D or 3D.
