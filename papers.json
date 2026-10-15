@@ -26,7 +26,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2027-chang-surrogate-probabilistic-assessment-hydrogen-leakage/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2027-chang-surrogate-probabilistic-assessment-hydrogen-leakage/citation.bib",
-   "summary": null,
+   "summary": "We built a fast statistical approximation of reservoir simulations that predicts whether hydrogen stored in a depleted gas reservoir could leak up an abandoned well. In our models, the distance to that well and the injection rate had the largest effect on leakage probability.",
    "topics": [
     "CO2 & hydrogen storage"
    ]
