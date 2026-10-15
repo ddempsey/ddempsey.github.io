@@ -354,7 +354,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2025-liu-impact-operational-parameters-water-invasion/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2025-liu-impact-operational-parameters-water-invasion/citation.bib",
-   "summary": null,
+   "summary": "We modelled hydrogen storage in the depleted Ahuroa gas field, New Zealand, to evaluate how operating choices affect water rising toward the wells. In our model, longer or faster withdrawal and a smaller cushion of gas produced the most water.",
    "topics": [
     "CO2 & hydrogen storage"
    ]
@@ -455,7 +455,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2025-ardid-sub-hourly-forecasting-fire-potential/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2025-ardid-sub-hourly-forecasting-fire-potential/citation.bib",
-   "summary": null,
+   "summary": "We trained machine learning models on 15 years of half-hourly records from one weather station on the Sunshine Coast, Australia, to recognise the weather in the days before fires. Tested on fires withheld from training, 11 of the 15 fires occurred during a warning from our 10-day model.",
    "topics": [
     "Fire & other hazards"
    ]
@@ -482,7 +482,7 @@
    "open_copy_elsewhere": null,
    "fulltext_markdown": "https://ddempsey.github.io/papers/2025-titus-techno-economic-analysis-geothermal-combined/fulltext.md",
    "bibtex": "https://ddempsey.github.io/papers/2025-titus-techno-economic-analysis-geothermal-combined/citation.bib",
-   "summary": null,
+   "summary": "We modelled geothermal power plants that also remove CO2 from the atmosphere, by burning forestry residues or by capturing CO2 from air, and store it dissolved in reinjected water. At USD 100 per tonne of CO2, the biomass design had the lowest median costs of electricity and of carbon abatement.",
    "topics": [
     "Geothermal systems",
     "CO2 & hydrogen storage"
