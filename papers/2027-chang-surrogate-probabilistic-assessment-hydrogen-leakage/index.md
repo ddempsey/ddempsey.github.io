@@ -8,7 +8,7 @@
 - **Open PDF:** [https://ddempsey.github.io/papers/2027-chang-surrogate-probabilistic-assessment-hydrogen-leakage/chang2027-surrogate-probabilistic-assessment.pdf](https://ddempsey.github.io/papers/2027-chang-surrogate-probabilistic-assessment-hydrogen-leakage/chang2027-surrogate-probabilistic-assessment.pdf) (Published version)
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2027-chang-surrogate-probabilistic-assessment-hydrogen-leakage/fulltext.md](https://ddempsey.github.io/papers/2027-chang-surrogate-probabilistic-assessment-hydrogen-leakage/fulltext.md)
 - **Notice:** Published version, reproduced under the CC BY 4.0 licence. © The Author(s). Version of record: https://doi.org/10.1016/j.fuel.2026.140374
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2027-chang-surrogate-probabilistic-assessment-hydrogen-leakage/citation.bib
 - **Topics:** CO2 & hydrogen storage
 - **Keywords:** Environmental science; Leakage (economics); Probabilistic logic; Petroleum engineering; Hydrogen; Waste management

@@ -8,7 +8,7 @@
 - **Open PDF:** [https://ddempsey.github.io/papers/2012-dempsey-geometric-properties-platelet-ice-crystals/dempsey2012-geometric-properties-platelet.pdf](https://ddempsey.github.io/papers/2012-dempsey-geometric-properties-platelet-ice-crystals/dempsey2012-geometric-properties-platelet.pdf) (Accepted manuscript (peer-reviewed, author's version))
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2012-dempsey-geometric-properties-platelet-ice-crystals/fulltext.md](https://ddempsey.github.io/papers/2012-dempsey-geometric-properties-platelet-ice-crystals/fulltext.md)
 - **Notice:** Accepted manuscript. © 2012. This manuscript version is made available under the CC-BY-NC-ND 4.0 license https://creativecommons.org/licenses/by-nc-nd/4.0/. The version of record is available at https://doi.org/10.1016/j.coldregions.2012.03.002
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2012-dempsey-geometric-properties-platelet-ice-crystals/citation.bib
 - **Topics:** Sea ice
 - **Keywords:** Ice crystals; Materials science; Platelet

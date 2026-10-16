@@ -9,7 +9,7 @@
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2016-dempsey-collective-properties-injection-induced-earthquake/fulltext.md](https://ddempsey.github.io/papers/2016-dempsey-collective-properties-injection-induced-earthquake/fulltext.md)
 - **Notice:** An edited version of this paper was published by AGU. Published 2016 American Geophysical Union. Version of record: https://doi.org/10.1002/2015jb012550
 - **Also in:** UC Research Repository, https://hdl.handle.net/10092/105828
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2016-dempsey-collective-properties-injection-induced-earthquake/citation.bib
 - **Topics:** Induced seismicity & faults; Geothermal systems
 - **Keywords:** Seismology; Induced seismicity; Geology; Fault (geology); Tectonics; Plume; Geothermal gradient

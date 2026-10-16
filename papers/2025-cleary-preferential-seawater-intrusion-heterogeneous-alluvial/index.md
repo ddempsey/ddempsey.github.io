@@ -8,7 +8,7 @@
 - **Open PDF:** [https://ddempsey.github.io/papers/2025-cleary-preferential-seawater-intrusion-heterogeneous-alluvial/cleary2025-preferential-seawater-intrusion.pdf](https://ddempsey.github.io/papers/2025-cleary-preferential-seawater-intrusion-heterogeneous-alluvial/cleary2025-preferential-seawater-intrusion.pdf) (Published version)
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2025-cleary-preferential-seawater-intrusion-heterogeneous-alluvial/fulltext.md](https://ddempsey.github.io/papers/2025-cleary-preferential-seawater-intrusion-heterogeneous-alluvial/fulltext.md)
 - **Notice:** Published version, reproduced under the CC BY 4.0 licence. © The Author(s). Version of record: https://doi.org/10.1016/j.jhydrol.2025.133455
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2025-cleary-preferential-seawater-intrusion-heterogeneous-alluvial/citation.bib
 - **Topics:** Groundwater & hydrology
 - **Keywords:** Submarine pipeline; Geology; Alluvium; Seawater; Groundwater; Hydrology (agriculture); Intrusion; Geotechnical engineering

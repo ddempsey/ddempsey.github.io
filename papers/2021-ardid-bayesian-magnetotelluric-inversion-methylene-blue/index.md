@@ -7,7 +7,7 @@
 - **This page:** https://ddempsey.github.io/papers/2021-ardid-bayesian-magnetotelluric-inversion-methylene-blue/
 - **Open PDF:** [https://ddempsey.github.io/papers/2021-ardid-bayesian-magnetotelluric-inversion-methylene-blue/ardid2021-bayesian-magnetotelluric-inversion.pdf](https://ddempsey.github.io/papers/2021-ardid-bayesian-magnetotelluric-inversion-methylene-blue/ardid2021-bayesian-magnetotelluric-inversion.pdf) (Published version)
 - **Notice:** © 2021 Society of Exploration Geophysicists. Posted under SEG's author rights policy; this version is unmodified. Version of record: https://doi.org/10.1190/geo2020-0226.1. Use is subject to SEG terms of use and conditions.
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2021-ardid-bayesian-magnetotelluric-inversion-methylene-blue/citation.bib
 - **Topics:** Geothermal systems
 - **Keywords:** Geology; Geothermal gradient; Borehole; Electrical conductor; Bayesian probability; Inverse problem; Geophysics

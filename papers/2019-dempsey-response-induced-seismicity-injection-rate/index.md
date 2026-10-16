@@ -9,7 +9,7 @@
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2019-dempsey-response-induced-seismicity-injection-rate/fulltext.md](https://ddempsey.github.io/papers/2019-dempsey-response-induced-seismicity-injection-rate/fulltext.md)
 - **Notice:** An edited version of this paper was published by AGU. Published 2019 American Geophysical Union. Version of record: https://doi.org/10.1029/2018wr023587
 - **Also in:** UC Research Repository, https://hdl.handle.net/10092/105822
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2019-dempsey-response-induced-seismicity-injection-rate/citation.bib
 - **Topics:** Induced seismicity & faults
 - **Keywords:** Induced seismicity; Geology; Seismology; Cabin pressurization; Pore water pressure

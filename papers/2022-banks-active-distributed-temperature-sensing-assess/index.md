@@ -9,7 +9,7 @@
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2022-banks-active-distributed-temperature-sensing-assess/fulltext.md](https://ddempsey.github.io/papers/2022-banks-active-distributed-temperature-sensing-assess/fulltext.md)
 - **Notice:** Accepted manuscript. © 2022. This manuscript version is made available under the CC-BY-NC-ND 4.0 license https://creativecommons.org/licenses/by-nc-nd/4.0/. The version of record is available at https://doi.org/10.1016/j.jhydrol.2022.128667
 - **Also in:** UC Research Repository, https://hdl.handle.net/10092/105673
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2022-banks-active-distributed-temperature-sensing-assess/citation.bib
 - **Topics:** Groundwater & hydrology
 - **Keywords:** Geology; Groundwater; Hydrology (agriculture); Surface water

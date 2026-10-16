@@ -8,7 +8,7 @@
 - **Open PDF:** [https://ddempsey.github.io/papers/2024-chang-molecular-dynamics-insights-gas-water/chang2024-molecular-dynamics-insights.pdf](https://ddempsey.github.io/papers/2024-chang-molecular-dynamics-insights-gas-water/chang2024-molecular-dynamics-insights.pdf) (Accepted manuscript (peer-reviewed, author's version))
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2024-chang-molecular-dynamics-insights-gas-water/fulltext.md](https://ddempsey.github.io/papers/2024-chang-molecular-dynamics-insights-gas-water/fulltext.md)
 - **Notice:** Accepted manuscript. © 2024. This manuscript version is made available under the CC-BY-NC-ND 4.0 license https://creativecommons.org/licenses/by-nc-nd/4.0/. The version of record is available at https://doi.org/10.1016/j.ijhydene.2024.03.341
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2024-chang-molecular-dynamics-insights-gas-water/citation.bib
 - **Topics:** CO2 & hydrogen storage
 - **Keywords:** Adsorption; Surface tension; Hydrogen; Chemistry; Diffusion; Molecular dynamics; Chemical engineering; Chemical physics

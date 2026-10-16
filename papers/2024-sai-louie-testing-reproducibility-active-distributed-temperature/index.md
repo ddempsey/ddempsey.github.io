@@ -8,7 +8,7 @@
 - **Open PDF:** [https://ddempsey.github.io/papers/2024-sai-louie-testing-reproducibility-active-distributed-temperature/sai-louie2024-louie-testing-reproducibility.pdf](https://ddempsey.github.io/papers/2024-sai-louie-testing-reproducibility-active-distributed-temperature/sai-louie2024-louie-testing-reproducibility.pdf) (Published version)
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2024-sai-louie-testing-reproducibility-active-distributed-temperature/fulltext.md](https://ddempsey.github.io/papers/2024-sai-louie-testing-reproducibility-active-distributed-temperature/fulltext.md)
 - **Notice:** Published version, reproduced under the CC BY 4.0 licence. © The Author(s). Version of record: https://doi.org/10.1016/j.jhydrol.2024.130877
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2024-sai-louie-testing-reproducibility-active-distributed-temperature/citation.bib
 - **Topics:** Groundwater & hydrology
 - **Keywords:** Reproducibility; Groundwater; Hydrology (agriculture); Geology; Environmental science; Soil science

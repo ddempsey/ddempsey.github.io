@@ -1,6 +1,6 @@
 # David Dempsey: all papers, with summaries
 
-Source: https://ddempsey.github.io/ (generated 2026-10-16). Cite the DOI for each paper.
+Source: https://ddempsey.github.io/ (generated 2026-10-17). Cite the DOI for each paper.
 
 ---
 

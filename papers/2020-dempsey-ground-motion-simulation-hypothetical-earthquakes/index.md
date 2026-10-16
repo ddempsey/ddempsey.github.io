@@ -9,7 +9,7 @@
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2020-dempsey-ground-motion-simulation-hypothetical-earthquakes/fulltext.md](https://ddempsey.github.io/papers/2020-dempsey-ground-motion-simulation-hypothetical-earthquakes/fulltext.md)
 - **Notice:** This is an Accepted Manuscript of an article published by Taylor & Francis in New Zealand Journal of Geology and Geophysics in 2020, available at: https://doi.org/10.1080/00288306.2020.1842469
 - **Also in:** UC Research Repository, https://hdl.handle.net/10092/103195
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2020-dempsey-ground-motion-simulation-hypothetical-earthquakes/citation.bib
 - **Topics:** Induced seismicity & faults; Fire & other hazards
 - **Keywords:** Geology; Seismology; Fault (geology); Population; Flood myth; Ground motion; Tsunami wave

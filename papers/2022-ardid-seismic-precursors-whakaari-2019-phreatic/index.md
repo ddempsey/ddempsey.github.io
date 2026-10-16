@@ -9,7 +9,7 @@
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2022-ardid-seismic-precursors-whakaari-2019-phreatic/fulltext.md](https://ddempsey.github.io/papers/2022-ardid-seismic-precursors-whakaari-2019-phreatic/fulltext.md)
 - **Notice:** Published version, reproduced under the CC BY 4.0 licence. © The Author(s). Version of record: https://doi.org/10.1038/s41467-022-29681-y
 - **Also in:** UC Research Repository, https://hdl.handle.net/10092/105669
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2022-ardid-seismic-precursors-whakaari-2019-phreatic/citation.bib
 - **Topics:** Volcanoes & eruption forecasting; Induced seismicity & faults
 - **Keywords:** Volcano; Geology; Seismology; Cabin pressurization

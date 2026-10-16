@@ -8,7 +8,7 @@
 - **Open PDF:** [https://ddempsey.github.io/papers/2026-parker-machine-learning-classification-torlesse-composite/parker2026-machine-learning-classification.pdf](https://ddempsey.github.io/papers/2026-parker-machine-learning-classification-torlesse-composite/parker2026-machine-learning-classification.pdf) (Published version)
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2026-parker-machine-learning-classification-torlesse-composite/fulltext.md](https://ddempsey.github.io/papers/2026-parker-machine-learning-classification-torlesse-composite/fulltext.md)
 - **Notice:** Published version, reproduced under the CC BY-NC-ND 4.0 licence. © The Author(s). Version of record: https://doi.org/10.1002/jgo2.70064
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2026-parker-machine-learning-classification-torlesse-composite/citation.bib
 - **Keywords:** Geology; Provenance; Sediment; Geochemistry
 

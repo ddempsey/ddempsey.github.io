@@ -8,7 +8,7 @@
 - **Open PDF:** [https://ddempsey.github.io/papers/2025-ardid-forecasting-eruptions-steamboat-geyser-time/ardid2025-forecasting-eruptions-steamboat.pdf](https://ddempsey.github.io/papers/2025-ardid-forecasting-eruptions-steamboat-geyser-time/ardid2025-forecasting-eruptions-steamboat.pdf) (Published version)
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2025-ardid-forecasting-eruptions-steamboat-geyser-time/fulltext.md](https://ddempsey.github.io/papers/2025-ardid-forecasting-eruptions-steamboat-geyser-time/fulltext.md)
 - **Notice:** Published version, reproduced under the CC BY-NC-ND 4.0 licence. © The Author(s). Version of record: https://doi.org/10.1029/2024jh000569
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2025-ardid-forecasting-eruptions-steamboat-geyser-time/citation.bib
 - **Topics:** Volcanoes & eruption forecasting; Induced seismicity & faults
 - **Keywords:** Seismology; Geology; Differentiable function

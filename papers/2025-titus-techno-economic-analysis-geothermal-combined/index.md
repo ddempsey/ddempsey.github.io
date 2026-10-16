@@ -8,7 +8,7 @@
 - **Open PDF:** [https://ddempsey.github.io/papers/2025-titus-techno-economic-analysis-geothermal-combined/titus2025-techno-economic-analysis.pdf](https://ddempsey.github.io/papers/2025-titus-techno-economic-analysis-geothermal-combined/titus2025-techno-economic-analysis.pdf) (Published version)
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2025-titus-techno-economic-analysis-geothermal-combined/fulltext.md](https://ddempsey.github.io/papers/2025-titus-techno-economic-analysis-geothermal-combined/fulltext.md)
 - **Notice:** Published version, reproduced under the CC BY 4.0 licence. © The Author(s). Version of record: https://doi.org/10.1016/j.geothermics.2024.103159
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2025-titus-techno-economic-analysis-geothermal-combined/citation.bib
 - **Topics:** Geothermal systems; CO2 & hydrogen storage
 - **Keywords:** Geothermal gradient; Hydrothermal circulation; Carbon dioxide; Biomass (ecology); Environmental science

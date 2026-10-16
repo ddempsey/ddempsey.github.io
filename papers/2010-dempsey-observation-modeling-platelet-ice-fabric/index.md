@@ -9,7 +9,7 @@
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2010-dempsey-observation-modeling-platelet-ice-fabric/fulltext.md](https://ddempsey.github.io/papers/2010-dempsey-observation-modeling-platelet-ice-fabric/fulltext.md)
 - **Notice:** Published version, posted under AGU's author self-archiving policy. © 2010 American Geophysical Union. All Rights Reserved. Version of record: https://doi.org/10.1029/2008jc005264
 - **Also in:** UC Research Repository, https://hdl.handle.net/10092/107328
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2010-dempsey-observation-modeling-platelet-ice-fabric/citation.bib
 - **Topics:** Sea ice
 - **Keywords:** Sea ice; Geology; Ice crystals

@@ -8,7 +8,7 @@
 - **Open PDF:** [https://ddempsey.github.io/papers/2023-dempsey-physics-forecasting-induced-seismicity-groningen/dempsey2023-physics-forecasting-induced.pdf](https://ddempsey.github.io/papers/2023-dempsey-physics-forecasting-induced-seismicity-groningen/dempsey2023-physics-forecasting-induced.pdf) (Accepted manuscript (peer-reviewed, author's version))
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2023-dempsey-physics-forecasting-induced-seismicity-groningen/fulltext.md](https://ddempsey.github.io/papers/2023-dempsey-physics-forecasting-induced-seismicity-groningen/fulltext.md)
 - **Notice:** Accepted manuscript. The version of record, published by the Seismological Society of America in Seismological Research Letters, is at https://doi.org/10.1785/0220220317. Not for commercial redistribution.
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2023-dempsey-physics-forecasting-induced-seismicity-groningen/citation.bib
 - **Topics:** Induced seismicity & faults
 - **Keywords:** Induced seismicity; Magnitude (astronomy); Geology; Rollover (web design); Seismology

@@ -9,7 +9,7 @@
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2021-ardid-heat-transfer-wairakei-tauhara-geothermal/fulltext.md](https://ddempsey.github.io/papers/2021-ardid-heat-transfer-wairakei-tauhara-geothermal/fulltext.md)
 - **Notice:** Published version, posted under AGU's author self-archiving policy. © 2021 American Geophysical Union. All Rights Reserved. Version of record: https://doi.org/10.1029/2020gl092056
 - **Also in:** UC Research Repository, https://hdl.handle.net/10092/105816
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2021-ardid-heat-transfer-wairakei-tauhara-geothermal/citation.bib
 - **Topics:** Geothermal systems
 - **Keywords:** Geothermal gradient; Geology; Lithology; Heat transfer; Petrology

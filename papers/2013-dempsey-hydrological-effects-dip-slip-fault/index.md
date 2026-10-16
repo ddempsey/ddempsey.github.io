@@ -8,7 +8,7 @@
 - **Open PDF:** [https://ddempsey.github.io/papers/2013-dempsey-hydrological-effects-dip-slip-fault/dempsey2013-hydrological-effects-dip.pdf](https://ddempsey.github.io/papers/2013-dempsey-hydrological-effects-dip-slip-fault/dempsey2013-hydrological-effects-dip.pdf) (Published version)
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2013-dempsey-hydrological-effects-dip-slip-fault/fulltext.md](https://ddempsey.github.io/papers/2013-dempsey-hydrological-effects-dip-slip-fault/fulltext.md)
 - **Notice:** Published version, posted under AGU's author self-archiving policy. © 2013 American Geophysical Union. All Rights Reserved. Version of record: https://doi.org/10.1029/2012jb009395
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2013-dempsey-hydrological-effects-dip-slip-fault/citation.bib
 - **Topics:** Induced seismicity & faults; Geothermal systems; Groundwater & hydrology
 - **Keywords:** Geology; Fluid dynamics; Petrology; Geothermal gradient; Pore water pressure; Slip (aerodynamics); Fault (geology); Hydrothermal circulation

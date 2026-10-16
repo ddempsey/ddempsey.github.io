@@ -9,7 +9,7 @@
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2022-dempsey-evaluation-short-term-probabilistic-eruption/fulltext.md](https://ddempsey.github.io/papers/2022-dempsey-evaluation-short-term-probabilistic-eruption/fulltext.md)
 - **Notice:** Published version, reproduced under the CC BY 4.0 licence. © The Author(s). Version of record: https://doi.org/10.1007/s00445-022-01600-5
 - **Also in:** UC Research Repository, https://hdl.handle.net/10092/105840
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2022-dempsey-evaluation-short-term-probabilistic-eruption/citation.bib
 - **Topics:** Volcanoes & eruption forecasting; Induced seismicity & faults
 - **Keywords:** Probabilistic logic; Geology; Seismology; Earthquake prediction; Volcano; Warning system; Term (time)

@@ -9,7 +9,7 @@
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/fulltext.md](https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/fulltext.md)
 - **Notice:** Published version, reproduced under the CC BY 4.0 licence. © The Author(s). Version of record: https://doi.org/10.1038/s41467-020-17375-2
 - **Also in:** UC Research Repository, https://hdl.handle.net/10092/105819
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2020-dempsey-automatic-precursor-recognition-real-time/citation.bib
 - **Topics:** Volcanoes & eruption forecasting
 - **Keywords:** Volcano; Warning system; Explosive material; Seismology; Geology

@@ -9,7 +9,7 @@
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2021-kelly-hydrothermal-cooling-requirement-short-storage/fulltext.md](https://ddempsey.github.io/papers/2021-kelly-hydrothermal-cooling-requirement-short-storage/fulltext.md)
 - **Notice:** Published version, posted under AGU's author self-archiving policy. © 2021 American Geophysical Union. All Rights Reserved. Version of record: https://doi.org/10.1029/2021gc009794
 - **Also in:** UC Research Repository, https://hdl.handle.net/10092/105818
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2021-kelly-hydrothermal-cooling-requirement-short-storage/citation.bib
 - **Topics:** Volcanoes & eruption forecasting; Geothermal systems; CO2 & hydrogen storage
 - **Keywords:** Geology; Volcano; Hydrothermal circulation; Convection; Petrology

@@ -8,7 +8,7 @@
 - **Open PDF:** [https://ddempsey.github.io/papers/2024-sanchez-alfaro-earthquakes-trigger-rapid-flash-boiling/sanchez‐alfaro2024-alfaro-earthquakes-trigger.pdf](https://ddempsey.github.io/papers/2024-sanchez-alfaro-earthquakes-trigger-rapid-flash-boiling/sanchez‐alfaro2024-alfaro-earthquakes-trigger.pdf) (Published version)
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2024-sanchez-alfaro-earthquakes-trigger-rapid-flash-boiling/fulltext.md](https://ddempsey.github.io/papers/2024-sanchez-alfaro-earthquakes-trigger-rapid-flash-boiling/fulltext.md)
 - **Notice:** Published version, reproduced under the CC BY-NC-ND 4.0 licence. © The Author(s). Version of record: https://doi.org/10.1029/2023gl108109
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2024-sanchez-alfaro-earthquakes-trigger-rapid-flash-boiling/citation.bib
 - **Topics:** Induced seismicity & faults
 - **Keywords:** Geology; Front (military); Boiling; Flash (photography)

@@ -9,7 +9,7 @@
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2017-dempsey-physics-forecasting-induced-seismicity-groningen/fulltext.md](https://ddempsey.github.io/papers/2017-dempsey-physics-forecasting-induced-seismicity-groningen/fulltext.md)
 - **Notice:** An edited version of this paper was published by AGU. Published 2017 American Geophysical Union. Version of record: https://doi.org/10.1002/2017gl073878
 - **Also in:** UC Research Repository, https://hdl.handle.net/10092/105824
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2017-dempsey-physics-forecasting-induced-seismicity-groningen/citation.bib
 - **Topics:** Induced seismicity & faults
 - **Keywords:** Induced seismicity; Seismology; Bayesian probability; Geology; Extraction (chemistry); Poisson distribution

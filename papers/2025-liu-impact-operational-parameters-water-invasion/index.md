@@ -8,7 +8,7 @@
 - **Open PDF:** [https://ddempsey.github.io/papers/2025-liu-impact-operational-parameters-water-invasion/liu2025-impact-operational-parameters.pdf](https://ddempsey.github.io/papers/2025-liu-impact-operational-parameters-water-invasion/liu2025-impact-operational-parameters.pdf) (Published version)
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2025-liu-impact-operational-parameters-water-invasion/fulltext.md](https://ddempsey.github.io/papers/2025-liu-impact-operational-parameters-water-invasion/fulltext.md)
 - **Notice:** Published version, reproduced under the CC BY 4.0 licence. © The Author(s). Version of record: https://doi.org/10.1016/j.ijhydene.2025.150236
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2025-liu-impact-operational-parameters-water-invasion/citation.bib
 - **Topics:** CO2 & hydrogen storage
 - **Keywords:** Field (mathematics); Environmental science; Hydrogen

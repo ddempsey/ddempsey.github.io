@@ -8,7 +8,7 @@
 - **Open PDF:** [https://ddempsey.github.io/papers/2023-ardid-template-matching-detect-hidden-fluid/ardid2023-template-matching-detect.pdf](https://ddempsey.github.io/papers/2023-ardid-template-matching-detect-hidden-fluid/ardid2023-template-matching-detect.pdf) (Published version)
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2023-ardid-template-matching-detect-hidden-fluid/fulltext.md](https://ddempsey.github.io/papers/2023-ardid-template-matching-detect-hidden-fluid/fulltext.md)
 - **Notice:** Published version, posted under AGU's author self-archiving policy. © 2023 American Geophysical Union. All Rights Reserved. Version of record: https://doi.org/10.1029/2023jb026729
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2023-ardid-template-matching-detect-hidden-fluid/citation.bib
 - **Topics:** Volcanoes & eruption forecasting; Induced seismicity & faults; Geothermal systems
 - **Keywords:** Impact crater; Geology; Volcano; Hydrothermal circulation; Seismology; Electrical conduit; Petrology; Induced seismicity

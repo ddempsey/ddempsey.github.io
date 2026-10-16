@@ -8,7 +8,7 @@
 - **Open PDF:** [https://ddempsey.github.io/papers/2023-bosserelle-shallow-groundwater-characterisation-hydrograph-classification/bosserelle2023-shallow-groundwater-characterisation.pdf](https://ddempsey.github.io/papers/2023-bosserelle-shallow-groundwater-characterisation-hydrograph-classification/bosserelle2023-shallow-groundwater-characterisation.pdf) (Published version)
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2023-bosserelle-shallow-groundwater-characterisation-hydrograph-classification/fulltext.md](https://ddempsey.github.io/papers/2023-bosserelle-shallow-groundwater-characterisation-hydrograph-classification/fulltext.md)
 - **Notice:** Published version, reproduced under the CC BY 4.0 licence. © The Author(s). Version of record: https://doi.org/10.1007/s10040-023-02745-z
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2023-bosserelle-shallow-groundwater-characterisation-hydrograph-classification/citation.bib
 - **Topics:** Groundwater & hydrology
 - **Keywords:** Groundwater; Hydrology (agriculture); Hydrogeology; Flooding (psychology); Environmental science

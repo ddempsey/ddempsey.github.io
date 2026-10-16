@@ -8,7 +8,7 @@
 - **Open PDF:** [https://ddempsey.github.io/papers/2026-ardid-socio-economic-value-data-driven/ardid2026-socio-economic-value.pdf](https://ddempsey.github.io/papers/2026-ardid-socio-economic-value-data-driven/ardid2026-socio-economic-value.pdf) (Published version)
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2026-ardid-socio-economic-value-data-driven/fulltext.md](https://ddempsey.github.io/papers/2026-ardid-socio-economic-value-data-driven/fulltext.md)
 - **Notice:** Published version, reproduced under the CC BY 4.0 licence. © The Author(s). Version of record: https://doi.org/10.1038/s41467-026-77242-4
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2026-ardid-socio-economic-value-data-driven/citation.bib
 - **Topics:** Volcanoes & eruption forecasting
 - **Keywords:** Warning system; Value (mathematics); Balance (ability)

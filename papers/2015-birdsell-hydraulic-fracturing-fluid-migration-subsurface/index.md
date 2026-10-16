@@ -9,7 +9,7 @@
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2015-birdsell-hydraulic-fracturing-fluid-migration-subsurface/fulltext.md](https://ddempsey.github.io/papers/2015-birdsell-hydraulic-fracturing-fluid-migration-subsurface/fulltext.md)
 - **Notice:** An edited version of this paper was published by AGU. Published 2015 American Geophysical Union. Version of record: https://doi.org/10.1002/2015wr017810
 - **Also in:** UC Research Repository, https://hdl.handle.net/10092/105829
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2015-birdsell-hydraulic-fracturing-fluid-migration-subsurface/citation.bib
 - **Topics:** Induced seismicity & faults
 - **Keywords:** Hydraulic fracturing; Geology; Petroleum engineering; Oil shale; Fluid dynamics; Petrology

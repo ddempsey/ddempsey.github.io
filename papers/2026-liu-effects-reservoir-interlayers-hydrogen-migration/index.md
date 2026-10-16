@@ -8,7 +8,7 @@
 - **Open PDF:** [https://ddempsey.github.io/papers/2026-liu-effects-reservoir-interlayers-hydrogen-migration/liu2026-effects-reservoir-interlayers.pdf](https://ddempsey.github.io/papers/2026-liu-effects-reservoir-interlayers-hydrogen-migration/liu2026-effects-reservoir-interlayers.pdf) (Published version)
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2026-liu-effects-reservoir-interlayers-hydrogen-migration/fulltext.md](https://ddempsey.github.io/papers/2026-liu-effects-reservoir-interlayers-hydrogen-migration/fulltext.md)
 - **Notice:** Published version, reproduced under the CC BY 4.0 licence. © The Author(s). Version of record: https://doi.org/10.1016/j.ijhydene.2026.153704
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2026-liu-effects-reservoir-interlayers-hydrogen-migration/citation.bib
 - **Topics:** CO2 & hydrogen storage
 - **Keywords:** Hydrogen; Materials science; Environmental science; Work (physics); Porosity; Consistency (knowledge bases)

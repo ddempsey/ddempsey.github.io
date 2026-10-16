@@ -9,7 +9,7 @@
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2023-yu-association-injection-microseismicity-geothermal-fields/fulltext.md](https://ddempsey.github.io/papers/2023-yu-association-injection-microseismicity-geothermal-fields/fulltext.md)
 - **Notice:** Published version, reproduced under the CC BY 4.0 licence. © The Author(s). Version of record: https://doi.org/10.1029/2022jb025952
 - **Also in:** UC Research Repository, https://hdl.handle.net/10092/105665
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2023-yu-association-injection-microseismicity-geothermal-fields/citation.bib
 - **Topics:** Induced seismicity & faults; Geothermal systems; Sea ice
 - **Keywords:** Induced seismicity; Geothermal gradient; Geology; Context (archaeology); Injection well; Hydraulic fracturing

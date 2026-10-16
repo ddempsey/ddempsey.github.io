@@ -9,7 +9,7 @@
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2012-dempsey-modeling-effects-silica-deposition-fault/fulltext.md](https://ddempsey.github.io/papers/2012-dempsey-modeling-effects-silica-deposition-fault/fulltext.md)
 - **Notice:** Published version, posted under AGU's author self-archiving policy. © 2012 American Geophysical Union. All Rights Reserved. Version of record: https://doi.org/10.1029/2012jb009218
 - **Also in:** UC Research Repository, https://hdl.handle.net/10092/107327
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2012-dempsey-modeling-effects-silica-deposition-fault/citation.bib
 - **Topics:** Volcanoes & eruption forecasting; Induced seismicity & faults; Geothermal systems
 - **Keywords:** Geothermal gradient; Geology; Petrology; Plume; Volcano; Hydrothermal circulation; Dissolution; Geomorphology

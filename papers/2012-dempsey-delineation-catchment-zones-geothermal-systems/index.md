@@ -8,7 +8,7 @@
 - **Open PDF:** [https://ddempsey.github.io/papers/2012-dempsey-delineation-catchment-zones-geothermal-systems/dempsey2012-delineation-catchment-zones.pdf](https://ddempsey.github.io/papers/2012-dempsey-delineation-catchment-zones-geothermal-systems/dempsey2012-delineation-catchment-zones.pdf) (Published version)
 - **Full text (Markdown):** [https://ddempsey.github.io/papers/2012-dempsey-delineation-catchment-zones-geothermal-systems/fulltext.md](https://ddempsey.github.io/papers/2012-dempsey-delineation-catchment-zones-geothermal-systems/fulltext.md)
 - **Notice:** Published version, posted under AGU's author self-archiving policy. © 2012 American Geophysical Union. All Rights Reserved. Version of record: https://doi.org/10.1029/2012jb009515
-- **Explainer:** all explainers on this site are AI-generated and human-checked.
+- **Explainer:** all explainers on this site are AI-generated.
 - **BibTeX:** https://ddempsey.github.io/papers/2012-dempsey-delineation-catchment-zones-geothermal-systems/citation.bib
 - **Topics:** Volcanoes & eruption forecasting; Geothermal systems
 - **Keywords:** Geothermal gradient; Geology; Convection; Crust; Volcano; Geophysics; Petrology
